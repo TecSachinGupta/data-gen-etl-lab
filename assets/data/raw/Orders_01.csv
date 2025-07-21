@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,order_date,order_time,quantity,unit_price,discount,total_price,supplier_id,payment_method,shipping_address,shipping_city,shipping_state,shipping_country,shipping_postal_code,billing_address,billing_city,billing_state,billing_country,billing_postal_code,tracking_number,status
+1,1,1,6/21/2021,22.6,47,778.24,0.46,2941.49,1,debit card,939 Warner Terrace,Ribeira Seca,42,Portugal,9600-213,75604 Rigney Hill,Isugod,,Philippines,4336,7050962131,shipped
+2,2,2,6/22/2021,4.71,53,886.45,0.21,3213.97,2,credit card,2 Ridge Oak Avenue,Nyala,,Sudan,,17338 Esker Plaza,Brongkah,,Indonesia,,5875852643,processing
+3,3,3,6/22/2022,10.57,98,925.97,0.29,9675.58,3,debit card,99007 Northport Hill,Alilem,,Philippines,2716,8 David Point,Mora,,Cameroon,,5913990559,shipped
+4,4,4,12/31/2021,8.89,73,735.68,0.98,5837.88,4,debit card,48 Delladonna Junction,Sakon Nakhon,,Thailand,21110,0272 Orin Circle,Qidu,,China,,9995256736,processing
+5,5,5,5/6/2020,8.59,37,55.49,0.75,3078.32,5,credit card,22278 Loftsgordon Lane,El Pardo,,Philippines,6337,59351 Bellgrove Center,Mysiadło,,Poland,05-509,9494009301,delivered
+6,6,6,10/9/2022,4.64,32,888.09,0.68,7697.82,6,debit card,030 Stoughton Crossing,Jenesano,,Colombia,153608,19 Westend Park,Pueblo Nuevo,,Peru,,9834984591,shipped
+7,7,7,8/19/2021,1.66,20,984.54,0.9,6501.72,7,debit card,923 Vernon Terrace,Zhanghekou,,China,,3 Londonderry Avenue,Resapombo,,Indonesia,,7260225419,delivered
+8,8,8,2/6/2020,13.97,76,327.61,0.79,2444.56,8,debit card,02220 Northridge Avenue,Aldeia de Juzo,11,Portugal,2750-015,3000 Wayridge Court,Dakhla,,Western Sahara,,9665254910,shipped
+9,9,9,5/20/2022,5.16,7,443.44,0.43,4128.2,9,debit card,7 Gulseth Pass,Seremban,NSN,Malaysia,70604,9 Debra Crossing,Frankfort,KY,United States,40618,2817521182,shipped
+10,10,10,5/15/2020,13.54,70,89.97,0.59,268.32,10,cash,9 Cottonwood Point,União da Vitória,,Brazil,84600-000,0244 Vera Avenue,Sargodha,,Pakistan,67391,7591679109,delivered
+11,11,11,4/4/2020,4.99,5,687.92,0.29,2876.48,11,debit card,82422 Prairieview Park,Bayside,,Ireland,D13,0 Steensland Circle,Tarusa,,Russia,249111,4719696151,shipped
+12,12,12,4/21/2022,23.11,79,484.24,0.13,5061.65,12,debit card,9123 Acker Hill,Kamenné Žehrovice,,Czech Republic,273 01,99 Dixon Hill,Dakhla,,Western Sahara,,4367252367,delivered
+13,13,13,1/20/2020,20.84,44,726.21,0.89,9915.21,13,debit card,66 Old Shore Road,Bang Rakam,,Thailand,65140,920 Stone Corner Terrace,Bombarral,10,Portugal,2540-006,1762758830,pending
+14,14,14,6/19/2021,7.47,5,269.36,0.97,5369.88,14,debit card,4290 Iowa Place,Cañete,,Chile,,3 Lien Crossing,Saurama,,Peru,,3672631079,pending
+15,15,15,11/19/2021,20.89,40,859.3,0.44,222.25,15,credit card,229 Everett Lane,Tallahassee,FL,United States,32304,580 Meadow Vale Place,Semey,,Kazakhstan,,9995333538,delivered
+16,16,16,4/3/2021,20.6,51,271.3,0.52,2457.11,16,credit card,5938 Sundown Place,Marston,ENG,United Kingdom,ST20,3729 Weeping Birch Lane,Sinjār,,Syria,,2726127661,processing
+17,17,17,7/7/2022,11.43,87,745.4,0.67,1864.73,17,cash,402 Elgar Plaza,Sotomayor,,Bolivia,,03 Eagle Crest Parkway,Muravlenko,,Russia,102293,5652557729,processing
+18,18,18,12/28/2021,5.09,66,832.12,0.82,2989.6,18,credit card,890 Anhalt Road,Canutama,,Brazil,69820-000,10551 Straubel Place,Uyugan,,Philippines,3903,9770094933,shipped
+19,19,19,3/13/2022,4.98,97,75.3,0.74,3115.78,19,cash,38266 Coolidge Parkway,Grenoble,B9,France,38035 CEDEX 2,86 Maple Trail,Cowansville,QC,Canada,J2K,8172008979,delivered
+20,20,20,8/10/2021,19.79,37,199.76,0.99,5752.68,20,credit card,889 Arrowood Point,Hashtpar,,Iran,,265 Bashford Lane,Kose,,Estonia,,3685384973,shipped
+21,21,21,3/12/2022,13.4,16,490.86,0.07,3886.68,21,credit card,30543 Thompson Alley,Yixin,,China,,7054 Esker Circle,Luso,01,Portugal,3050-225,8552904579,pending
+22,22,22,2/24/2021,7.91,28,451.32,0.33,8944.07,22,debit card,3129 Cardinal Hill,Nangabulik,,Indonesia,,98097 Weeping Birch Drive,San Manuel,,Philippines,2438,2055939880,shipped
+23,23,23,3/25/2021,2.4,82,301.23,0.18,6278.35,23,credit card,40342 Talisman Park,Tucaní,,Venezuela,,28 Katie Center,Magisterial,VER,Mexico,92934,3551517125,delivered
+24,24,24,1/18/2022,4.88,41,8.51,0.39,9218.98,24,credit card,17 Everett Place,Danglang Hudong,,China,,0 Bunting Crossing,Chandler,AZ,United States,85246,5516830692,processing
+25,25,25,7/17/2022,2.09,8,686.0,0.69,3980.55,25,cash,67 Atwood Street,Dasi,,China,,5774 Memorial Parkway,Calvário,01,Portugal,3740-228,6158108428,processing
+26,26,26,5/24/2021,6.71,43,14.29,0.79,8884.04,26,cash,28 Forest Run Circle,Itatinga,,Brazil,18690-000,29 Cody Point,Wąbrzeźno,,Poland,87-201,5530823835,pending
+27,27,27,5/19/2022,9.0,72,929.77,0.87,3222.51,27,cash,9 Grover Crossing,Yuracyacu,,Peru,,4142 Bluejay Drive,Dahay,,Philippines,9512,1433986998,shipped
+28,28,28,4/21/2020,13.6,93,240.9,0.32,5901.86,28,debit card,8 Bowman Drive,Lage,16,Portugal,4960-160,5275 Village Circle,Onueke,,Nigeria,,8492808153,shipped
+29,29,29,9/4/2020,5.04,39,883.11,0.86,9566.94,29,cash,67117 Armistice Crossing,Fubin,,China,,542 Pine View Road,Waiwukak,,Indonesia,,4260872140,shipped
+30,30,30,7/20/2020,3.86,50,722.05,0.99,7771.06,30,debit card,491 Kennedy Way,Janikowo,,Poland,88-160,5310 Cardinal Terrace,Kwangyang,,South Korea,,6619974676,processing
+31,31,31,2/6/2021,23.52,37,173.25,0.19,1767.64,31,cash,858 Sundown Place,Sangpi,,China,,06145 Jana Circle,Wangqu,,China,,4190850860,processing
+32,32,32,6/8/2022,8.87,15,690.79,0.94,5884.05,32,debit card,482 Ohio Crossing,Yuekou,,China,,84 Shasta Junction,Longxi,,China,,2028743815,processing
+33,33,33,12/3/2021,20.33,9,810.83,0.11,3269.24,33,debit card,286 Norway Maple Lane,Capitán Bermúdez,,Argentina,2156,336 Packers Court,Napel,,Indonesia,,4352539851,delivered
+34,34,34,7/10/2021,14.01,79,889.52,0.48,9145.11,34,debit card,2 Clemons Junction,Floreşti,,Moldova,MD-5040,9651 Commercial Road,Witzenhausen,HE,Germany,37217,3106321535,shipped
+35,35,35,3/23/2020,6.26,6,148.22,0.78,100.17,35,debit card,04480 Moland Crossing,Serrinha,13,Portugal,4620-400,148 Cascade Parkway,Białaczów,,Poland,26-307,8644014811,pending
+36,36,36,11/16/2021,21.83,33,413.71,0.35,5123.87,36,credit card,4840 Cascade Plaza,Courbevoie,A8,France,92671 CEDEX,17279 Becker Terrace,Colomi,,Bolivia,,2115171515,delivered
+37,37,37,5/5/2022,20.11,73,707.04,0.5,1199.59,37,credit card,7 Haas Trail,Aizkraukle,,Latvia,,9 Westerfield Road,Mölndal,O,Sweden,431 10,6027940745,delivered
+38,38,38,5/31/2022,7.64,69,399.58,0.2,4948.82,38,debit card,189 Oxford Alley,Cotia,,Brazil,06700-000,49 Vahlen Drive,Modosinal,,Indonesia,,3096834018,delivered
+39,39,39,3/21/2021,1.74,91,640.92,1.0,5987.77,39,cash,3151 Kim Court,Lasehao,,Indonesia,,0 Atwood Hill,Mhlambanyatsi,,Swaziland,,3542702058,pending
+40,40,40,8/19/2021,1.68,52,136.3,0.55,8574.81,40,credit card,7 Lillian Way,San Rafael Petzal,,Guatemala,13028,1 Northview Junction,Borzoy,,Russia,366406,6015462908,shipped
+41,41,41,1/11/2020,10.71,2,622.4,0.52,1788.07,41,debit card,299 Logan Parkway,Gorna Oryakhovitsa,,Bulgaria,5145,39102 Starling Trail,Pavlohrad,,Ukraine,,5611626152,pending
+42,42,42,1/12/2021,15.59,30,730.63,0.48,2396.09,42,credit card,08 Doe Crossing Road,Shiwan,,China,,93 Meadow Ridge Circle,Kousa,,Egypt,,7489804042,processing
+43,43,43,3/1/2021,23.11,45,402.75,0.26,835.96,43,credit card,8 Acker Alley,Vólos,,Greece,,745 Roxbury Terrace,Huchang,,China,,7445262927,processing
+44,44,44,8/10/2021,0.14,45,618.64,0.35,3228.9,44,cash,0999 Donald Place,Hekou,,China,,4423 Waxwing Alley,Hongsi,,China,,8423103749,processing
+45,45,45,1/24/2021,16.03,86,870.24,0.07,3200.39,45,cash,20 Sloan Avenue,Salamrejo,,Indonesia,,92 Novick Circle,Ugac Sur,,Philippines,3501,7431942500,shipped
+46,46,46,8/14/2020,2.16,45,559.8,0.27,7403.86,46,cash,3 Northland Way,Oja,,Indonesia,,4676 Ramsey Alley,Toledo,OH,United States,43605,8819117695,pending
+47,47,47,6/24/2021,14.3,43,487.84,0.34,1264.33,47,cash,479 Glendale Lane,Balangiga,,Philippines,6812,481 Johnson Drive,Baise City,,China,,5258654293,shipped
+48,48,48,1/27/2021,8.18,90,628.65,0.54,7174.19,48,debit card,07049 North Parkway,Pongola,,South Africa,3171,01651 Clyde Gallagher Terrace,Estreito,,Brazil,65975-000,1750693136,shipped
+49,49,49,3/31/2022,1.73,51,59.55,0.67,1697.72,49,cash,169 Bashford Circle,Sere,,Indonesia,,6 Rockefeller Alley,Bukama,,Democratic Republic of the Congo,,1944742196,shipped
+50,50,50,5/23/2020,15.18,21,929.53,0.61,9973.3,50,credit card,146 Meadow Vale Crossing,Kthella e Epërme,,Albania,,14 Namekagon Parkway,Spuž,,Montenegro,,9745621752,pending
+51,51,51,9/24/2021,11.71,76,438.65,0.31,7659.04,51,debit card,0 Blaine Place,Sumberrejo,,Indonesia,,85659 Sutherland Center,Savitaipale,,Finland,54801,1739688351,processing
+52,52,52,4/11/2021,7.77,19,134.06,0.03,7080.19,52,debit card,720 Judy Circle,Qinghe,,China,,512 Knutson Center,Wenheng,,China,,4115118879,processing
+53,53,53,8/3/2022,5.61,92,501.18,0.46,6404.92,53,cash,84 Corscot Plaza,Wuyang,,China,,47929 Comanche Parkway,Jovellar,,Philippines,4515,7820414090,processing
+54,54,54,9/3/2022,15.17,21,494.59,0.37,9543.04,54,credit card,9299 Pankratz Trail,Baiyang,,China,,2869 Fordem Street,Düsseldorf,NW,Germany,40225,4657954889,delivered
+55,55,55,5/10/2022,17.65,50,933.44,0.16,2125.33,55,cash,70610 Lindbergh Center,Bertioga,,Brazil,11250-000,32931 Russell Point,Dagur,,China,,9735309404,processing
+56,56,56,3/1/2020,2.8,91,539.7,0.21,6200.03,56,cash,4 Buhler Place,Ḩajjah,,Palestinian Territory,,5835 Paget Plaza,Reims,A4,France,51064 CEDEX,7239386362,shipped
+57,57,57,6/9/2021,11.81,6,981.12,0.82,1049.95,57,credit card,51 Dixon Lane,Heicheng,,China,,9649 Hallows Drive,Neringa,,Lithuania,93017,6029444851,processing
+58,58,58,3/8/2022,11.55,77,396.0,0.8,1846.5,58,cash,9 Golf Course Street,Langley,ENG,United Kingdom,SG4,206 Armistice Center,Vatutine,,Ukraine,,5720193267,pending
+59,59,59,6/27/2020,6.93,66,748.72,0.86,3660.23,59,cash,7 Mallard Street,Sydney,NSW,Australia,1196,81 Amoth Court,Purwasari,,Indonesia,,7822552873,processing
+60,60,60,5/18/2022,9.47,41,643.03,0.38,5830.07,60,cash,8225 Talisman Way,Waitara,,New Zealand,4346,9 Dakota Circle,Prokhladnyy,,Russia,366041,8576431904,delivered
+61,61,61,3/28/2020,13.14,26,203.9,0.41,4502.57,61,cash,19922 Hayes Point,Songkar B,,Indonesia,,6643 Columbus Alley,Florencia,,Cuba,,9814320334,shipped
+62,62,62,12/24/2021,11.49,25,337.74,0.69,4635.07,62,cash,279 Brentwood Terrace,Loncoche,,Chile,,37 Delaware Street,Kisai,,Japan,347-0105,5300595755,delivered
+63,63,63,6/23/2020,18.47,33,632.79,0.69,9246.48,63,cash,15949 International Trail,Gaopeng,,China,,9494 Village Green Place,Libochovice,,Czech Republic,411 17,4244735572,shipped
+64,64,64,12/3/2021,10.54,68,419.16,0.46,8130.86,64,credit card,9542 Mandrake Street,Lavras da Mangabeira,,Brazil,63300-000,7145 Carberry Plaza,Tunggaoen Timur,,Indonesia,,2426112217,processing
+65,65,65,1/7/2021,0.96,12,590.95,0.28,1883.23,65,debit card,5967 Dawn Pass,Liujiage,,China,,894 Blue Bill Park Parkway,Hualgayoc,,Peru,,8007915548,delivered
+66,66,66,2/6/2020,20.33,96,86.98,0.71,2576.45,66,cash,5 Ridgeway Center,Helsingborg,M,Sweden,250 06,40 Grim Terrace,Hønefoss,06,Norway,3519,9809317244,pending
+67,67,67,1/31/2021,11.06,90,734.23,0.51,9328.71,67,debit card,1 Ridge Oak Trail,Patrocínio,,Brazil,38740-000,7 Blaine Drive,Chambellan,,Haiti,,3940321025,processing
+68,68,68,8/9/2020,15.85,21,739.73,0.82,6736.53,68,credit card,6264 Morningstar Terrace,Pontarlier,A6,France,25304 CEDEX,5 Butterfield Lane,Blawi,,Indonesia,,4592337398,pending
+69,69,69,10/25/2020,15.25,33,220.54,0.61,5818.78,69,debit card,69063 Troy Trail,Azteca,TAM,Mexico,87024,77 Cascade Junction,Jiaoqiao,,China,,8892048902,processing
+70,70,70,9/14/2021,2.87,31,417.0,0.23,7413.91,70,cash,1 Truax Way,Puger,,Indonesia,,9375 Fieldstone Lane,Shenzhengqiao,,China,,2554061869,pending
+71,71,71,6/9/2021,22.7,58,1.16,0.75,3460.42,71,cash,4 Bartillon Alley,Yangxiang,,China,,9 Stoughton Plaza,Xilin,,China,,2303182213,processing
+72,72,72,4/6/2022,21.37,59,651.58,0.75,4393.74,72,credit card,38 Bunting Crossing,Pedamaran,,Indonesia,,5394 Delladonna Lane,Cijoho,,Indonesia,,3871960520,processing
+73,73,73,10/31/2020,5.02,45,472.92,0.26,4302.25,73,cash,474 Sunfield Lane,Bobigny,A8,France,93737 CEDEX 9,18 Eastlawn Point,Mohelnice,,Czech Republic,789 85,4839656122,shipped
+74,74,74,4/9/2021,9.8,7,367.18,0.11,2922.69,74,cash,4255 Fallview Junction,Bolobo,,Democratic Republic of the Congo,,99 Kenwood Junction,Ijūin,,Japan,899-3221,2435084909,delivered
+75,75,75,11/4/2020,14.58,1,852.18,0.73,1511.2,75,cash,6485 Morrow Point,Jiaoyang,,China,,81713 Evergreen Plaza,Smyków,,Poland,26-212,5677534566,shipped
+76,76,76,1/7/2022,4.71,21,652.98,0.76,81.29,76,credit card,21 6th Place,Vorzel’,,Ukraine,,4 Lakeland Point,Saint-Ouen,A8,France,93487 CEDEX,6757630423,delivered
+77,77,77,4/9/2022,8.0,76,336.48,0.62,9173.62,77,credit card,93811 Northland Alley,Atap,,Indonesia,,7 Swallow Alley,Olleros,,Peru,,8646638914,pending
+78,78,78,8/30/2022,12.92,60,202.56,0.45,9925.81,78,cash,2 Hansons Junction,Krajan,,Indonesia,,9 Scofield Court,Lucaya,,Bahamas,,8128124311,delivered
+79,79,79,10/2/2021,16.34,87,457.38,0.35,3648.97,79,credit card,86700 Cordelia Point,Kongolo,,Democratic Republic of the Congo,,01 Lindbergh Pass,Kumla,T,Sweden,692 81,4363455752,processing
+80,80,80,6/9/2020,9.57,14,477.38,0.78,1047.9,80,cash,96 Rieder Park,Chirpan,,Bulgaria,6200,1409 Old Gate Alley,Funtua,,Nigeria,,1021906893,processing
+81,81,81,2/6/2021,16.04,94,430.72,0.59,7049.75,81,debit card,61 Fulton Avenue,Khulm,,Afghanistan,,32429 Spenser Crossing,Sumberpitu,,Indonesia,,4090899175,processing
+82,82,82,2/12/2020,5.66,42,838.19,0.21,8164.98,82,debit card,16835 Corscot Park,Na Klang,,Thailand,39170,48 Victoria Crossing,Savelugu,,Ghana,,5309873901,shipped
+83,83,83,4/6/2022,3.67,63,21.49,0.71,2904.29,83,cash,83565 Texas Street,Inđija,,Serbia,,10 Hanson Lane,Kiryandongo,,Uganda,,9182972220,processing
+84,84,84,8/10/2022,7.51,6,808.58,0.37,8393.61,84,debit card,47 Haas Parkway,Petřvald,,Czech Republic,735 41,8 Loomis Park,Niitsu-honchō,,Japan,959-1855,7059233887,pending
+85,85,85,9/1/2022,7.13,66,60.36,0.25,979.62,85,cash,956 Forest Run Lane,Bailan,,Philippines,5815,122 Marquette Park,Zapatero,,Peru,,4458622116,shipped
+86,86,86,9/17/2021,21.5,18,898.55,0.7,3332.77,86,credit card,712 Comanche Hill,Roubaix,B4,France,59100,6 Longview Drive,Negotin,,Serbia,,8430766688,processing
+87,87,87,8/13/2020,11.48,41,43.85,0.43,702.32,87,cash,04588 Bonner Way,Beixiaoying,,China,,5 Macpherson Trail,Spirovo,,Russia,422338,3616374061,delivered
+88,88,88,9/18/2020,20.23,75,845.42,0.04,1591.64,88,cash,4606 Lighthouse Bay Alley,Mora,W,Sweden,792 52,3033 Blue Bill Park Trail,Tongjing,,China,,8487953338,delivered
+89,89,89,1/23/2020,6.67,78,670.92,0.9,9597.74,89,debit card,78 Southridge Center,Chengbei,,China,,9615 Scofield Parkway,Grängesberg,W,Sweden,772 30,5451697939,shipped
+90,90,90,1/8/2022,7.13,25,191.0,0.62,7030.32,90,cash,44671 Mariners Cove Lane,Jaqué,,Panama,,98088 Swallow Court,Youguzhuang,,China,,2921258841,processing
+91,91,91,9/3/2021,17.67,93,508.6,0.43,5290.96,91,credit card,333 Kings Trail,Beauceville,QC,Canada,G5X,67 Pepper Wood Crossing,Arco de Baúlhe,03,Portugal,4860-045,8000277568,pending
+92,92,92,1/18/2022,23.72,66,494.24,0.88,2083.49,92,cash,958 Westend Way,Columbus,OH,United States,43231,6 Basil Crossing,Warburton,,Pakistan,39180,6747857129,shipped
+93,93,93,12/17/2020,9.1,64,840.29,0.3,8294.54,93,cash,363 6th Parkway,Želetava,,Czech Republic,675 26,18 Stang Road,Alemanguan,,Philippines,3524,5467928195,pending
+94,94,94,11/25/2020,23.27,49,814.94,0.49,1139.41,94,debit card,61353 Thompson Street,Louny,,Czech Republic,440 01,7835 International Road,Sovetskaya,,Russia,692854,8124467240,shipped
+95,95,95,9/24/2022,4.63,71,175.91,0.56,2190.52,95,cash,6 Fairview Lane,De la Paz,,Philippines,6337,577 Basil Crossing,Sugihan,,Indonesia,,6352049019,pending
+96,96,96,7/7/2022,8.98,89,531.64,0.34,6766.53,96,credit card,3 Lake View Parkway,Bengras,,Indonesia,,90313 Fisk Plaza,Peuhaq,,Indonesia,,7716264655,processing
+97,97,97,3/8/2021,16.9,45,316.37,0.36,4686.33,97,cash,0 Jackson Alley,Lalmanirhat,,Bangladesh,5510,73 Maywood Trail,Budaka,,Uganda,,8368019873,processing
+98,98,98,6/27/2022,11.3,36,998.23,0.23,2439.43,98,debit card,384 Dakota Way,Lakhdenpokh’ya,,Russia,186730,9 Menomonie Court,Yartsevo,,Russia,215807,7656320297,delivered
+99,99,99,5/26/2022,16.86,91,852.2,0.24,8147.34,99,cash,34846 Vermont Terrace,Psary,,Poland,32-546,3799 Lakewood Terrace,Karolinka,,Czech Republic,756 05,7460184393,shipped
+100,100,100,4/1/2021,17.94,1,295.14,0.71,5581.23,100,cash,42323 Nelson Place,Bambang,,Philippines,3702,0766 Walton Junction,Rtyně v Podkrkonoší,,Czech Republic,542 33,9370675603,processing
+101,101,101,12/18/2022,5.45,87,828.47,0.55,3802.19,101,debit card,68 Rowland Road,Al Funayţīs,,Kuwait,,954 Waywood Parkway,Port-Cartier,QC,Canada,G5B,7294147249,shipped
+102,102,102,7/27/2022,8.97,67,408.8,0.38,7003.35,102,credit card,79063 Chive Trail,Timoulilt,,Morocco,,03 Derek Crossing,Yanweigang,,China,,9820019384,pending
+103,103,103,4/3/2020,6.02,25,678.74,0.02,3059.26,103,cash,9025 Linden Court,Měřín,,Czech Republic,594 42,06 Hallows Way,La Carlota,,Philippines,6130,3387070167,processing
+104,104,104,8/7/2021,18.02,40,645.78,0.55,4999.45,104,debit card,6980 Hintze Pass,Bayt ‘Adhāqah,,Yemen,,9253 Meadow Ridge Junction,Egvekinot,,Russia,461173,4104226373,delivered
+105,105,105,4/4/2021,20.55,68,982.2,0.09,81.32,105,debit card,95 Melvin Avenue,Anan,,Japan,779-1631,88 Center Lane,Monte Caseros,,Argentina,3220,3962853777,processing
+106,106,106,3/23/2020,12.71,58,218.3,0.09,806.02,106,debit card,56 Barnett Drive,Taiping,PRK,Malaysia,34010,1741 Village Parkway,Kaltungo,,Nigeria,,1252195740,shipped
+107,107,107,5/2/2022,12.12,21,565.4,0.7,2760.03,107,debit card,064 Westport Place,Xihu,,China,,31171 Corben Place,Villa Lugano,,Argentina,5439,8927550236,pending
+108,108,108,9/14/2021,2.83,90,928.11,0.64,8828.39,108,debit card,59057 Oneill Road,Pinoma,,Philippines,3404,2 Lunder Way,Przybiernów,,Poland,72-110,3431396991,shipped
+109,109,109,4/24/2021,10.89,85,697.47,0.86,8079.49,109,debit card,98 Springs Place,Nālchiti,,Bangladesh,8421,7397 Barnett Court,Prachatice,,Czech Republic,383 01,1432124797,processing
+110,110,110,3/15/2020,17.37,93,37.78,0.94,9968.86,110,cash,09397 Caliangt Road,Ciyun,,China,,6 Springs Place,Huya,,China,,5394427514,delivered
+111,111,111,11/2/2021,17.81,55,235.33,0.65,9064.57,111,debit card,26586 Hoepker Drive,Hradec Králové,,Czech Republic,500 02,6768 Forest Run Hill,Florestópolis,,Brazil,86165-000,3688472919,delivered
+112,112,112,8/9/2020,18.34,9,259.65,0.58,9423.9,112,cash,0 Lillian Drive,Colotenango,,Guatemala,13019,12 Walton Alley,Kilju,,North Korea,,1423274561,pending
+113,113,113,8/28/2022,14.15,3,159.74,0.8,1641.27,113,credit card,5 Anderson Junction,Senador Canedo,,Brazil,75250-000,72581 Hollow Ridge Place,Kolonowskie,,Poland,47-113,2111040238,delivered
+114,114,114,8/7/2022,15.26,23,957.88,0.09,9180.2,114,credit card,960 Clemons Lane,Vabalninkas,,Lithuania,41033,6 Fieldstone Lane,Pļaviņas,,Latvia,,5299977908,shipped
+115,115,115,1/4/2020,12.26,36,274.15,0.73,5075.51,115,credit card,6 Hoard Crossing,Huangshapu,,China,,01329 Division Terrace,Beringin,,Indonesia,,6162593928,processing
+116,116,116,12/13/2020,14.92,83,348.37,0.79,1956.28,116,credit card,7 Mallory Avenue,Agusan,,Philippines,3702,6994 Corscot Trail,Peroguarda,02,Portugal,7900-455,1009160575,delivered
+117,117,117,8/6/2021,16.0,1,71.4,0.06,6628.64,117,debit card,89412 Garrison Parkway,Kuala Terengganu,TRG,Malaysia,20710,813 Glendale Place,Kallinge,K,Sweden,372 53,9173222356,processing
+118,118,118,7/21/2020,3.12,10,192.29,0.29,8659.07,118,credit card,6 Springview Crossing,Heshui,,China,,1 Bellgrove Way,Al ‘Āliyah,,Tunisia,,4368167543,shipped
+119,119,119,2/9/2021,13.54,54,615.79,0.55,2315.56,119,cash,476 Emmet Alley,Dakhla,,Western Sahara,,2911 Kim Drive,Clermont-Ferrand,98,France,63043 CEDEX 2,1224471196,shipped
+120,120,120,8/28/2022,16.36,3,509.41,0.49,9172.42,120,cash,15372 Mcguire Street,Mukayrās,,Yemen,,0 Bayside Trail,Niny,,Russia,357906,2493891982,shipped
+121,121,121,7/4/2021,22.19,39,10.32,0.28,45.08,121,debit card,5 Atwood Court,Takaishi,,Japan,215-0003,33229 Mesta Circle,Thetford-Mines,QC,Canada,G6G,8492672784,delivered
+122,122,122,12/19/2021,4.45,34,873.13,0.74,9579.37,122,debit card,63 Anderson Court,Göteborg,O,Sweden,412 79,6168 Laurel Court,Vihāri,,Pakistan,26301,3677174638,delivered
+123,123,123,8/1/2022,20.04,61,198.94,0.62,2472.4,123,credit card,8 Rockefeller Park,Kedungreja,,Indonesia,,0367 Utah Road,Pasto,,Colombia,520039,3104088433,pending
+124,124,124,3/13/2020,2.41,67,480.04,0.21,7680.31,124,debit card,9 Petterle Street,Paris 19,A8,France,75166 CEDEX 19,63 1st Place,Mafa,,Indonesia,,1098113320,pending
+125,125,125,12/12/2022,1.16,30,32.33,0.66,1441.96,125,credit card,299 Nevada Point,Choropampa,,Peru,,99690 Comanche Terrace,Néa Flogitá,,Greece,,7806786470,processing
+126,126,126,5/21/2021,8.13,81,629.2,0.05,4217.06,126,debit card,929 Ludington Plaza,Červenka,,Czech Republic,784 01,73 Thackeray Alley,Kota Kinabalu,SBH,Malaysia,88592,7234658132,shipped
+127,127,127,4/24/2022,5.66,62,187.82,0.95,9921.76,127,debit card,9485 Tony Trail,Napoli,CM,Italy,80129,3 Knutson Road,Kathu,,South Africa,1033,3705957780,shipped
+128,128,128,9/18/2022,7.97,60,146.19,0.72,2898.56,128,cash,521 Roxbury Park,Taotang,,China,,38267 Kensington Avenue,Tazhuang,,China,,3254767218,shipped
+129,129,129,6/30/2020,21.26,30,900.94,0.43,6347.32,129,credit card,88959 Anderson Hill,Armenia,,Philippines,5401,62 Lillian Pass,Sutton,,Ireland,D13,7723656133,shipped
+130,130,130,11/6/2021,5.61,4,997.17,0.11,1421.95,130,credit card,873 Heath Avenue,Cuilco,,Guatemala,13004,8 North Plaza,Jianshe,,China,,9842586161,pending
+131,131,131,9/17/2021,20.18,27,428.98,0.1,1582.37,131,debit card,101 Bluejay Terrace,Gubeikou,,China,,5160 Cody Terrace,Tambov,,Russia,392999,9723409308,pending
+132,132,132,5/31/2021,4.29,81,161.31,0.94,4544.65,132,credit card,737 Little Fleur Point,Kilindoni,,Tanzania,,17 Claremont Drive,Bhokadoke,,Indonesia,,2078253141,delivered
+133,133,133,11/21/2021,23.76,91,278.42,0.15,6372.68,133,credit card,07286 Springs Street,La Unión,,Chile,,341 Grim Terrace,Kalandagan,,Philippines,9802,9944357583,delivered
+134,134,134,5/6/2021,22.58,32,957.91,0.31,4601.98,134,credit card,7498 Logan Terrace,Bator,,Indonesia,,087 Di Loreto Pass,Tadianjie,,China,,5303273814,delivered
+135,135,135,9/25/2021,0.8,61,322.93,0.2,843.19,135,credit card,7 2nd Hill,Georgīevka,,Kazakhstan,,80591 International Avenue,Artemisa,,Cuba,,1771790310,delivered
+136,136,136,7/7/2021,0.16,83,430.54,0.45,7373.56,136,cash,8087 Hooker Trail,Klenčí pod Čerchovem,,Czech Republic,345 34,8364 Gale Center,Voyinka,,Ukraine,,9562110147,pending
+137,137,137,2/14/2021,20.84,8,852.19,0.26,7735.81,137,cash,628 Westend Terrace,Czyżowice,,Poland,44-352,0238 Shopko Hill,Harrison,,Philippines,5711,1009177399,shipped
+138,138,138,7/26/2021,9.13,35,970.42,0.48,8767.41,138,debit card,726 Eggendart Street,Novyy Urengoy,,Russia,629309,9 Bonner Alley,Shezhu,,China,,5263561422,delivered
+139,139,139,6/4/2020,8.85,76,23.22,0.93,6320.28,139,cash,1911 Fulton Crossing,Fort Worth,TX,United States,76105,3 Lotheville Drive,Otse,,Botswana,,2198378434,shipped
+140,140,140,1/21/2021,8.66,77,806.58,0.07,7429.49,140,cash,0059 Pine View Parkway,Banikoara,,Benin,,87 Boyd Hill,Lleida,CT,Spain,25005,3673547292,delivered
+141,141,141,6/12/2020,16.47,21,568.5,0.54,7803.53,141,credit card,6 Grover Court,Huangjinbu,,China,,67 Bowman Junction,Hrtkovci,,Serbia,,9446959641,shipped
+142,142,142,12/6/2022,18.07,30,221.73,1.0,5658.53,142,debit card,8 Sundown Plaza,Maroanging,,Indonesia,,1 Bayside Point,Tengjia,,China,,5412781934,shipped
+143,143,143,12/2/2021,8.98,8,9.09,0.05,139.09,143,credit card,880 Erie Parkway,Jihlava,,Czech Republic,586 01,9 Bellgrove Center,Zliten,,Libya,,8758067022,pending
+144,144,144,2/21/2022,12.39,58,167.08,0.12,1207.88,144,cash,6 South Center,Mosquera,,Colombia,250047,273 Dayton Crossing,Palomoc,,Philippines,4227,9273445072,delivered
+145,145,145,4/1/2020,2.94,14,866.79,0.64,3983.46,145,cash,24368 Esker Point,Arvidsjaur,BD,Sweden,933 82,1 Rutledge Terrace,Shuanghe,,China,,5982681318,pending
+146,146,146,10/9/2021,23.49,39,102.17,0.08,6340.85,146,credit card,17744 Mariners Cove Road,San Miguel,,Philippines,8301,13 Montana Place,Zalesnoye,,Ukraine,,7718806014,delivered
+147,147,147,11/2/2020,15.81,60,421.27,0.87,9137.53,147,debit card,2 Declaration Plaza,Jishui,,China,,419 Golf Course Circle,Guacarí,,Colombia,763508,7033708954,shipped
+148,148,148,8/1/2020,19.66,6,772.8,0.75,3265.13,148,debit card,20742 Monterey Point,Gominhães,03,Portugal,4800-424,1 Karstens Terrace,Stockholm,AB,Sweden,112 45,7443319962,delivered
+149,149,149,12/20/2021,2.89,43,416.97,0.65,4300.39,149,credit card,7 Ilene Point,Zhongying,,China,,9854 Donald Avenue,Cauayan,,Philippines,6112,5816389346,pending
+150,150,150,2/9/2022,17.46,10,963.1,0.78,5081.65,150,credit card,7 Marquette Court,Jaguariaíva,,Brazil,84200-000,48 Union Plaza,Fort Wayne,IN,United States,46857,6839245468,delivered
+151,151,151,11/12/2020,19.3,27,154.63,0.48,8733.61,151,cash,5431 Forster Court,Ban Talat Yai,,Thailand,83120,37 Drewry Court,Contagem,,Brazil,32000-000,4365727341,shipped
+152,152,152,9/8/2020,20.46,7,543.24,0.72,8258.28,152,cash,773 Monterey Street,Shinjō,,Japan,999-5313,905 Northland Street,San Diego,CA,United States,92110,4765249858,processing
+153,153,153,3/5/2021,13.27,31,187.68,0.18,6107.81,153,cash,09 Huxley Way,Hŭkkyo-ri,,North Korea,,75 Fairview Parkway,Suyo,,Philippines,2715,3964457793,processing
+154,154,154,3/28/2020,8.66,38,980.76,1.0,7333.39,154,debit card,16764 Eggendart Street,Jōetsu,,Japan,949-1742,1873 Hermina Way,Kokotów,,Poland,32-020,6174402236,processing
+155,155,155,10/19/2020,17.89,78,877.98,0.19,93.56,155,debit card,8 Cordelia Terrace,Macun,,China,,7 Cardinal Pass,Sanhe,,China,,1173924984,pending
+156,156,156,5/15/2021,13.36,45,132.86,0.16,5879.3,156,cash,2 Delaware Crossing,Boa Vista,,Brazil,69300-000,500 Arizona Hill,Grand Rapids,MI,United States,49510,2103020288,delivered
+157,157,157,1/9/2021,8.41,20,397.27,0.15,9219.84,157,debit card,75 Iowa Parkway,Goiatuba,,Brazil,75600-000,6 Namekagon Way,Shuigou’ao,,China,,1876580345,pending
+158,158,158,11/16/2020,14.36,71,254.75,0.8,8066.27,158,credit card,690 Transport Drive,San Juan,72,Puerto Rico,00918,0955 Corscot Trail,Nelspruit,,South Africa,1360,6560798789,shipped
+159,159,159,7/10/2022,12.27,93,209.19,0.14,4556.29,159,debit card,279 Ludington Trail,Solo,,Philippines,4203,2008 Continental Park,Al Ḩaffah,,Syria,,1962367401,shipped
+160,160,160,2/21/2021,5.94,85,304.47,0.09,2856.87,160,debit card,45 Lillian Road,Repki,,Poland,08-307,642 Pine View Street,Marttila,,Finland,21490,1313859044,shipped
+161,161,161,1/18/2021,23.67,54,146.08,0.15,6527.74,161,cash,0 Dennis Court,The Valley,,Anguilla,,1 Hansons Center,Pavshino,,Russia,416102,3843631898,shipped
+162,162,162,11/19/2021,4.78,16,905.14,0.84,4001.43,162,cash,3 Hooker Terrace,Bouaké,,Ivory Coast,,5105 Jackson Place,Yinzhu,,China,,8086282898,delivered
+163,163,163,11/29/2021,22.01,11,966.8,0.91,7058.66,163,cash,485 Welch Drive,Galitsy,,Russia,606085,985 Sauthoff Street,Horní Bříza,,Czech Republic,330 12,2523970609,shipped
+164,164,164,6/29/2021,22.32,11,480.08,0.17,1816.95,164,cash,946 Columbus Circle,Rakaia,,New Zealand,7743,8341 Emmet Street,Shouzhan,,China,,1879925913,shipped
+165,165,165,6/12/2021,23.8,70,174.84,0.64,6810.44,165,debit card,18670 Kipling Drive,Lendava,,Slovenia,8332,95291 Pond Hill,Norrköping,E,Sweden,601 81,2956120909,shipped
+166,166,166,6/8/2022,4.83,13,867.99,0.61,2205.36,166,debit card,685 Morrow Circle,Agustín Codazzi,,Colombia,202058,5364 Grayhawk Center,Połajewo,,Poland,64-710,9068386986,delivered
+167,167,167,11/19/2021,10.85,2,809.29,0.37,5249.63,167,cash,06245 Iowa Lane,Jiuxi,,China,,9617 Mendota Place,Muranovo,,Russia,385741,7843006721,pending
+168,168,168,2/20/2022,10.95,42,22.97,0.83,4996.37,168,debit card,9838 Sutteridge Drive,Santa Maria,MEX,Mexico,51009,3 Lakeland Avenue,Buenavista,,Philippines,8601,9935216722,delivered
+169,169,169,5/11/2022,10.77,57,952.04,0.35,1750.7,169,cash,56 Washington Hill,Idkū,,Egypt,,04 Shoshone Junction,Deep River,ON,Canada,M4J,6574226943,pending
+170,170,170,3/18/2022,17.2,81,783.31,1.0,3160.29,170,credit card,83827 Stoughton Center,Huntington,WV,United States,25775,09036 Summerview Drive,Hagonoy,,Philippines,8006,2905748480,delivered
+171,171,171,1/29/2021,10.2,59,683.83,0.38,7561.97,171,credit card,84720 Parkside Point,Monrovia,,Liberia,,21706 Fairfield Road,Maggotty,,Jamaica,,8046819315,delivered
+172,172,172,9/24/2020,19.1,65,534.81,0.56,5063.12,172,cash,75652 Linden Crossing,Bakov nad Jizerou,,Czech Republic,294 01,408 Atwood Pass,Navashino,,Russia,347417,9374234767,processing
+173,173,173,4/3/2020,11.04,39,849.36,0.35,6641.17,173,credit card,0 Dayton Pass,Witbank,,South Africa,2250,7024 Vermont Circle,Pyhäsalmi,,Finland,86801,6275302197,pending
+174,174,174,7/20/2021,6.03,27,64.55,0.84,9814.52,174,cash,9 Buell Trail,Maojiagang,,China,,71305 Texas Crossing,Korets’,,Ukraine,,8102363158,shipped
+175,175,175,12/9/2022,7.23,5,434.14,0.9,5440.66,175,debit card,76118 Anderson Junction,Kizlyar,,Russia,363720,594 South Court,Staritsa,,Russia,171399,7206462123,pending
+176,176,176,5/26/2022,20.2,27,353.17,0.59,9415.63,176,debit card,5251 Esker Way,Huashu,,China,,2 Hauk Circle,Guangyi,,China,,9574749585,pending
+177,177,177,7/4/2021,13.8,45,459.35,0.17,7643.91,177,debit card,0393 Merrick Place,Tamontaka,,Philippines,9708,96943 Oriole Junction,Andovoranto,,Madagascar,,2504516377,pending
+178,178,178,2/7/2020,3.95,98,944.42,0.01,7701.52,178,cash,18754 Gerald Point,Qiryat Shemona,,Israel,,98341 Mayfield Terrace,Włocławek,,Poland,87-822,9708029112,shipped
+179,179,179,1/20/2021,5.48,91,52.99,0.94,8012.75,179,debit card,9 Oak Place,Yakovlevo,,Russia,215723,04 Oak Park,Kalilangan,,Philippines,8718,9177791118,pending
+180,180,180,6/30/2021,7.87,19,828.99,0.75,2104.87,180,credit card,2 Elmside Parkway,MacArthur,,Philippines,6509,4149 Bartillon Park,Xiadian,,China,,1124567159,delivered
+181,181,181,10/24/2021,8.76,95,200.37,0.36,4007.85,181,credit card,78 Buena Vista Court,Mehrān,,Iran,,5 Debra Circle,Lukovo,,Macedonia,6337,2648256256,processing
+182,182,182,11/3/2022,16.82,48,866.62,0.46,7207.01,182,credit card,43 Hovde Place,Nong Phok,,Thailand,45210,022 Hauk Parkway,Huangjing,,China,,8766315653,delivered
+183,183,183,4/16/2020,11.81,43,558.52,0.02,9391.47,183,credit card,8 Melody Street,Staten Island,NY,United States,10310,094 Continental Hill,Kliteh,,Indonesia,,4995728413,delivered
+184,184,184,9/10/2022,18.12,1,255.14,0.09,5302.87,184,credit card,224 Vera Park,Volta Redonda,,Brazil,27200-000,4308 Petterle Point,Kedungsinggil,,Indonesia,,2976163845,delivered
+185,185,185,7/8/2021,1.9,30,483.2,0.52,2313.76,185,credit card,286 Fordem Crossing,Pillpinto,,Peru,,641 Arkansas Trail,Claveria,,Philippines,9004,8208266408,shipped
+186,186,186,3/26/2020,22.62,18,692.76,0.28,8553.69,186,credit card,1 Prairieview Place,Tangga,,Indonesia,,11569 Dawn Road,Manama,,Bahrain,,5532753893,shipped
+187,187,187,9/28/2021,20.86,85,357.82,0.22,7493.84,187,debit card,62622 Jay Center,Aix-en-Provence,B8,France,13540,37 Scofield Plaza,La Esmeralda,,Venezuela,,9434902503,processing
+188,188,188,8/24/2020,6.42,93,709.78,0.32,7133.53,188,credit card,28978 Magdeline Crossing,Plumbangan,,Indonesia,,16037 Utah Parkway,Mozelos,01,Portugal,4535-160,2684071557,pending
+189,189,189,9/5/2022,23.11,20,574.03,0.68,587.87,189,credit card,54176 Mayfield Parkway,Muladbucad,,Philippines,1095,2766 Cherokee Hill,Bājitpur,,Bangladesh,2338,5602678504,shipped
+190,190,190,4/22/2022,4.56,10,6.28,0.26,9847.04,190,debit card,46 Gateway Park,Conima,,Peru,,266 Summerview Point,Svoge,,Bulgaria,2287,2230736133,pending
+191,191,191,5/2/2021,0.64,17,185.02,0.14,155.8,191,cash,8 Basil Plaza,Arrap’i,,Armenia,,13379 Arapahoe Trail,Xiaoxi,,China,,6215684726,processing
+192,192,192,1/12/2020,4.26,15,504.62,0.87,9949.83,192,debit card,16537 Lukken Junction,Hongguang,,China,,947 7th Terrace,Santa Clara La Laguna,,Guatemala,07007,6716202787,pending
+193,193,193,10/28/2020,21.93,6,852.28,0.37,8738.59,193,cash,8318 Westport Park,Seaton,ENG,United Kingdom,LE15,5 Kipling Street,Pameungpeuk,,Indonesia,,5537574507,shipped
+194,194,194,3/9/2022,20.03,1,491.02,0.37,1603.19,194,debit card,04 Norway Maple Junction,Xiagang,,China,,05837 Bowman Park,Nueva Ocotepeque,,Honduras,,3996794783,shipped
+195,195,195,4/3/2020,4.71,3,654.59,0.79,7350.15,195,debit card,52427 Magdeline Point,Samannūd,,Egypt,,67627 Brown Way,Greytown,,South Africa,3500,2255133197,shipped
+196,196,196,5/2/2020,12.89,46,165.57,0.7,6436.41,196,credit card,6915 Walton Road,Banjar Pande,,Indonesia,,25 Fulton Lane,Ginebra,,Colombia,763518,3706725903,pending
+197,197,197,7/7/2020,15.69,28,732.13,0.82,6488.54,197,debit card,3437 Scoville Parkway,Klenica,,Poland,66-130,85300 Sullivan Road,Bungur,,Indonesia,,2592847059,shipped
+198,198,198,3/21/2021,20.91,46,491.97,0.09,9316.63,198,debit card,01744 Kings Avenue,Shebekino,,Russia,309296,4054 Monterey Alley,Guaíba,,Brazil,92500-000,9963730277,processing
+199,199,199,12/2/2022,14.04,9,579.53,0.53,8699.58,199,debit card,06 Bluestem Lane,Sonorejo,,Indonesia,,174 Express Junction,Saint-Rémi,QC,Canada,K1G,6404237822,delivered
+200,200,200,6/4/2020,4.15,6,851.41,0.7,7997.98,200,debit card,20726 Shasta Crossing,Daniwato,,Indonesia,,93511 Lien Plaza,Pagarbatu,,Indonesia,,7498652897,shipped
+201,201,201,5/9/2020,23.76,58,220.36,0.1,9711.28,201,credit card,187 Dahle Plaza,Bang Rakam,,Thailand,65140,2083 Gina Road,Angochi,,Aruba,,2786589675,delivered
+202,202,202,4/17/2020,23.72,10,319.31,0.04,9010.17,202,credit card,71224 Reinke Junction,Ning’an,,China,,4 Buell Lane,Bagiktinggang,,Indonesia,,4732924997,shipped
+203,203,203,4/11/2021,15.37,93,973.07,0.06,2885.71,203,cash,304 Longview Circle,Castro Barros,,Argentina,5276,9 Westend Crossing,Palotina,,Brazil,85950-000,3679306359,pending
+204,204,204,9/1/2021,17.64,66,570.46,0.45,1686.57,204,credit card,8 Granby Way,Samashki,,Russia,366602,27935 Randy Center,Xinzhan,,China,,1380090490,pending
+205,205,205,8/20/2022,18.81,57,792.59,0.34,2060.6,205,credit card,9 Sunnyside Lane,Atescatempa,,Guatemala,22007,02 Ridge Oak Street,San Pedro,,Argentina,4500,4692971236,delivered
+206,206,206,4/15/2020,7.98,90,322.2,0.06,1248.19,206,credit card,4825 Eagan Point,Gubat,,Philippines,4710,506 Old Shore Plaza,Tuapukan,,Indonesia,,9934845518,delivered
+207,207,207,10/27/2020,22.2,9,904.11,0.27,7901.41,207,credit card,865 Old Shore Court,Fresno,CA,United States,93762,031 Golf View Hill,Palla,,Indonesia,,8527773050,pending
+208,208,208,4/13/2021,15.31,5,623.49,0.75,1786.43,208,credit card,57 Lakewood Circle,Tokyo,,Japan,176-0014,512 Gerald Plaza,Camaçari,,Brazil,42800-000,3452023942,pending
+209,209,209,4/26/2022,19.94,1,960.39,0.65,4227.31,209,debit card,00 Grim Lane,Sernur,,Russia,425479,1 Lakeland Lane,Molagavita,,Colombia,682038,8026706080,shipped
+210,210,210,2/14/2021,4.05,19,153.06,0.53,8289.53,210,credit card,797 Crest Line Lane,Jifnā,,Palestinian Territory,,55841 Grayhawk Place,Fangcun,,China,,7313655727,processing
+211,211,211,8/4/2020,18.43,55,986.45,0.98,5873.9,211,credit card,78146 Kennedy Trail,Tuti,,Peru,,73 6th Street,Gyigang,,China,,7681976425,shipped
+212,212,212,6/22/2021,8.71,45,785.09,0.45,2846.06,212,debit card,61 Dakota Hill,Huaihe,,China,,94027 Debs Alley,Zhonghekou,,China,,5734028310,processing
+213,213,213,12/16/2021,0.2,71,418.68,0.59,5780.43,213,cash,57365 Birchwood Trail,Yisuhe,,China,,299 Bunker Hill Plaza,Dūāb,,Afghanistan,,1346044198,pending
+214,214,214,9/12/2022,22.28,50,826.24,0.19,5520.06,214,cash,08637 6th Terrace,Prado,,Brazil,45980-000,6 Transport Hill,Cheban,,China,,5947932143,processing
+215,215,215,5/30/2020,17.47,95,5.93,0.76,7536.09,215,credit card,6 Shopko Court,Quţūr,,Egypt,,4232 Lien Road,Nuing,,Philippines,1707,7636720210,delivered
+216,216,216,10/27/2020,19.66,72,429.44,0.11,9108.02,216,cash,849 Express Parkway,Largo,FL,United States,34643,01692 Moland Parkway,Qarqaraly,,Kazakhstan,,4820044927,processing
+217,217,217,5/21/2020,2.53,28,970.74,0.64,8119.34,217,cash,1900 Stang Pass,Dvorovi,,Bosnia and Herzegovina,,6 Del Sol Place,Komsomol’sk,,Russia,155150,9408425666,delivered
+218,218,218,3/20/2022,10.33,86,532.66,0.78,8009.46,218,credit card,328 Swallow Drive,Liwonde,,Malawi,,0391 Transport Road,Yayao,,China,,9675117949,shipped
+219,219,219,1/1/2022,17.66,75,933.62,0.97,9068.26,219,credit card,71 Mariners Cove Plaza,Manay,,Philippines,1105,57 Hoepker Hill,Pingxiang,,China,,7230547053,delivered
+220,220,220,9/26/2022,7.32,89,801.63,0.85,6796.9,220,credit card,1 Clemons Alley,Guarujá,,Brazil,11400-000,9449 Service Circle,Zhangcun,,China,,9569373787,delivered
+221,221,221,5/6/2022,2.17,21,522.62,0.83,9233.44,221,credit card,9227 Union Avenue,Changshan,,China,,135 Commercial Plaza,Nytva,,Russia,617000,9942915117,delivered
+222,222,222,10/16/2021,2.35,79,349.7,0.1,8446.3,222,cash,7 Manufacturers Alley,Shangdundu,,China,,38 Mockingbird Trail,Pedro Leopoldo,,Brazil,33600-000,8538406673,pending
+223,223,223,3/19/2020,3.13,6,820.95,0.07,1113.35,223,debit card,2390 Hoard Place,Dabao,,China,,886 4th Center,Tsaghkaber,,Armenia,,1853128759,delivered
+224,224,224,2/15/2021,8.45,5,469.02,0.9,8304.02,224,cash,31516 Westport Avenue,Mengdadazhuang,,China,,3775 Northfield Trail,Sinjhoro,,Pakistan,68220,4290669384,pending
+225,225,225,12/26/2022,3.23,36,814.41,0.44,3694.04,225,debit card,44235 Manitowish Point,Chwałowice,,Poland,27-630,24760 Mallard Hill,Amahusu,,Indonesia,,6702453457,processing
+226,226,226,5/26/2022,12.29,70,591.01,0.24,1391.15,226,debit card,92 Helena Drive,Mainque,,Argentina,8326,88 Huxley Court,Majzar,,Yemen,,3379141376,delivered
+227,227,227,11/5/2022,2.93,34,852.69,0.93,106.85,227,credit card,2 Morningstar Avenue,Wenchi,,Ghana,,01588 Marcy Crossing,Czyżowice,,Poland,44-352,8059080197,processing
+228,228,228,5/29/2020,10.29,20,174.78,0.1,6900.49,228,debit card,6688 Gateway Alley,Puerto Boyacá,,Colombia,155219,5 Almo Crossing,Teresita,,Philippines,9512,7618043815,pending
+229,229,229,9/17/2020,15.64,21,537.19,0.6,2389.87,229,credit card,2538 Sunfield Street,Ganjaran,,Indonesia,,720 Carioca Avenue,Qingshan,,China,,2640999127,delivered
+230,230,230,10/3/2022,3.93,37,493.66,0.89,1165.98,230,credit card,85 Linden Circle,Xuanzhou,,China,,4 Vidon Junction,Grand Rapids,MI,United States,49505,2647893717,pending
+231,231,231,4/6/2021,2.0,69,441.62,0.3,3167.12,231,debit card,08114 Talisman Place,Buenavista,,Philippines,8601,4 Upham Circle,Rîbniţa,,Moldova,MD-5519,4956732184,delivered
+232,232,232,3/30/2022,2.07,81,775.34,0.81,6253.51,232,cash,62233 3rd Alley,Petro-Slavyanka,,Russia,196851,04529 Spenser Pass,Duowa,,China,,8451544810,delivered
+233,233,233,4/28/2021,13.84,52,519.74,0.74,5110.43,233,debit card,194 Gale Center,Torino,PM,Italy,10152,260 Comanche Junction,Yaroslavl,,Russia,353827,2482756895,shipped
+234,234,234,12/27/2020,5.47,72,757.16,0.8,2701.91,234,credit card,4 Jenna Hill,Moundou,,Chad,,13 Glacier Hill Alley,Jiaokou,,China,,2219781856,delivered
+235,235,235,10/24/2022,10.77,77,857.63,0.06,7864.55,235,debit card,172 Lotheville Center,Montauban,B3,France,82070 CEDEX,1713 Cardinal Drive,Kabala,,Sierra Leone,,2192512270,processing
+236,236,236,11/30/2022,1.28,33,586.28,0.89,2558.61,236,debit card,1 Upham Hill,Prince Rupert,BC,Canada,V8J,0 3rd Alley,Miao’ergou,,China,,4309798211,shipped
+237,237,237,11/3/2020,8.74,43,741.46,0.68,8963.5,237,debit card,2 Pearson Way,Markova,,Ukraine,,259 Northfield Trail,Nikolayevskaya,,Russia,347272,4772424264,delivered
+238,238,238,7/16/2020,1.43,43,282.54,0.35,5631.03,238,debit card,4 Sullivan Terrace,Dengok,,Indonesia,,6219 Eliot Place,Koíla,,Greece,,4881031412,delivered
+239,239,239,6/8/2020,14.59,53,99.0,0.53,5617.04,239,cash,7174 Mayfield Court,Trogan Barat,,Indonesia,,9248 Menomonie Alley,Bianba,,China,,1412822181,processing
+240,240,240,11/2/2020,23.34,58,6.75,0.59,7735.49,240,cash,4 Clyde Gallagher Drive,San Miguel Chicaj,,Guatemala,15002,420 Maple Center,Wschowa,,Poland,67-400,6893713574,pending
+241,241,241,2/19/2022,16.31,26,373.76,0.87,7953.14,241,debit card,78 Westend Alley,Zárate,,Argentina,3423,69 Rusk Lane,Oenaik,,Indonesia,,3318986585,pending
+242,242,242,2/7/2020,3.44,10,932.38,0.44,7359.3,242,credit card,027 Hooker Center,Huxi,,China,,0 Cascade Junction,Mosoc Llacta,,Peru,,8652927720,shipped
+243,243,243,1/7/2021,18.69,100,243.81,0.03,1774.6,243,cash,9546 Green Court,Sinamar,,Philippines,1230,9 Ludington Park,Gujiang,,China,,4721102489,delivered
+244,244,244,8/26/2020,2.12,56,125.36,0.66,6451.96,244,debit card,1991 Forster Pass,Huai’an,,China,,27 Independence Crossing,Ampelgading,,Indonesia,,6823382176,pending
+245,245,245,5/3/2021,21.84,10,745.44,0.67,3720.47,245,debit card,0 Granby Lane,Toulouse,B3,France,31079 CEDEX 5,920 Meadow Vale Parkway,Novi Šeher,,Bosnia and Herzegovina,,7007415206,shipped
+246,246,246,8/15/2022,14.16,65,549.91,0.65,3384.67,246,cash,861 Pearson Place,Arthur’s Town,,Bahamas,,89636 Armistice Point,Boé,97,France,47555 CEDEX,1173938599,pending
+247,247,247,3/1/2020,22.25,1,967.37,0.35,4296.68,247,cash,23315 Kim Court,Kokas,,Indonesia,,552 Bultman Avenue,Santa Cruz,COA,Mexico,30560,4539752025,processing
+248,248,248,7/29/2020,19.87,42,852.29,0.23,6235.89,248,debit card,245 Dryden Trail,Sangatta,,Indonesia,,7 Ronald Regan Terrace,Jobabo,,Cuba,,7401101633,processing
+249,249,249,5/24/2021,6.84,70,171.82,0.63,295.61,249,cash,592 Anzinger Court,Jammāl,,Tunisia,,606 Harper Court,Lomé,,Togo,,2325362551,delivered
+250,250,250,8/1/2022,0.67,57,233.62,0.43,199.61,250,debit card,70 Veith Terrace,Barrhead,AB,Canada,T7N,335 Merry Avenue,‘Ayn al ‘Arab,,Syria,,1522784781,delivered
+251,251,251,3/10/2020,0.2,3,972.07,0.83,7598.55,251,cash,78 Buell Road,Ust’-Ulagan,,Russia,649750,61 Warrior Drive,Tiksi,,Russia,678409,5348895074,delivered
+252,252,252,2/25/2021,5.34,82,914.67,0.6,4835.38,252,credit card,606 American Road,Marína,,Greece,,141 Trailsway Circle,Ete,,Nigeria,,3665422157,shipped
+253,253,253,7/30/2022,19.92,19,58.46,0.84,9128.47,253,cash,5225 Hanover Trail,Bromma,AB,Sweden,167 66,3 Blue Bill Park Avenue,Lapinjärvi,,Finland,07800,2123008344,pending
+254,254,254,5/29/2022,8.75,49,184.87,0.99,920.19,254,cash,4553 Fulton Junction,Bratsk,,Russia,665709,22425 Blue Bill Park Court,Avranches,99,France,50309 CEDEX,6620339044,delivered
+255,255,255,4/7/2021,13.69,25,253.09,0.44,3393.36,255,debit card,04795 Ludington Street,Krajan Suko Kidul,,Indonesia,,232 Bonner Center,Ntoroko,,Uganda,,9171128771,pending
+256,256,256,9/14/2021,16.4,76,612.98,0.24,2316.61,256,cash,2 Melrose Park,Mainz,RP,Germany,55124,53 Village Green Drive,Seixezelo,13,Portugal,4415-928,3996024969,processing
+257,257,257,8/5/2021,20.67,79,619.82,0.53,1653.52,257,credit card,97789 Onsgard Parkway,Nice,B8,France,06016 CEDEX 1,3281 Acker Park,Tsotsin-Yurt,,Russia,368033,6913959612,delivered
+258,258,258,8/1/2021,13.09,78,397.42,0.82,3114.66,258,cash,4 Artisan Alley,Kangān,,Iran,,43656 Schiller Avenue,Älvsbyn,BD,Sweden,942 31,1978238754,shipped
+259,259,259,10/26/2021,11.18,98,947.29,0.27,2294.47,259,cash,59 Lakewood Gardens Place,Babakankadu,,Indonesia,,73304 Magdeline Road,Rosmalen,06,Netherlands,5249,4263241260,processing
+260,260,260,4/7/2020,16.84,20,523.58,0.59,5371.73,260,debit card,13 Eagan Terrace,Ljungby,G,Sweden,341 70,6 Brentwood Plaza,Chahe,,China,,4060035008,processing
+261,261,261,11/7/2022,17.46,75,760.75,0.8,9685.11,261,credit card,2 North Circle,Centre de Flacq,,Mauritius,,8342 Fieldstone Park,Fojo,13,Portugal,4650-071,8262312760,pending
+262,262,262,8/20/2021,5.79,99,775.82,0.38,6752.78,262,debit card,5 Rowland Avenue,Ban Rangsit,,Thailand,55000,56580 Washington Junction,Qimeng,,China,,1640585035,shipped
+263,263,263,2/11/2020,23.17,2,795.05,0.46,9610.2,263,credit card,3 Brickson Park Way,Sedlčany,,Czech Republic,264 01,56 Thompson Park,Santo Domingo,,Dominican Republic,11205,5438910057,delivered
+264,264,264,1/1/2021,11.59,53,523.92,0.45,5797.15,264,credit card,0505 Cambridge Pass,Hanji,,China,,86 Boyd Parkway,Kristinehamn,S,Sweden,681 37,8989047729,processing
+265,265,265,12/14/2022,9.74,47,753.47,0.25,8679.82,265,credit card,0 Center Circle,Meybod,,Iran,,6181 Northport Parkway,Senada,,Morocco,,6116848875,delivered
+266,266,266,11/11/2021,9.38,52,25.6,0.24,6363.02,266,debit card,7 Hanover Alley,Alès,A9,France,30112 CEDEX,1650 Texas Circle,Yangiyŭl,,Uzbekistan,,5587393792,processing
+267,267,267,11/12/2022,21.06,2,889.83,0.7,8129.53,267,cash,65528 Elmside Road,Mertert,,Luxembourg,L-6693,63226 High Crossing Road,Ngromo,,Indonesia,,7282347717,shipped
+268,268,268,11/20/2022,13.61,71,724.79,0.85,3062.8,268,cash,6212 Oriole Plaza,Kuangsan,,Indonesia,,532 Eliot Crossing,Ke’erlun,,China,,6559650635,shipped
+269,269,269,3/7/2021,23.62,50,215.1,0.39,7660.47,269,cash,71 Rockefeller Lane,Lom Kao,,Thailand,67120,71 Caliangt Alley,Muslyumovo,,Russia,456721,7423319428,processing
+270,270,270,12/14/2022,1.54,30,30.98,0.57,8651.07,270,credit card,765 Spohn Way,Aíyira,,Greece,,269 Moland Drive,Bacacay,,Philippines,0905,5878016359,processing
+271,271,271,12/16/2022,14.27,89,35.11,0.89,478.0,271,credit card,60723 Carberry Alley,Bagamoyo,,Tanzania,,9 Ilene Terrace,Gambiran,,Indonesia,,7720609697,processing
+272,272,272,10/25/2020,13.57,18,917.27,0.58,3400.12,272,debit card,97 Stuart Street,Tilburg,06,Netherlands,5044,2616 Springview Terrace,Amaraji,,Brazil,55515-000,4613393848,delivered
+273,273,273,7/11/2021,21.26,39,631.32,0.5,4608.78,273,debit card,08139 Portage Lane,Guanghou,,China,,906 Clove Lane,Huabeitun,,China,,1350663556,shipped
+274,274,274,12/25/2022,11.01,2,349.46,0.82,499.94,274,debit card,736 Westport Park,Owo,,Nigeria,,91 Sullivan Terrace,Fengxi,,China,,8155842741,shipped
+275,275,275,11/28/2020,14.53,67,742.01,0.07,4385.17,275,credit card,9 Killdeer Circle,Port Sudan,,Sudan,,32251 Grayhawk Way,Cibeuti,,Indonesia,,8616530855,pending
+276,276,276,6/7/2020,22.33,31,245.84,0.33,279.36,276,debit card,93312 Granby Pass,Shidong,,China,,26358 Cottonwood Street,Stavyshche,,Ukraine,,5468687083,shipped
+277,277,277,1/1/2020,19.32,64,227.76,0.07,890.14,277,debit card,9 Kropf Plaza,Dungloe,,Ireland,Y21,49161 Saint Paul Lane,Mugumu,,Tanzania,,1223982042,processing
+278,278,278,9/24/2021,11.64,57,865.22,0.3,3145.0,278,cash,6 Morningstar Junction,Targanice,,Poland,32-652,6951 Cherokee Pass,Orlando,FL,United States,32885,2758704307,shipped
+279,279,279,8/19/2020,10.64,52,899.98,0.04,5700.01,279,cash,9 New Castle Way,Baitu,,China,,41666 Cordelia Court,Pangkalanbuun,,Indonesia,,3807874816,processing
+280,280,280,6/9/2020,3.56,84,664.32,0.42,4454.9,280,debit card,1624 Upham Hill,Mandalgovi,,Mongolia,,652 Russell Road,Nanling,,China,,4666100440,delivered
+281,281,281,4/19/2020,14.79,94,475.68,0.33,1285.88,281,cash,10093 Vidon Center,Jablunkov,,Czech Republic,739 91,00 Brown Way,Calçada,13,Portugal,4615-467,9713702578,pending
+282,282,282,5/24/2020,2.62,90,165.17,0.42,1147.58,282,cash,5538 Lakewood Gardens Road,Camasca,,Honduras,,47045 Independence Terrace,Tisno,,Croatia,22240,1314276725,delivered
+283,283,283,9/19/2022,10.71,30,376.47,0.27,7348.16,283,debit card,02461 Tennyson Terrace,Lengkong,,Indonesia,,8188 Gateway Trail,Orléans,A3,France,45045 CEDEX 1,4392670517,processing
+284,284,284,7/2/2020,3.21,37,923.26,0.14,1685.44,284,cash,11 Lukken Plaza,Gambang,,Indonesia,,7 Sauthoff Lane,Charlotte,NC,United States,28225,1642670793,delivered
+285,285,285,8/7/2020,1.08,76,801.84,0.38,941.58,285,cash,5515 Southridge Hill,Norrahammar,F,Sweden,562 24,3013 Sauthoff Terrace,Delta del Tigre,,Uruguay,,3460274458,delivered
+286,286,286,6/14/2022,9.03,39,892.37,0.98,1230.66,286,credit card,368 Logan Junction,Milltown,,Ireland,D04,74 Coleman Circle,Mazhonghe,,China,,8898106004,processing
+287,287,287,10/30/2020,10.58,24,722.28,0.26,6338.7,287,credit card,7246 Manufacturers Crossing,Demba,,Democratic Republic of the Congo,,29 Coleman Center,Hallsberg,T,Sweden,694 24,8470798375,shipped
+288,288,288,11/28/2020,12.56,93,961.27,0.29,5073.83,288,credit card,986 Porter Terrace,Binangun,,Indonesia,,60758 Corben Place,Callanca,,Peru,,8435439546,shipped
+289,289,289,5/27/2021,15.52,64,798.08,0.64,6955.47,289,cash,725 Morrow Drive,Suvorovo,,Bulgaria,9170,6373 Morrow Park,Kamennogorsk,,Russia,188950,2117924853,delivered
+290,290,290,5/24/2022,5.7,74,902.78,0.2,527.89,290,credit card,95433 Raven Trail,Bouaflé,,Ivory Coast,,814 Farwell Drive,Pailitas,,Colombia,204007,6015110175,processing
+291,291,291,7/16/2020,3.11,29,497.67,0.42,5085.86,291,cash,1774 Onsgard Way,Lindavista,GUA,Mexico,37800,2504 Lukken Court,Batutua,,Indonesia,,2169838185,processing
+292,292,292,8/27/2022,7.63,4,658.32,1.0,8970.25,292,cash,7086 Mallory Drive,São Bernardo do Campo,,Brazil,09700-000,28003 Sloan Plaza,Kyaikkami,,Myanmar,,2064003142,pending
+293,293,293,12/21/2021,5.36,78,416.84,0.66,2296.24,293,cash,8 Manitowish Alley,Pankshin,,Nigeria,,9 Prentice Hill,Qimeng,,China,,5752200519,pending
+294,294,294,12/15/2021,19.81,72,168.95,0.99,1537.53,294,debit card,827 Almo Trail,Banjar Desa,,Indonesia,,45014 8th Street,Gœsdorf,,Luxembourg,L-9674,3255033248,delivered
+295,295,295,1/3/2022,20.65,45,880.11,0.39,9999.14,295,credit card,5983 Harbort Park,Orléans,A3,France,45957 CEDEX 9,59 Gerald Center,Pylaía,,Greece,,9985321261,processing
+296,296,296,1/2/2020,3.51,77,567.63,0.24,1520.26,296,credit card,738 Artisan Plaza,Naperville,IL,United States,60567,6314 Nancy Plaza,Kawęczyn,,Poland,62-704,5360690789,delivered
+297,297,297,5/8/2021,14.89,90,171.4,0.37,8582.87,297,credit card,958 Charing Cross Way,Xinminxiang,,China,,15235 Shelley Trail,Alíartos,,Greece,,7932578669,shipped
+298,298,298,1/20/2020,20.97,11,833.12,0.17,3105.83,298,cash,5 Knutson Street,Paris 19,A8,France,75171 CEDEX 19,87295 Goodland Lane,Karangbenda,,Indonesia,,9121596143,shipped
+299,299,299,1/18/2021,18.17,13,798.47,0.13,6424.16,299,debit card,569 Gerald Crossing,Pindobaçu,,Brazil,44770-000,5323 Hagan Center,Siverskiy,,Russia,188355,1992178062,delivered
+300,300,300,4/18/2021,20.8,49,711.11,0.41,8480.07,300,credit card,760 Kropf Avenue,Lingkou,,China,,0 Forest Avenue,Báguanos,,Cuba,,3752298294,pending
+301,301,301,1/13/2022,5.83,32,794.91,0.55,3759.53,301,cash,138 Nancy Pass,Stanisław Górny,,Poland,34-103,71458 2nd Circle,Sukaharja,,Indonesia,,1020460526,delivered
+302,302,302,7/30/2020,22.52,67,487.08,0.0,638.92,302,credit card,26281 Johnson Park,Dengyue,,China,,431 1st Plaza,Heshui,,China,,4523892124,pending
+303,303,303,11/2/2021,4.72,46,1.84,0.23,9946.91,303,debit card,7053 Browning Terrace,Mesopotam,,Albania,,354 Ridgeway Trail,Benito Juarez,MOR,Mexico,62214,3213649876,pending
+304,304,304,5/23/2022,22.26,79,302.87,0.97,6805.38,304,cash,0073 Superior Terrace,Ban Ko Lan,,Thailand,48180,84681 Rieder Way,Oruro,,Bolivia,,5727695550,shipped
+305,305,305,4/27/2020,23.17,37,544.02,0.44,2884.2,305,debit card,58631 Victoria Terrace,Dongxin,,China,,80709 Manley Park,Korolev,,Russia,249087,9001997396,processing
+306,306,306,11/3/2022,23.79,66,133.34,0.27,8271.92,306,debit card,462 Sullivan Center,Hamburg,HH,Germany,21037,052 Fairfield Alley,Kwolla,,Nigeria,,5653843955,processing
+307,307,307,8/19/2021,4.49,47,900.62,0.72,8834.05,307,credit card,0512 Packers Crossing,Klobuky,,Czech Republic,273 74,8173 Gulseth Hill,Baojia,,China,,8492964790,pending
+308,308,308,7/27/2020,21.74,50,14.03,0.84,4428.39,308,cash,6 Anzinger Court,Tortosendo,05,Portugal,6200-723,6 Northfield Park,Waipukang,,Indonesia,,7157220277,pending
+309,309,309,7/7/2020,9.95,2,749.26,0.19,2040.48,309,credit card,50 Schmedeman Way,Sîngerei,,Moldova,MD-6227,095 Donald Crossing,Qümong,,China,,1728276950,delivered
+310,310,310,4/11/2022,14.21,27,81.28,0.42,5098.68,310,debit card,10445 Anniversary Terrace,Wolmaransstad,,South Africa,2630,395 Steensland Drive,Zlaté Hory,,Czech Republic,793 76,2373376633,processing
+311,311,311,8/23/2020,7.95,99,868.62,0.17,5947.43,311,debit card,4 Monterey Plaza,Madison,WI,United States,53726,960 Hayes Circle,Gīdolē,,Ethiopia,,8952212264,pending
+312,312,312,6/3/2022,6.14,18,220.02,0.33,773.64,312,debit card,40 Dixon Parkway,Gorshechnoye,,Russia,307425,99 Harper Street,San Ignacio,,Honduras,,8069010785,processing
+313,313,313,7/26/2022,12.39,12,777.08,0.13,4843.04,313,cash,504 Jana Way,Barlinek,,Poland,74-320,5979 Blackbird Park,Nanlin,,China,,8983483052,delivered
+314,314,314,2/3/2022,3.89,49,556.57,0.04,9670.75,314,debit card,2 Linden Avenue,Chengyang,,China,,8 Saint Paul Court,Savitaipale,,Finland,54801,4463129658,delivered
+315,315,315,1/2/2020,17.27,24,360.51,0.46,6942.2,315,credit card,5118 Anderson Street,Akouda,,Tunisia,,4 Artisan Hill,Shuangqiao,,China,,8406028692,shipped
+316,316,316,11/8/2022,14.62,99,193.73,1.0,7186.8,316,debit card,88128 Jenna Way,Daduchuan,,China,,1 Lyons Drive,Grazhdanskoye,,Russia,363104,1861524976,delivered
+317,317,317,3/27/2022,17.65,64,758.2,0.72,9966.34,317,debit card,6 Pearson Parkway,Pakenjeng,,Indonesia,,183 Atwood Alley,Qinghe,,China,,7862797467,shipped
+318,318,318,6/12/2022,14.49,62,706.59,0.64,1478.32,318,cash,18012 Sherman Lane,Kassel,HE,Germany,34132,6 Anniversary Center,Cuevas,,Philippines,8505,3441751168,processing
+319,319,319,6/9/2021,17.68,32,785.63,0.18,5812.57,319,debit card,48 Meadow Vale Junction,Antopal’,,Belarus,,526 Forest Avenue,Chile Chico,,Chile,,8085527344,processing
+320,320,320,6/9/2021,7.63,5,70.09,0.37,2381.32,320,cash,183 Fulton Lane,Postoloprty,,Czech Republic,439 42,6685 Park Meadow Pass,Gunung Timur,,Indonesia,,4877773677,shipped
+321,321,321,12/24/2021,1.32,72,474.57,0.88,8858.15,321,debit card,4 Muir Terrace,Charlottetown,PE,Canada,C1B,70 Mallory Park,Guarapuava,,Brazil,85000-000,5655940663,shipped
+322,322,322,1/19/2021,20.38,38,153.69,0.04,82.17,322,credit card,95 Hanover Drive,Maonon,,Philippines,4402,6 Oakridge Drive,Otyniya,,Ukraine,,9452947166,shipped
+323,323,323,3/26/2022,20.2,39,544.72,0.66,8715.37,323,cash,8 Fieldstone Terrace,Massaranduba,,Brazil,89108-000,9 Saint Paul Court,Iraray,,Philippines,7300,1405101943,pending
+324,324,324,1/23/2021,6.46,59,862.06,0.38,1132.46,324,debit card,6245 Blue Bill Park Parkway,Bor Ondor,,China,,4 Glendale Parkway,Witbank,,South Africa,2250,5069804015,pending
+325,325,325,11/12/2020,15.71,29,55.69,0.54,6866.83,325,credit card,72 Continental Road,Mompach,,Luxembourg,L-6695,80 Westend Junction,Gupakan,,Indonesia,,6503158192,delivered
+326,326,326,11/20/2021,1.87,93,308.99,0.33,9031.78,326,cash,9570 Hanson Parkway,"Coruña, A",GA,Spain,15190,1 Magdeline Drive,Ekenäs,,Finland,35530,1479633359,shipped
+327,327,327,6/10/2020,15.88,63,49.26,0.61,3296.11,327,credit card,415 Bay Avenue,Shāhpur Chākar,,Pakistan,72121,68 Hansons Hill,Mingshuihe,,China,,3106459172,processing
+328,328,328,11/9/2022,12.1,67,563.77,0.84,80.2,328,credit card,3 Lotheville Point,El Hatillo,,Venezuela,,8957 Annamark Alley,Mirovka,,Ukraine,,2050819608,processing
+329,329,329,8/12/2021,1.11,91,621.68,0.02,5601.12,329,debit card,1 Morningstar Plaza,Samut Songkhram,,Thailand,75110,294 Briar Crest Place,Panglanjan,,Indonesia,,8918836419,pending
+330,330,330,7/22/2020,22.97,85,4.78,0.59,6036.92,330,credit card,3 Moland Circle,Xiapu,,China,,213 Almo Pass,Pacaembu,,Brazil,17860-000,2968868596,shipped
+331,331,331,2/6/2022,19.88,3,299.86,0.32,8569.79,331,credit card,1692 Carey Junction,Widuchowa,,Poland,74-120,025 Cody Trail,Mendī,,Ethiopia,,5023606760,pending
+332,332,332,1/13/2021,0.16,4,965.18,0.28,1565.23,332,cash,61407 Fisk Junction,Paseka,,Czech Republic,783 97,640 Vera Parkway,Kobylin,,Poland,63-740,4737408038,processing
+333,333,333,12/9/2020,5.51,23,62.09,0.06,8274.34,333,cash,24393 Red Cloud Road,El Aïoun,,Morocco,,37428 Dakota Junction,Hamburg,HH,Germany,20249,2536569764,pending
+334,334,334,6/29/2020,17.37,53,535.58,0.14,8136.46,334,credit card,4 Summit Pass,Rosmaninhal,05,Portugal,6060-414,5 Prairie Rose Terrace,Kopang Satu,,Indonesia,,2905498720,processing
+335,335,335,1/27/2021,10.35,12,773.53,0.3,4086.01,335,debit card,92597 Arizona Road,Pocito,,Argentina,6430,78021 Old Gate Lane,Larangan,,Indonesia,,9087694126,pending
+336,336,336,11/3/2020,3.44,21,989.59,0.11,9074.69,336,credit card,0890 Swallow Plaza,Wuku,,China,,35 Bluestem Terrace,Karinë,,Albania,,7446284791,pending
+337,337,337,3/5/2021,8.04,74,282.7,0.65,3527.74,337,credit card,61 Kings Place,Rurrenabaque,,Bolivia,,80834 Prentice Lane,Granada,,Nicaragua,,9096254597,processing
+338,338,338,7/6/2020,15.22,60,837.68,0.09,948.83,338,debit card,7392 Vermont Center,Jangas,,Peru,,1796 Debra Circle,Alangilanan,,Philippines,2420,5451701860,shipped
+339,339,339,9/11/2022,5.08,7,432.8,0.51,5356.79,339,debit card,0152 Prairieview Crossing,Saint-Constant,QC,Canada,J5A,9 Forest Way,Lajeosa,06,Portugal,3405-305,7694812367,delivered
+340,340,340,7/26/2021,18.91,82,734.65,0.77,7915.47,340,credit card,3 Green Ridge Circle,Yinjiang,,China,,3 Comanche Plaza,Bugojno,,Bosnia and Herzegovina,,5320988974,delivered
+341,341,341,7/27/2022,14.39,95,61.43,0.01,2781.67,341,cash,93039 Carpenter Center,Quma,,China,,0 Basil Junction,Useldange,,Luxembourg,L-8708,9165850462,processing
+342,342,342,7/5/2020,15.32,29,284.11,0.67,9282.76,342,cash,65045 Clyde Gallagher Alley,El Paraiso,GRO,Mexico,40050,8405 Buena Vista Center,Mitrofanovka,,Russia,618541,9693557741,shipped
+343,343,343,4/1/2020,14.99,75,627.53,0.35,1939.81,343,debit card,86 Golden Leaf Lane,Pámfylla,,Greece,,0 Village Green Avenue,Depok,,Indonesia,,2286223719,shipped
+344,344,344,2/5/2020,17.0,27,67.7,0.99,3254.84,344,credit card,4663 Hayes Point,Limeil-Brévannes,A8,France,94454 CEDEX,476 Evergreen Trail,Rāvar,,Iran,,4795616362,delivered
+345,345,345,2/28/2021,9.04,80,733.8,0.64,6976.44,345,cash,098 Village Green Lane,Mirzāpur,,Bangladesh,1945,720 Village Court,Changsheng,,China,,9120022292,shipped
+346,346,346,3/23/2021,16.66,67,134.71,0.48,4740.85,346,debit card,0 Schurz Court,Independencia,VER,Mexico,91891,4 Green Center,Krajan Craken,,Indonesia,,3599561275,processing
+347,347,347,6/3/2020,20.6,1,122.64,0.22,1612.55,347,debit card,4 Lawn Avenue,Culacling,,Philippines,4409,95 Gale Park,Jingchuan Chengguanzhen,,China,,5785556877,delivered
+348,348,348,6/20/2020,23.48,66,326.85,0.21,5286.92,348,credit card,9 Rockefeller Drive,Kolbudy,,Poland,83-050,70299 Lakewood Circle,Gaio,15,Portugal,2860-613,5414596004,delivered
+349,349,349,7/25/2021,7.35,76,931.13,0.3,4506.38,349,cash,41863 Milwaukee Street,Tržič,,Slovenia,4290,72 Butternut Hill,Thị Trấn Ngải Giao,,Vietnam,,3922142418,delivered
+350,350,350,1/26/2022,4.25,89,694.92,0.17,7899.79,350,credit card,9702 Vera Point,Upi,,Philippines,1630,11886 Upham Plaza,Carvalhal Redondo,18,Portugal,3525-405,6867117763,processing
+351,351,351,6/26/2022,18.93,31,439.23,0.61,5254.22,351,credit card,74 Prairieview Terrace,Daoukro,,Ivory Coast,,3 High Crossing Lane,Waerana,,Indonesia,,3995629685,delivered
+352,352,352,12/30/2020,17.3,24,125.31,0.62,9806.09,352,debit card,4 Nobel Parkway,Vylkove,,Ukraine,,04 Corben Court,Châteauroux,A3,France,36019 CEDEX,8203504069,delivered
+353,353,353,1/30/2020,14.5,18,852.38,0.25,5843.44,353,cash,8 Golden Leaf Pass,Kinel’-Cherkassy,,Russia,446168,7 Summerview Way,Ashkāsham,,Afghanistan,,8533838894,processing
+354,354,354,6/3/2021,12.82,1,511.64,0.4,1450.27,354,debit card,21 Northland Crossing,Lanipao,,Philippines,9313,440 Loeprich Center,Biwer,,Luxembourg,L-6834,6144231832,shipped
+355,355,355,2/18/2021,13.94,49,393.75,0.77,4269.62,355,cash,09 Forest Dale Street,Lincheng,,China,,8 Debra Place,Sumberagung,,Indonesia,,5206370302,pending
+356,356,356,10/7/2020,14.29,92,189.65,0.46,5577.91,356,cash,8 Debs Hill,Shaliu,,China,,550 Pine View Road,Čelinac,,Bosnia and Herzegovina,,9780193491,shipped
+357,357,357,3/10/2021,1.62,96,751.91,0.81,9703.44,357,credit card,454 High Crossing Trail,Noling,,Philippines,2731,08 Ridge Oak Road,El Mirador,MEX,Mexico,56564,4079545667,processing
+358,358,358,9/18/2022,17.56,21,302.43,0.61,8496.2,358,debit card,8 Victoria Way,Turt,,Mongolia,,6720 Texas Alley,Iguape,,Brazil,11920-000,6915226745,shipped
+359,359,359,7/4/2021,7.1,2,712.87,0.67,6850.44,359,debit card,6229 Menomonie Avenue,Amagbagan,,Philippines,2437,70990 Roxbury Place,Titab,,Indonesia,,4480924009,shipped
+360,360,360,6/5/2021,15.3,43,394.38,0.13,2051.72,360,cash,230 Talisman Trail,Canauay,,Philippines,4214,455 Manley Parkway,Nueva Fuerza,,Philippines,6224,3772464543,shipped
+361,361,361,11/27/2021,1.8,82,532.87,0.56,3030.27,361,credit card,9 Rowland Center,Prámanta,,Greece,,97 Bobwhite Junction,Karpinsk,,Russia,624936,5653093825,processing
+362,362,362,8/27/2020,0.21,45,145.47,0.61,8459.47,362,cash,27 Little Fleur Court,Viga,,Philippines,4805,0149 Forest Drive,Dzhayrakh,,Russia,309273,8309912348,delivered
+363,363,363,5/19/2020,15.01,94,357.34,0.69,5661.46,363,cash,5 New Castle Avenue,Xiaoyang,,China,,102 Sommers Circle,Maddarulug Norte,,Philippines,3501,6962718410,shipped
+364,364,364,7/16/2022,10.98,69,625.69,0.77,3663.01,364,credit card,724 Memorial Way,Kiyevskoye,,Russia,363710,756 Warner Avenue,Qiaoxia,,China,,8890636242,processing
+365,365,365,7/24/2022,7.79,65,528.44,0.61,5513.01,365,credit card,53 Nelson Place,Xishaqiao,,China,,7 Parkside Center,Tríkala,,Greece,,5589852863,pending
+366,366,366,6/5/2022,16.81,33,69.82,0.25,4544.97,366,cash,4 Reinke Street,Kasreman,,Indonesia,,7472 Burrows Hill,Spandaryan,,Armenia,,2262360250,processing
+367,367,367,11/26/2022,22.38,66,750.71,0.52,4518.78,367,cash,17590 Carioca Lane,Gradačac,,Bosnia and Herzegovina,,240 Corry Alley,Las Parejas,,Argentina,2505,9035050149,shipped
+368,368,368,4/26/2022,8.19,8,591.33,0.25,4512.78,368,credit card,608 Corben Court,Addis Ababa,,Ethiopia,,09418 Moland Hill,Idvor,,Serbia,,5634620575,processing
+369,369,369,3/12/2021,3.97,85,737.03,0.08,6672.57,369,debit card,0 Gulseth Court,Chōfugaoka,,Japan,203-0044,430 Forest Dale Terrace,Göteborg,O,Sweden,412 79,9024425658,pending
+370,370,370,12/30/2022,15.91,15,698.01,0.68,6348.0,370,debit card,15219 Gale Point,Memaliaj,,Albania,,10165 Mesta Crossing,Jinshan,,China,,9130756144,pending
+371,371,371,7/11/2020,11.78,5,348.99,0.65,5253.14,371,debit card,486 Elmside Lane,Tonjongsari,,Indonesia,,01935 8th Way,Menghe,,China,,4660226628,processing
+372,372,372,9/12/2021,4.57,85,853.88,0.65,1624.21,372,credit card,09 Gina Junction,Daguo,,China,,2071 Upham Park,Daping,,China,,9356523265,pending
+373,373,373,9/6/2021,1.41,98,326.42,0.57,9298.39,373,cash,58911 Prentice Terrace,Partizansk,,Russia,309311,629 Sycamore Lane,Pang,,Philippines,4103,9391711115,processing
+374,374,374,10/22/2020,11.21,22,942.08,0.72,1995.81,374,cash,64182 Forest Lane,Pateros,,Philippines,1930,68888 Brickson Park Avenue,Xijiang,,China,,3772078818,processing
+375,375,375,3/30/2022,6.58,93,683.99,0.2,3904.2,375,cash,97394 Ronald Regan Street,Khvalynsk,,Russia,412787,948 Onsgard Trail,Loma Alta,TAM,Mexico,87605,2143844270,pending
+376,376,376,10/23/2020,17.68,89,556.18,0.52,1447.29,376,debit card,382 David Plaza,Baiyang,,China,,29852 Steensland Trail,Azinhal,08,Portugal,8950-023,1780796993,shipped
+377,377,377,6/27/2020,3.36,69,584.14,0.13,1928.09,377,debit card,77 Homewood Terrace,Popielów,,Poland,46-090,85176 Brown Trail,Laúndos,13,Portugal,4570-308,3811812243,pending
+378,378,378,11/25/2020,13.51,56,778.57,0.56,9815.12,378,debit card,46 Schurz Avenue,Côte-Saint-Luc,QC,Canada,H7V,43 Pond Drive,Awilega,,Indonesia,,2903240769,pending
+379,379,379,12/9/2022,0.71,18,596.13,0.2,4782.22,379,cash,72 Grim Way,Gamut,,Philippines,8308,158 Northland Hill,Şurmān,,Libya,,8420133591,processing
+380,380,380,1/1/2021,7.01,22,870.96,0.61,5944.46,380,cash,45905 Ohio Street,‘Amrān,,Yemen,,69796 Amoth Street,Cartagena,,Colombia,130027,9970530986,delivered
+381,381,381,5/30/2022,18.13,46,430.56,0.26,6446.88,381,debit card,650 Continental Plaza,Loandjili,,Republic of the Congo,,300 Southridge Center,Jatirogo,,Indonesia,,8462747819,pending
+382,382,382,5/6/2021,20.88,65,675.55,0.69,1679.19,382,debit card,9 Logan Trail,Chambar,,Pakistan,35401,56 Steensland Circle,Strašice,,Czech Republic,338 45,1743328600,processing
+383,383,383,1/24/2021,2.87,85,965.41,0.36,6898.87,383,credit card,90234 Sugar Circle,Pico Truncado,,Argentina,9015,438 Ruskin Place,Karukh,,Afghanistan,,3696468072,processing
+384,384,384,2/15/2021,1.86,9,205.57,0.53,5563.73,384,credit card,2 Vera Place,Bandar-e ‘Asalūyeh,,Iran,,69582 Brickson Park Crossing,Yuncao,,China,,9308168017,delivered
+385,385,385,2/2/2020,2.1,80,193.7,0.6,3955.39,385,cash,33 Lotheville Lane,Rothesay Bay,,New Zealand,0794,8 Toban Way,San Julian,,Bolivia,,6566870105,processing
+386,386,386,8/31/2021,12.78,46,728.82,0.32,6418.21,386,debit card,9494 Jay Terrace,Pouébo,,New Caledonia,98824,3785 Declaration Plaza,Jabal os Saraj,,Afghanistan,,3307466780,processing
+387,387,387,11/5/2021,13.05,90,639.94,0.7,6805.53,387,cash,5 Shasta Trail,Zhen’an,,China,,3 4th Junction,Nakuru,,Kenya,,6016771075,shipped
+388,388,388,9/25/2022,18.63,4,810.18,0.98,127.78,388,cash,78188 Dennis Hill,Guadalupe Victoria,PUE,Mexico,75694,0309 School Alley,Vylkove,,Ukraine,,5854474184,shipped
+389,389,389,11/29/2020,10.42,96,23.88,0.52,1670.41,389,credit card,6547 Kim Hill,Irkliyevskaya,,Russia,353144,689 Vera Alley,Samothráki,,Greece,,9859890324,processing
+390,390,390,4/14/2021,8.77,31,806.03,0.03,731.88,390,cash,1 Village Green Place,Bethlehem,,Palestinian Territory,,689 Ruskin Crossing,Chaumont,A4,France,52011 CEDEX,1613536338,processing
+391,391,391,6/3/2022,20.15,58,314.75,0.23,3456.22,391,debit card,93 Melody Circle,Beopwon,,South Korea,,833 Gina Road,Provins,A8,France,77484 CEDEX,2205874689,pending
+392,392,392,9/16/2022,23.38,22,270.78,0.27,8147.18,392,debit card,9196 Meadow Valley Point,Corga,16,Portugal,4960-330,9 Meadow Vale Center,Illkirch-Graffenstaden,C1,France,67404 CEDEX,6468228705,processing
+393,393,393,2/28/2020,13.75,71,219.3,0.69,627.87,393,cash,27129 Mockingbird Plaza,Vinhais,04,Portugal,5320-305,1 Express Terrace,Saint-Julien-en-Genevois,B9,France,74164 CEDEX,8154174681,delivered
+394,394,394,3/21/2020,15.03,17,284.23,0.59,9090.61,394,cash,68 Buena Vista Plaza,Rodionovo-Nesvetayskaya,,Russia,346580,17603 Cody Hill,Itu,,Nigeria,,3161308373,shipped
+395,395,395,4/4/2020,2.68,30,294.13,0.87,6026.51,395,debit card,4064 Warbler Drive,Węgorzyno,,Poland,73-155,5020 Merry Lane,Boncong,,Indonesia,,2574743845,delivered
+396,396,396,9/6/2020,16.07,46,6.32,0.64,9507.01,396,credit card,92763 Nova Avenue,Trzin,,Slovenia,1236,031 Sunbrook Crossing,Longsheng,,China,,5829502180,shipped
+397,397,397,8/13/2021,21.72,25,902.74,0.35,674.97,397,cash,23 Victoria Plaza,Várzea da Serra,18,Portugal,3610-193,86562 Heffernan Plaza,Khāngāh Dogrān,,Pakistan,39250,8244575510,shipped
+398,398,398,10/6/2020,9.15,13,667.7,1.0,6642.91,398,cash,69308 Fordem Parkway,La Palma,,Panama,,4 Packers Drive,San Bernardo,,Philippines,3328,7657963305,processing
+399,399,399,7/3/2020,17.9,73,836.29,0.0,3716.19,399,cash,1010 Kensington Place,Pyhäsalmi,,Finland,86801,1150 Michigan Lane,Zator,,Poland,32-640,7583630326,processing
+400,400,400,4/2/2021,7.36,37,546.05,0.6,6398.71,400,credit card,5158 Center Park,Lykóvrysi,,Greece,,87868 Buhler Drive,Tierp,C,Sweden,815 36,7323778537,pending
+401,401,401,2/27/2020,22.57,8,298.23,0.61,8944.33,401,debit card,2836 Goodland Street,Loštice,,Czech Republic,789 83,93 Ridgeway Center,Marseille,B8,France,13393 CEDEX 13,6373279793,delivered
+402,402,402,8/26/2022,17.89,13,863.09,0.91,4907.17,402,debit card,75719 Ryan Parkway,Tanniu,,China,,186 Comanche Street,Zapala,,Argentina,8340,6585611354,delivered
+403,403,403,4/22/2022,22.63,5,585.64,0.86,2221.24,403,debit card,317 Lakewood Gardens Circle,Pavliš,,Serbia,,601 Prairie Rose Terrace,Sumberkenanga,,Indonesia,,1001546328,pending
+404,404,404,2/5/2021,14.28,47,170.19,0.81,8770.12,404,cash,0966 Golf Course Way,Longchiqiao,,China,,8274 Fairfield Alley,Lazarevskoye,,Russia,397474,3993437469,delivered
+405,405,405,7/4/2021,21.69,87,431.24,0.34,5961.66,405,credit card,7243 Buhler Trail,Indianapolis,IN,United States,46278,0 Florence Avenue,Cova Figueira,,Cape Verde,,8321240221,processing
+406,406,406,5/15/2022,2.1,57,145.67,0.71,1248.71,406,cash,167 Sundown Road,Avignon,B8,France,84007 CEDEX 1,90 Arapahoe Point,Zhaobei,,China,,9858230407,shipped
+407,407,407,11/8/2021,6.32,82,403.74,0.94,4666.75,407,cash,5 Cordelia Way,Russkiy,,Russia,690922,270 Mesta Street,Pavlovskaya,,Russia,353147,2927085334,shipped
+408,408,408,3/31/2022,13.95,46,737.97,0.8,5672.51,408,debit card,9259 Montana Drive,Kaavi,,Finland,73601,738 Michigan Lane,El Charco,,Colombia,527537,1610437060,pending
+409,409,409,9/29/2020,4.9,62,365.91,0.76,7647.36,409,cash,2660 Starling Crossing,Areni,,Armenia,,2006 Express Place,Sobral,16,Portugal,4990-585,6777141079,pending
+410,410,410,9/16/2022,6.8,80,710.98,0.15,9270.7,410,credit card,46 Mccormick Lane,Penja,,Cameroon,,5646 Lerdahl Park,Oqtosh,,Uzbekistan,,9435317690,shipped
+411,411,411,7/12/2020,18.59,91,932.53,0.88,9767.49,411,credit card,634 Pine View Court,Blachownia,,Poland,42-293,8 Eagan Trail,Porta,16,Portugal,4940-352,8028573867,delivered
+412,412,412,11/13/2020,2.31,29,61.17,0.78,536.62,412,credit card,174 Sutherland Lane,Levallois-Perret,A8,France,92592 CEDEX,74617 Donald Alley,Dorowa Mining Lease,,Zimbabwe,,7850608439,shipped
+413,413,413,4/23/2020,18.48,56,327.21,0.27,3367.06,413,cash,7384 Kipling Way,El Banco,,Colombia,473049,97271 Corry Road,Khujirt,,Mongolia,,9388977298,shipped
+414,414,414,1/13/2020,17.15,8,88.91,0.2,2816.44,414,credit card,180 Kinsman Pass,Biwer,,Luxembourg,L-6834,1 Oak Valley Plaza,Estique,,Peru,,1341653405,pending
+415,415,415,9/11/2022,15.47,62,504.02,0.03,3118.95,415,cash,072 Blaine Court,Tāndo Mittha Khān,,Pakistan,40411,8114 Cardinal Terrace,Torres Vedras,11,Portugal,2560-234,7995225224,processing
+416,416,416,10/25/2022,10.06,78,963.9,0.34,2972.82,416,credit card,7764 Memorial Trail,Bigoudine,,Morocco,,6451 Northridge Place,Sandur,,Faroe Islands,215,6313470503,delivered
+417,417,417,4/27/2022,12.72,81,571.54,0.74,3209.23,417,debit card,7371 Corben Trail,Xiadahe,,China,,3 Hudson Crossing,Jiexiu,,China,,8874111689,shipped
+418,418,418,4/27/2020,12.21,23,914.12,0.85,2025.54,418,credit card,95 Lien Terrace,Orissaare,,Estonia,,5 Prairieview Court,Eláteia,,Greece,,1942538256,delivered
+419,419,419,5/29/2020,1.43,43,909.66,0.21,5705.12,419,debit card,0 Express Circle,Buenaventura,,Colombia,764517,7870 Melrose Street,Quảng Ngãi,,Vietnam,,6792236915,delivered
+420,420,420,4/8/2022,18.08,22,405.17,0.94,3240.89,420,credit card,40701 Barby Place,Panan,,Philippines,1105,364 International Pass,Evansville,IN,United States,47725,7845355370,processing
+421,421,421,9/17/2022,10.15,29,725.28,0.2,2590.2,421,cash,68594 Bowman Hill,Khān Shaykhūn,,Syria,,10 Carioca Circle,Sarandi,,Brazil,99560-000,5003385390,shipped
+422,422,422,10/23/2021,15.0,79,649.01,0.49,5390.13,422,credit card,9 Rieder Point,Valencia,,Venezuela,,4 Birchwood Avenue,Danderyd,AB,Sweden,182 34,9915405309,pending
+423,423,423,8/13/2021,15.6,46,185.84,0.97,9824.44,423,debit card,89 Lillian Trail,Balzar,,Ecuador,,1 Hallows Trail,Australia Square,NSW,Australia,1213,2599122371,processing
+424,424,424,2/28/2022,7.74,2,98.97,0.71,5083.25,424,credit card,2 Sommers Hill,Xiatang,,China,,8 Corry Alley,Jinjiang,,China,,6526125283,pending
+425,425,425,9/27/2021,7.3,48,574.84,0.92,9242.09,425,debit card,48 Gulseth Trail,Pulorejo,,Indonesia,,2 Orin Point,Algeciras,,Colombia,413048,7491982613,pending
+426,426,426,7/2/2022,6.03,19,379.22,0.88,8800.39,426,credit card,57316 Morrow Point,San Miguel,,Philippines,8301,70 Sundown Point,Mount Darwin,,Zimbabwe,,1714662217,shipped
+427,427,427,12/29/2021,10.46,64,422.22,0.62,645.86,427,debit card,91581 Blaine Road,Waalwijk,06,Netherlands,5144,658 Center Place,Hadakewa,,Indonesia,,6581861488,pending
+428,428,428,7/13/2022,23.4,35,326.73,0.81,9104.4,428,cash,32 Pepper Wood Place,San Jose,VER,Mexico,95643,143 Pond Street,Robertsport,,Liberia,,4368244611,pending
+429,429,429,3/21/2020,1.83,60,564.99,0.91,1584.41,429,credit card,4 Johnson Pass,Alexandria,,Jamaica,,4663 Vermont Terrace,Yushu,,China,,7742286206,delivered
+430,430,430,11/16/2020,8.96,99,481.68,0.25,290.97,430,cash,2241 Spaight Pass,Gevgelija,,Macedonia,1480,81891 Blue Bill Park Drive,La Aurora,JAL,Mexico,48338,1359550042,pending
+431,431,431,5/17/2020,11.42,92,265.87,0.49,9719.85,431,debit card,0479 Anzinger Parkway,Haparanda,BD,Sweden,953 91,90 Hermina Park,Canga’an,,Indonesia,,5002965576,pending
+432,432,432,8/21/2021,7.37,12,388.21,0.47,4635.65,432,credit card,91568 Moland Plaza,Krasnyy Kholm,,Russia,171679,183 Rusk Road,Danao,,Philippines,6344,1303691820,delivered
+433,433,433,2/20/2020,7.76,16,736.39,0.29,1306.49,433,cash,3885 Sheridan Way,Strasbourg,C1,France,67029 CEDEX 1,7984 Sauthoff Drive,Berkovitsa,,Bulgaria,3500,8056760817,processing
+434,434,434,5/1/2022,13.89,28,454.54,0.26,470.16,434,debit card,7668 Blue Bill Park Pass,Vilnius,,Lithuania,27001,0966 3rd Place,Nankengzi,,China,,6938368642,delivered
+435,435,435,6/20/2021,18.95,49,24.04,0.97,2963.29,435,cash,93003 Riverside Hill,Byumba,,Rwanda,,32 Westend Pass,Basing,,Philippines,2417,5469914395,shipped
+436,436,436,9/9/2020,15.65,82,490.71,0.34,8219.4,436,debit card,9268 Service Circle,Maodao,,China,,397 Sloan Pass,Novi Travnik,,Bosnia and Herzegovina,,4891544753,pending
+437,437,437,2/29/2020,20.31,1,548.45,0.49,2590.78,437,credit card,31097 Atwood Junction,Daytona Beach,FL,United States,32123,9 Haas Court,Firenze,TC,Italy,50124,4562688270,delivered
+438,438,438,2/19/2021,1.96,5,311.44,0.19,2842.39,438,credit card,4310 Acker Center,Kalapadua,,Indonesia,,47839 Dexter Road,Tabu,,Indonesia,,8344503676,delivered
+439,439,439,5/15/2022,10.68,6,209.6,0.29,9693.68,439,credit card,2 Pond Center,Kizema,,Russia,165262,6109 Morningstar Point,Zhongyuan,,China,,1343981755,delivered
+440,440,440,10/5/2021,6.19,54,416.23,0.9,2680.23,440,cash,44409 Luster Road,Burunday,,Kazakhstan,,1676 Kensington Center,Carriedo,,Philippines,2446,8278757510,pending
+441,441,441,11/17/2021,4.61,82,643.84,1.0,184.3,441,cash,89787 Eagle Crest Hill,Chłapowo,,Poland,84-120,1446 Gina Place,Thạnh Mỹ,,Vietnam,,7649078950,delivered
+442,442,442,3/30/2022,15.13,55,281.39,0.89,4640.32,442,cash,091 Dryden Court,El Porvenir,COA,Mexico,29920,73328 Dryden Plaza,Thatta,,Pakistan,73130,6426246244,delivered
+443,443,443,8/23/2021,9.91,52,184.25,0.48,7044.26,443,debit card,99 Waywood Trail,Chuanxi,,China,,14 Burning Wood Trail,Gondanglegi Wetan,,Indonesia,,3709743853,pending
+444,444,444,2/5/2022,13.8,47,23.89,0.45,4695.69,444,credit card,67 Summerview Court,Hampang,,Indonesia,,523 Sutherland Terrace,Huitong,,China,,6975799658,shipped
+445,445,445,8/19/2020,4.49,37,815.47,0.95,3343.78,445,debit card,57 Walton Way,Notodden,08,Norway,3675,9002 Glacier Hill Alley,Dolní Lhota,,Czech Republic,747 66,9725419905,shipped
+446,446,446,1/13/2020,21.08,57,866.26,0.12,9649.57,446,debit card,42 Cambridge Lane,Skuodas,,Lithuania,98001,0582 Westerfield Crossing,Billa,,Indonesia,,7264210581,pending
+447,447,447,9/19/2020,15.13,72,281.3,0.18,9770.95,447,cash,35691 Crest Line Road,Druya,,Belarus,,65 Utah Pass,Xiaogang,,China,,9297106839,pending
+448,448,448,11/10/2020,11.0,92,105.96,0.04,3371.51,448,debit card,0 Boyd Hill,Nanxia,,China,,7714 Corben Avenue,Vredefort,,South Africa,9595,3914206569,shipped
+449,449,449,8/2/2020,16.43,90,170.88,0.67,7356.6,449,credit card,37 Anniversary Junction,Maringá,,Brazil,87000-000,2199 Chinook Park,Huangdao,,China,,5230540540,shipped
+450,450,450,6/7/2020,8.83,81,130.57,0.32,8030.64,450,credit card,1 Fallview Terrace,Dalubian,,China,,23 Waubesa Lane,Jinjiang,,China,,6165290670,processing
+451,451,451,4/5/2020,19.13,14,699.95,0.67,1243.23,451,credit card,30 North Crossing,Santa Cruz,,Philippines,5105,50 Commercial Avenue,Vällingby,AB,Sweden,162 55,6951779974,processing
+452,452,452,3/2/2022,2.87,49,602.21,0.68,4495.47,452,credit card,42 Green Parkway,Jindaoxia,,China,,24 Summerview Junction,Melchor de Mencos,,Guatemala,17011,8608816444,delivered
+453,453,453,8/11/2021,2.11,17,18.89,0.66,5940.09,453,cash,3498 Lakewood Road,Ādam,,Oman,,96614 Homewood Way,Bulubrangsi,,Indonesia,,3874923529,pending
+454,454,454,6/12/2020,22.39,65,48.75,0.93,964.17,454,credit card,33590 Barnett Way,Dukuhturi,,Indonesia,,4091 Helena Drive,Philadelphia,PA,United States,19104,1018585251,pending
+455,455,455,2/16/2021,3.43,77,196.77,0.11,6727.98,455,credit card,4 Carioca Hill,Niquinohomo,,Nicaragua,,91 Cordelia Center,Ndjolé,,Gabon,,2464327902,delivered
+456,456,456,9/4/2022,11.53,85,688.39,0.15,4616.9,456,cash,71458 Kropf Drive,Kurume,,Japan,963-8846,1 Sachs Park,Vingåker,D,Sweden,643 92,4030196832,pending
+457,457,457,4/10/2022,15.55,3,825.67,0.31,77.26,457,cash,992 Amoth Crossing,Pakisaji,,Indonesia,,3267 Tomscot Circle,Panambi,,Brazil,98280-000,2713730773,delivered
+458,458,458,9/4/2022,0.93,22,185.47,0.4,4405.42,458,credit card,98463 Claremont Junction,Katori-shi,,Japan,311-2426,267 John Wall Hill,Wangda,,China,,4033429168,processing
+459,459,459,4/11/2021,22.97,66,396.23,0.31,5715.66,459,credit card,253 Lake View Plaza,Bolong,,Philippines,5001,6 Manufacturers Alley,Carmen,,Philippines,9408,9837900961,processing
+460,460,460,10/30/2022,11.48,16,45.1,0.64,8514.37,460,debit card,966 Corscot Center,Webuye,,Kenya,,99 Corry Center,Magallon Cadre,,Philippines,6132,2111768617,pending
+461,461,461,3/10/2021,6.17,92,187.05,0.56,8645.65,461,debit card,389 Corben Junction,Montecristi,,Ecuador,,2 Lakewood Street,Dingcheng,,China,,8844319662,shipped
+462,462,462,3/1/2021,5.95,60,607.4,0.8,4913.37,462,credit card,642 Lotheville Street,Seattle,WA,United States,98148,406 Gateway Center,Mississauga,ON,Canada,L5W,7312399529,delivered
+463,463,463,4/29/2022,16.8,39,467.9,0.56,2460.63,463,credit card,6 Arrowood Parkway,Łęknica,,Poland,68-208,5 Arrowood Plaza,Torrance,CA,United States,90505,1420024632,delivered
+464,464,464,3/22/2022,6.14,88,578.98,0.84,5874.67,464,credit card,35 Erie Street,Winnipeg,MB,Canada,R3L,50762 Porter Trail,Tabasalu,,Estonia,,2158027711,pending
+465,465,465,10/28/2021,2.37,80,814.67,0.72,1458.53,465,credit card,240 Express Place,Maddarulug Norte,,Philippines,3501,15 Del Mar Trail,Pambuhan,,Philippines,8303,5520991409,processing
+466,466,466,4/23/2021,22.36,93,523.68,0.3,629.44,466,debit card,72153 Grim Center,Uchimaru,,Japan,407-0002,50323 Troy Avenue,Salam,,Indonesia,,2376632827,delivered
+467,467,467,12/3/2021,17.79,2,310.62,0.57,4422.74,467,debit card,47601 West Drive,Noebesa,,Indonesia,,81611 Arrowood Plaza,Descalvado,,Brazil,13690-000,6430612560,shipped
+468,468,468,3/2/2020,23.96,61,788.5,0.85,5994.59,468,debit card,2446 Sachtjen Road,Neos Voutzás,,Greece,,9460 Burrows Parkway,Strömsund,Z,Sweden,833 34,1522282759,shipped
+469,469,469,10/1/2020,16.69,36,19.96,0.81,4098.43,469,credit card,339 Thierer Avenue,Longonjo,,Angola,,3470 Dexter Place,Huangjinjing,,China,,7817359090,processing
+470,470,470,11/12/2021,10.72,13,53.72,0.08,9474.54,470,credit card,74646 Golf View Avenue,Derzhavīnsk,,Kazakhstan,,005 Forster Pass,Katyuzhanka,,Ukraine,,5358765787,delivered
+471,471,471,10/15/2020,10.45,43,967.17,0.27,6259.27,471,cash,99169 Glacier Hill Trail,Nanjie,,China,,6 Maple Pass,Rybatskoye,,Russia,196851,5139953258,processing
+472,472,472,3/24/2022,5.54,39,75.42,0.35,2093.68,472,cash,80966 Hagan Hill,Tranås,F,Sweden,573 36,16747 Service Court,Majunying,,China,,6357071851,shipped
+473,473,473,11/3/2020,1.99,57,147.72,0.1,5350.24,473,credit card,2 Fulton Trail,Chamlykskaya,,Russia,352547,515 Lawn Alley,Ludvika,W,Sweden,771 55,4070315233,delivered
+474,474,474,7/26/2020,2.67,26,93.24,0.51,7388.16,474,cash,434 Dryden Way,Agrelo,03,Portugal,4730-300,44255 Rockefeller Center,Sadang Kulon,,Indonesia,,8821428852,shipped
+475,475,475,5/4/2020,5.6,59,388.7,0.56,2774.82,475,credit card,0566 Buena Vista Avenue,Guisijan,,Philippines,5705,0081 Messerschmidt Pass,Yamagata-shi,,Japan,990-2412,2847804541,processing
+476,476,476,4/27/2020,1.11,42,924.96,0.85,3838.21,476,debit card,48088 Eagan Lane,Xinan,,China,,55 Gerald Place,Thành Phố Hà Giang,,Vietnam,,4678875416,delivered
+477,477,477,5/28/2020,10.42,73,782.56,0.69,608.13,477,cash,65054 Lukken Road,København,1084,Denmark,1457,1 Spohn Trail,Luzern,LU,Switzerland,6005,8202822993,processing
+478,478,478,2/28/2021,12.16,21,970.61,0.51,1143.17,478,credit card,525 Spenser Road,Massy,A8,France,91304 CEDEX,01 Dunning Pass,Carrascal,14,Portugal,6120-215,9546549604,shipped
+479,479,479,4/29/2022,11.55,19,48.06,0.17,5804.37,479,cash,2 Eastwood Park,Ordzhonikidzevskaya,,Russia,386245,1 Arapahoe Lane,Amiens,B6,France,80048 CEDEX 1,7003279937,pending
+480,480,480,11/7/2021,12.12,10,271.94,0.17,9489.51,480,debit card,7 Dahle Drive,Tyringe,M,Sweden,282 91,7 Hermina Center,Kimakamak,,Indonesia,,8880362302,pending
+481,481,481,10/28/2022,7.02,63,461.89,0.01,167.58,481,debit card,4827 Columbus Circle,Houmen,,China,,4 2nd Junction,Wucheng,,China,,4300428408,processing
+482,482,482,7/16/2020,10.63,96,198.44,0.03,7366.32,482,credit card,302 Pond Avenue,Giyon,,Ethiopia,,71 Lien Point,Jiangyan,,China,,2269118070,shipped
+483,483,483,8/30/2021,16.93,87,220.35,0.16,1475.46,483,cash,746 Kipling Alley,Lovran,,Croatia,51415,5 Clyde Gallagher Pass,L’govskiy,,Russia,307754,9786209862,shipped
+484,484,484,7/7/2020,2.77,61,120.07,0.16,88.32,484,debit card,5 Donald Point,Gaio,15,Portugal,2860-613,0146 Sullivan Crossing,Nakhon Phanom,,Thailand,48000,8789962687,processing
+485,485,485,9/4/2021,14.13,94,848.86,0.19,811.75,485,credit card,05124 Corry Terrace,Borås,O,Sweden,504 50,70 Jenifer Lane,Dunaivtsi,,Ukraine,,1215485327,delivered
+486,486,486,3/8/2022,1.14,38,541.5,0.02,8629.24,486,cash,9117 Bowman Way,Huangzhuang,,China,,92 Anhalt Trail,San Basilio,,Philippines,2007,6309136909,delivered
+487,487,487,10/20/2022,13.21,15,300.01,0.14,3905.3,487,credit card,74 Loomis Trail,Sosnovaya Polyana,,Russia,182157,5687 Reinke Hill,Siguinon,,Philippines,6542,5120703233,delivered
+488,488,488,5/30/2021,9.99,15,960.11,0.2,6293.93,488,debit card,05681 North Drive,Carrigaline,,Ireland,P43,1 Fairfield Street,Newton,SCT,United Kingdom,IV1,8459135497,delivered
+489,489,489,11/6/2021,5.94,59,374.01,0.94,6048.89,489,cash,73 Eagan Parkway,Till,,Palestinian Territory,,5 Leroy Drive,Brusque,,Brazil,88350-000,8265085928,processing
+490,490,490,7/17/2021,10.75,59,57.53,0.73,4399.95,490,credit card,781 Portage Avenue,Oliveirinha,01,Portugal,3810-856,7154 Mayer Trail,Cẩm Phả,,Vietnam,,3451911082,shipped
+491,491,491,4/29/2020,4.23,85,146.97,0.13,3805.33,491,debit card,695 Lakewood Gardens Drive,Hässelby,AB,Sweden,165 13,83666 Longview Circle,Mekarsari,,Indonesia,,8130335594,shipped
+492,492,492,10/13/2020,11.22,4,714.89,0.84,2479.33,492,debit card,3793 Dakota Park,Chicago,IL,United States,60686,4282 Namekagon Hill,Koudougou,,Burkina Faso,,4870795280,processing
+493,493,493,1/23/2021,3.88,5,211.31,0.2,3970.56,493,cash,17891 Miller Road,Yuhuangding,,China,,09116 Weeping Birch Lane,Nuamuzi,,Indonesia,,3249496844,delivered
+494,494,494,1/27/2020,23.2,46,164.5,0.23,7435.04,494,debit card,7033 Moland Plaza,Yushan,,China,,0 Havey Center,Des Moines,IA,United States,50320,3828078689,delivered
+495,495,495,10/20/2020,14.14,43,76.54,0.51,2200.56,495,cash,718 Claremont Park,Qikeshu,,China,,9915 Thompson Park,Beaufort,SC,United States,29905,5945906336,pending
+496,496,496,3/5/2022,21.27,46,350.22,0.53,1518.53,496,debit card,20 Cody Avenue,Leping,,China,,75 Mesta Trail,Ognevka,,Kazakhstan,,5593894428,processing
+497,497,497,1/31/2021,1.59,74,487.81,0.62,9111.51,497,debit card,42 Morningstar Pass,Manouba,,Tunisia,,0136 Anniversary Terrace,Milíkov,,Czech Republic,739 81,1373265394,processing
+498,498,498,12/25/2021,9.62,49,8.14,0.55,7878.0,498,debit card,725 Dorton Trail,Krzepice,,Poland,42-160,55592 Lien Drive,Caála,,Angola,,1724876178,pending
+499,499,499,7/24/2021,6.41,55,33.92,0.59,6550.89,499,credit card,54594 Cottonwood Circle,Noyon,B6,France,60406 CEDEX,87 Pleasure Lane,Bluefields,,Nicaragua,,3461305204,delivered
+500,500,500,8/3/2020,5.83,20,805.48,0.86,3907.61,500,debit card,58 Knutson Court,Gaoqiao,,China,,0862 Roxbury Park,Lisków,,Poland,62-850,2024892769,pending
+501,501,501,10/6/2021,16.15,54,296.46,0.2,8478.49,501,credit card,889 Melrose Alley,Huicungo,,Peru,,29971 Monterey Crossing,Las Vegas,NV,United States,89166,3921080234,pending
+502,502,502,4/16/2021,9.18,71,971.91,0.51,5213.97,502,debit card,9020 Weeping Birch Avenue,Tiron,,Indonesia,,2239 Declaration Parkway,Bernay,A7,France,27309 CEDEX,3076028378,pending
+503,503,503,11/21/2022,23.55,78,124.29,0.96,182.36,503,cash,446 Oxford Drive,Mölnlycke,O,Sweden,435 84,777 Rigney Plaza,Kadupinang,,Indonesia,,3247244907,delivered
+504,504,504,4/7/2022,17.03,74,656.1,0.03,9507.64,504,debit card,5 Susan Lane,Nueva Imperial,,Chile,,41 Leroy Hill,Ventanas,,Ecuador,,6481484868,delivered
+505,505,505,12/23/2022,22.15,44,794.83,0.22,3761.41,505,credit card,92036 Eggendart Alley,Riosucio,,Colombia,178057,313 Oak Valley Drive,Míthymna,,Greece,,9142484278,processing
+506,506,506,6/27/2020,9.3,82,732.92,0.68,8886.38,506,cash,6 Johnson Terrace,Darunban,,Indonesia,,6543 Lindbergh Point,Xinzhou,,China,,2425981036,processing
+507,507,507,2/7/2020,10.04,92,23.38,0.15,9178.29,507,credit card,18829 Glendale Hill,Xinhe,,China,,5110 Rockefeller Trail,Agoo,,Philippines,2504,4052005940,shipped
+508,508,508,3/28/2021,4.84,98,131.01,0.42,8601.61,508,cash,83 Wayridge Place,Mogi Mirim,,Brazil,13800-000,19613 Green Place,Newark,DE,United States,19725,3849585750,pending
+509,509,509,9/24/2022,10.64,15,291.26,0.06,7176.52,509,debit card,1 Clarendon Street,Colomi,,Bolivia,,335 Brentwood Junction,Chernukha,,Russia,607210,7291215610,pending
+510,510,510,8/21/2021,17.22,5,445.73,0.11,2538.41,510,debit card,7984 Donald Lane,Antsirabe,,Madagascar,,02521 Fulton Circle,Palestina,,Philippines,6037,9958004522,pending
+511,511,511,8/22/2022,13.15,3,154.3,0.5,2055.91,511,debit card,016 Cottonwood Junction,Sintung Timur,,Indonesia,,3934 Washington Point,Awilega,,Indonesia,,1339752980,pending
+512,512,512,9/8/2020,8.51,6,488.2,0.99,8596.9,512,debit card,79266 Charing Cross Avenue,Makariv,,Ukraine,,99 Bobwhite Point,Balagon,,Philippines,1105,9418526349,processing
+513,513,513,4/17/2022,23.5,76,696.64,0.76,4588.16,513,credit card,0217 Everett Avenue,Jihlava,,Czech Republic,586 01,98988 Glacier Hill Terrace,Washington,DC,United States,20067,8245976196,shipped
+514,514,514,11/15/2022,1.01,34,969.58,0.75,829.34,514,debit card,24458 Daystar Terrace,Przewóz,,Poland,68-132,00 Duke Way,Prostki,,Poland,19-335,3737012946,pending
+515,515,515,4/30/2022,11.7,84,963.21,0.08,2198.01,515,cash,64 Sommers Plaza,Maroúsi,,Greece,,0 Hagan Park,Tubod,,Philippines,9209,1633044227,shipped
+516,516,516,8/26/2020,5.13,26,574.2,0.54,653.71,516,cash,05 Hagan Circle,Sibucao,,Philippines,6130,29 Utah Center,Inčukalns,,Latvia,,7409879909,pending
+517,517,517,8/8/2022,11.3,39,134.73,0.6,5792.51,517,debit card,17 Fair Oaks Pass,Huyuan,,China,,80 Huxley Parkway,Jiangwei,,China,,7416014811,shipped
+518,518,518,3/30/2022,22.8,59,384.09,0.87,4576.71,518,debit card,942 Jenna Way,Eindhoven,06,Netherlands,5609,072 Dakota Parkway,Cola,,China,,6270961373,shipped
+519,519,519,1/10/2020,3.31,13,287.44,0.09,5107.0,519,debit card,90312 Jay Park,Västerås,U,Sweden,725 96,84 Meadow Vale Terrace,Łaszczów,,Poland,22-650,7516121806,pending
+520,520,520,2/14/2020,19.0,16,553.46,0.1,5291.18,520,debit card,193 Havey Crossing,Al Muţayrifī,,Saudi Arabia,,5119 Donald Street,Fushun,,China,,1770558586,pending
+521,521,521,10/31/2020,19.89,72,331.46,0.92,4198.27,521,credit card,92829 Melody Junction,Ciawitali,,Indonesia,,52 American Point,Ambian,,Indonesia,,9141243551,shipped
+522,522,522,9/11/2020,14.06,36,628.18,0.08,3871.48,522,credit card,1494 Larry Plaza,Sempu,,Indonesia,,96164 Fuller Parkway,Strawczyn,,Poland,26-067,4370360567,delivered
+523,523,523,2/16/2022,10.56,95,898.17,0.11,6424.03,523,cash,7 Bartelt Road,Izvestkovyy,,Russia,682652,87569 Mandrake Terrace,Sukamaju,,Indonesia,,8636143528,shipped
+524,524,524,8/8/2021,3.54,3,536.98,0.32,4325.04,524,cash,51 Glendale Plaza,Gunajaya,,Indonesia,,237 Brickson Park Road,Gamping Lor,,Indonesia,,2080376516,processing
+525,525,525,1/5/2021,4.27,23,426.38,0.76,3466.26,525,cash,26398 Clove Crossing,Loandjili,,Republic of the Congo,,5 Duke Trail,Hekou,,China,,9962451336,processing
+526,526,526,11/19/2022,17.9,2,266.35,0.51,9719.28,526,cash,65482 Maple Point,Dogonbadan,,Iran,,5477 Beilfuss Trail,Maebashi-shi,,Japan,379-2166,7914824290,shipped
+527,527,527,3/15/2022,5.86,33,694.89,0.75,7133.89,527,debit card,6 Shopko Way,Aldeia,16,Portugal,4910-302,3 Cardinal Crossing,Sydney,NSW,Australia,1033,2410207817,processing
+528,528,528,12/5/2021,12.64,1,988.72,0.89,1771.79,528,debit card,305 Darwin Lane,Ningdun,,China,,79 Alpine Crossing,Darkton,,Swaziland,,4903461000,pending
+529,529,529,10/7/2021,7.27,73,986.73,0.57,8226.03,529,credit card,68139 Drewry Parkway,Vesoul,A6,France,70030 CEDEX,544 Fisk Park,Muslyumovo,,Russia,456721,5306850785,shipped
+530,530,530,1/24/2020,19.52,21,174.43,0.38,1070.97,530,cash,4 Lotheville Parkway,Lysekil,O,Sweden,453 41,404 American Ash Pass,Roissy Charles-de-Gaulle,A8,France,95959 CEDEX 2,3444513692,processing
+531,531,531,6/25/2020,5.65,58,575.1,0.81,7325.48,531,debit card,32478 Mifflin Center,Qalqaman,,Kazakhstan,,172 Schmedeman Alley,Ilongero,,Tanzania,,2409336246,shipped
+532,532,532,6/19/2020,17.88,5,193.5,0.36,1633.38,532,cash,9860 Main Junction,Huaping,,China,,6 Westridge Drive,Sindangsuka,,Indonesia,,5047733850,delivered
+533,533,533,8/16/2022,11.27,88,837.89,0.93,4377.87,533,credit card,6524 David Hill,Hoit Taria,,China,,78965 Tennessee Terrace,Chichibu,,Japan,369-1872,9862737834,processing
+534,534,534,2/7/2021,2.55,39,335.24,0.43,6402.58,534,cash,6999 North Center,Zheleznogorsk,,Russia,307156,4916 Mariners Cove Junction,Reutlingen,BW,Germany,72768,6103349077,shipped
+535,535,535,7/25/2020,11.48,6,823.55,0.81,5024.05,535,credit card,3854 Gina Drive,Cimalati,,Indonesia,,61 Hansons Pass,Nanqi,,China,,7736912447,pending
+536,536,536,3/5/2020,3.55,23,609.91,0.06,7869.09,536,debit card,8694 Monument Trail,Saint-Pierre,RE,Reunion,97853 CEDEX,0 Upham Pass,Skrzydlna,,Poland,34-625,4008865624,shipped
+537,537,537,8/16/2020,10.88,81,740.48,0.22,3761.8,537,credit card,59741 Derek Alley,Tongxing,,China,,1 Dryden Park,Ciudad Bolivia,,Venezuela,,6511849691,delivered
+538,538,538,8/4/2022,5.33,90,397.56,0.63,9239.86,538,debit card,7 Briar Crest Way,Kafir Qala,,Afghanistan,,62 Brickson Park Lane,Jarabacoa,,Dominican Republic,10801,9585873514,processing
+539,539,539,7/31/2022,23.03,34,622.9,0.86,903.04,539,credit card,4 Elmside Hill,Oro Verde,,Argentina,3100,8295 Memorial Place,Kalāt,,Pakistan,88300,2382048963,processing
+540,540,540,9/19/2022,12.87,52,556.3,0.87,9966.54,540,cash,2 Village Green Park,Žemaičių Naumiestis,,Lithuania,99005,1 Lakewood Street,Baunu-Timbangan,,Philippines,7407,8208988671,processing
+541,541,541,2/8/2022,16.38,7,637.73,0.41,6874.7,541,debit card,15 Village Avenue,Vakhsh,,Tajikistan,,1997 Dryden Terrace,Khenifra,,Morocco,,4103481498,shipped
+542,542,542,2/14/2020,8.26,19,986.17,0.03,9526.4,542,cash,35 Arapahoe Drive,Banjar Kubu,,Indonesia,,258 Arrowood Lane,Topolná,,Czech Republic,687 11,3616182555,shipped
+543,543,543,11/30/2020,21.99,98,984.24,0.43,225.47,543,cash,62 Lillian Center,Moutsamoudou,,Comoros,,9 Banding Way,Jiangcun,,China,,5285521176,shipped
+544,544,544,8/28/2020,5.06,28,421.49,0.08,8499.7,544,cash,3258 Annamark Hill,Sugiharjo,,Indonesia,,21 Canary Place,Charlotte,NC,United States,28289,7536417021,shipped
+545,545,545,8/10/2020,8.05,34,998.0,0.06,1961.21,545,credit card,14 Veith Park,Itiruçu,,Brazil,45350-000,364 Pennsylvania Junction,Yevpatoriya,,Ukraine,,1854927729,processing
+546,546,546,4/18/2022,22.02,50,472.83,0.37,3849.35,546,credit card,64126 Lighthouse Bay Circle,Beregovoy,,Russia,644905,18 Manley Hill,Delodpeken,,Indonesia,,3558521969,shipped
+547,547,547,1/21/2020,20.52,86,926.17,0.07,7405.73,547,credit card,309 Veith Road,Mullsjö,F,Sweden,565 31,146 Warbler Avenue,Krajan Gajahmati,,Indonesia,,8748060308,shipped
+548,548,548,6/1/2022,13.3,92,837.37,0.67,6695.8,548,credit card,64 Jay Place,Haozhai,,China,,5 Mockingbird Road,Sāqayn,,Yemen,,2198378432,delivered
+549,549,549,3/10/2020,19.32,34,514.61,0.27,2802.89,549,debit card,47283 Sage Lane,Charlottetown,PE,Canada,C1B,01133 Russell Trail,Albania,,Colombia,684537,6781568583,pending
+550,550,550,9/23/2020,22.69,40,210.87,0.74,9103.31,550,debit card,18 Norway Maple Place,Sheksna,,Russia,162572,1 Monica Court,Al Hufūf,,Saudi Arabia,,2334540484,delivered
+551,551,551,4/15/2022,4.87,7,440.01,0.15,9764.22,551,credit card,914 Green Avenue,Yangjiafang,,China,,53 Goodland Street,Kyzyl-Kyya,,Kyrgyzstan,,9676012218,shipped
+552,552,552,9/17/2021,11.6,92,914.51,0.3,4134.81,552,credit card,20772 Waxwing Road,Istres,B8,France,13802 CEDEX,1 Waxwing Parkway,Changshan,,China,,9157252424,delivered
+553,553,553,5/3/2021,5.53,89,450.74,0.81,2118.21,553,cash,3069 Grim Alley,Hetou,,China,,6091 Summer Ridge Crossing,Lamongan,,Indonesia,,6469192440,pending
+554,554,554,6/8/2020,5.34,98,412.78,0.53,8949.17,554,credit card,8475 Farragut Street,Sélestat,C1,France,67604 CEDEX,132 Gina Pass,Kalmar,H,Sweden,392 41,6906028725,shipped
+555,555,555,10/8/2022,10.38,94,683.63,0.12,4267.25,555,cash,37888 Pine View Circle,Miki,,Japan,675-1324,51 Lakeland Hill,Karangdalam,,Indonesia,,3081829010,pending
+556,556,556,2/22/2021,2.23,34,124.43,0.63,482.04,556,debit card,980 Warbler Lane,Pākpattan,,Pakistan,54950,5311 Messerschmidt Avenue,Lere,,Nigeria,,3433364784,shipped
+557,557,557,6/13/2022,2.98,58,866.4,0.51,395.12,557,cash,0308 Lindbergh Center,Binabaan,,Philippines,5034,5735 Kenwood Drive,Sakura,,Japan,989-2433,1765563747,pending
+558,558,558,6/13/2020,14.18,64,550.54,0.46,5742.57,558,credit card,662 Sachtjen Place,Wichita,KS,United States,67260,19661 Atwood Circle,Tuanai,,Indonesia,,5433198793,shipped
+559,559,559,5/23/2021,18.91,80,732.68,0.9,6978.4,559,debit card,6 Carpenter Street,Lihu,,China,,1 Brown Way,Murcia,,Philippines,6129,1735435101,pending
+560,560,560,2/28/2022,1.8,45,557.64,0.19,6943.27,560,cash,6382 Holy Cross Circle,Turbiv,,Ukraine,,5 Lyons Hill,Tongzhong,,China,,2721669149,delivered
+561,561,561,5/28/2021,12.93,93,392.82,0.5,3230.73,561,credit card,52 Tony Road,Rasshevatskaya,,Russia,356012,8065 Northland Junction,Longuita,,Peru,,9740446137,delivered
+562,562,562,6/22/2020,13.66,48,531.66,0.52,5726.79,562,debit card,0744 Jenna Center,Komorniki,,Poland,62-056,2 High Crossing Place,Dujuuma,,Somalia,,6721560056,processing
+563,563,563,12/26/2022,22.01,78,286.96,0.24,5466.79,563,credit card,03 Gale Alley,Minapan,,Philippines,9617,183 Dorton Court,Tangwang,,China,,6649092716,pending
+564,564,564,12/18/2021,1.8,75,756.48,0.97,7931.51,564,debit card,5076 Bayside Parkway,Ventersburg,,South Africa,9450,23564 Dixon Pass,Boto,,Indonesia,,9420165206,shipped
+565,565,565,8/12/2020,6.89,60,869.85,0.0,7443.52,565,credit card,48949 Veith Terrace,Lianyi,,China,,7 Northwestern Crossing,Emalgolin Mongolzuxiang,,China,,3427874722,pending
+566,566,566,1/15/2022,12.45,4,355.46,0.73,9128.02,566,debit card,0 Kensington Pass,Uppsala,C,Sweden,753 81,874 Quincy Road,Datun,,China,,1229491949,shipped
+567,567,567,4/12/2020,12.86,39,642.67,0.91,1449.64,567,credit card,680 Forest Dale Street,El Limon,VER,Mexico,92105,746 Gulseth Hill,Budënnovsk,,Russia,356825,1335228165,processing
+568,568,568,11/15/2022,2.83,64,656.33,0.63,4248.13,568,debit card,2 Meadow Valley Street,Santiago Puringla,,Honduras,,571 Linden Park,Sacramento,CA,United States,95813,4557328767,shipped
+569,569,569,12/13/2020,3.2,42,589.52,0.74,8000.45,569,cash,78 Graedel Trail,Az̧ Z̧a‘āyin,,Qatar,,3955 Village Green Way,Beraim,,Indonesia,,2057843843,pending
+570,570,570,11/19/2022,1.34,96,539.57,0.07,511.82,570,debit card,8 Springview Junction,G’uzor,,Uzbekistan,,410 Memorial Park,Sędziejowice,,Poland,98-160,6233596766,delivered
+571,571,571,10/26/2020,8.71,79,411.21,0.62,8795.57,571,credit card,80 Fairview Road,Nossa Senhora de Machede,07,Portugal,7005-676,7277 Pine View Circle,Nagano-shi,,Japan,389-1227,8937234497,shipped
+572,572,572,12/7/2022,14.27,42,383.37,0.61,4586.32,572,debit card,2568 Buhler Parkway,Alupay,,Philippines,3201,7427 Fisk Point,Qindu,,China,,9700709050,processing
+573,573,573,6/2/2021,3.41,4,385.16,0.63,6045.31,573,cash,349 Northwestern Avenue,Castres,B3,France,81109 CEDEX,9 Delaware Plaza,Fukuechō,,Japan,853-0704,7882821302,shipped
+574,574,574,6/27/2021,16.63,37,135.73,0.86,8794.79,574,debit card,50866 Orin Place,Ailibugai,,China,,3638 Trailsway Point,Zhamao,,China,,6209885749,pending
+575,575,575,9/13/2021,16.54,14,381.62,0.5,3977.85,575,cash,874 Aberg Court,Fulnek,,Czech Republic,742 45,4507 Clyde Gallagher Street,Santa Fe,,Philippines,6513,7846195358,processing
+576,576,576,5/18/2021,11.88,32,177.76,0.28,2886.94,576,cash,952 Novick Point,Pasarkolot,,Indonesia,,2587 Butternut Place,Homa Bay,,Kenya,,9510411701,delivered
+577,577,577,9/27/2020,22.96,31,566.85,0.02,5520.43,577,credit card,1488 Bayside Crossing,Lipka,,Poland,77-420,1804 Continental Point,Olinda,,Brazil,53000-000,3558990572,processing
+578,578,578,8/18/2020,11.44,90,834.05,0.86,8500.02,578,cash,5 Vermont Plaza,Oslo,03,Norway,0315,42 Jenifer Avenue,Butiama,,Tanzania,,7304308936,processing
+579,579,579,10/21/2020,15.15,46,266.8,0.95,5446.78,579,debit card,71 Sauthoff Trail,Jetafe,,Philippines,6334,60 7th Terrace,Mātli,,Pakistan,72011,9761838973,delivered
+580,580,580,4/16/2022,14.33,78,191.65,0.34,2511.82,580,cash,4 Stone Corner Street,Lugovskoy,,Russia,628532,99 Northview Pass,Cabanas,15,Portugal,2950-556,3826907525,processing
+581,581,581,9/25/2021,0.8,4,968.5,0.59,3219.12,581,debit card,2601 Elmside Street,Panaytayon,,Philippines,7201,55 Swallow Plaza,Ljungby,G,Sweden,341 70,7192139679,shipped
+582,582,582,5/7/2020,5.62,66,213.05,0.68,3804.84,582,debit card,77087 Armistice Hill,Ḏânan,,Djibouti,,276 Kenwood Trail,Mabu,,China,,3871307457,pending
+583,583,583,1/7/2020,12.1,47,540.85,0.03,7966.51,583,credit card,2548 Surrey Way,Álimos,,Greece,,901 Lerdahl Pass,Gorichevo,,Bulgaria,7337,2824496508,pending
+584,584,584,11/26/2020,3.74,39,87.15,0.64,5068.71,584,cash,5910 Green Hill,Niedzica,,Poland,34-441,2 Rockefeller Place,Muaraenim,,Indonesia,,3596425557,pending
+585,585,585,12/13/2021,22.34,85,719.89,0.67,6720.36,585,debit card,693 Prairie Rose Crossing,Don Mueang,,Thailand,10220,7030 Banding Junction,Gandajika,,Democratic Republic of the Congo,,5794941248,delivered
+586,586,586,10/19/2021,8.0,53,521.66,0.32,8308.33,586,debit card,488 Trailsway Parkway,Kanoya,,Japan,329-1117,5687 American Parkway,Duluth,GA,United States,30096,2137386012,pending
+587,587,587,12/23/2021,11.16,14,666.07,0.53,6949.47,587,cash,46072 Stuart Terrace,Verkhniy Dashkesan,,Azerbaijan,,0040 Sunnyside Terrace,Fovissste,COL,Mexico,33980,3656984268,processing
+588,588,588,5/12/2020,17.7,72,364.73,0.89,7188.02,588,cash,7064 Jenifer Pass,Pathein,,Myanmar,,08 Granby Place,Sholokhove,,Ukraine,,7241992016,delivered
+589,589,589,12/4/2021,9.06,10,336.45,0.55,1766.27,589,debit card,2048 Saint Paul Alley,Pápa,VE,Hungary,8505,823 Park Meadow Terrace,Morgados,15,Portugal,2865-613,8414808529,processing
+590,590,590,5/13/2022,4.92,23,55.71,0.8,9985.07,590,debit card,66 Hayes Lane,Saquarema,,Brazil,28990-000,9 Oriole Junction,Junín,,Colombia,251227,9996073752,shipped
+591,591,591,5/7/2020,2.65,51,758.34,0.7,9430.38,591,credit card,91549 Hauk Pass,Barberena,,Guatemala,06002,3 Vera Drive,Chornobay,,Ukraine,,5018251720,delivered
+592,592,592,6/25/2021,6.57,93,790.44,0.27,7208.49,592,cash,8 South Circle,Sokarame,,Indonesia,,93791 Graedel Place,Balud,,Philippines,5412,1738420138,pending
+593,593,593,8/11/2020,6.38,92,237.09,0.21,5117.47,593,debit card,7188 Larry Junction,Krzykosy,,Poland,63-024,032 Green Alley,Wongka,,Indonesia,,9969922270,delivered
+594,594,594,4/24/2020,23.14,12,0.39,0.35,7526.62,594,cash,9128 Packers Road,Yangdu,,China,,9 Shopko Terrace,Gävle,X,Sweden,801 38,7588187415,delivered
+595,595,595,9/15/2022,10.89,20,49.73,0.07,6379.66,595,debit card,0 Division Circle,Santo Tomas,,Peru,,6 Rockefeller Street,Ilembula,,Tanzania,,4609826606,shipped
+596,596,596,11/28/2021,4.33,41,570.42,0.55,4187.07,596,credit card,5332 Nelson Hill,Corpus Christi,TX,United States,78405,4951 Valley Edge Street,Pervomayskiy,,Russia,393710,1545281190,shipped
+597,597,597,10/5/2022,7.19,55,46.2,0.59,9731.44,597,cash,22111 Eastwood Terrace,Dýšina,,Czech Republic,330 02,564 Arapahoe Street,Kitahama,,Japan,985-0003,9091092011,shipped
+598,598,598,6/12/2022,2.69,1,226.41,0.48,4715.18,598,credit card,8 Little Fleur Crossing,Moste,,Slovenia,1241,593 Luster Hill,Telč,,Czech Republic,588 62,6586076384,delivered
+599,599,599,12/23/2020,11.97,100,29.34,0.94,3797.67,599,credit card,5297 Sunnyside Road,Zhenzhushan,,China,,59 Thierer Court,Al Maţarīyah,,Egypt,,4479418471,delivered
+600,600,600,3/11/2022,17.71,27,721.29,0.17,6952.03,600,cash,11105 Donald Point,Pokachi,,Russia,403115,13978 Mandrake Parkway,Beiyuan,,China,,7527036805,shipped
+601,601,601,10/22/2021,11.43,85,505.42,0.61,9964.35,601,debit card,520 Steensland Park,Gora,,Nigeria,,71 Hayes Park,Sātkhira,,Bangladesh,9283,1142527199,shipped
+602,602,602,8/12/2020,13.81,49,233.93,1.0,1149.05,602,debit card,060 8th Crossing,Gaotang,,China,,3969 Express Court,Lauro de Freitas,,Brazil,42700-000,7229228015,shipped
+603,603,603,11/28/2020,15.86,78,948.42,0.59,1887.58,603,debit card,0679 Pearson Circle,Iles,,Colombia,523068,8122 Victoria Way,Hekou,,China,,5462631899,delivered
+604,604,604,9/25/2021,8.92,63,997.29,0.33,5749.73,604,cash,186 Rieder Point,Pruszcz,,Poland,86-120,26 Arizona Way,Moog,,Philippines,9019,1115293284,shipped
+605,605,605,10/30/2020,11.45,82,880.1,0.6,2655.02,605,cash,6 Caliangt Circle,Reforma,OAX,Mexico,69818,2 Di Loreto Hill,Guarapari,,Brazil,29200-000,9269738461,delivered
+606,606,606,4/4/2022,20.06,96,348.25,0.43,9688.22,606,debit card,869 Northridge Way,Mandala,,Indonesia,,1175 Grayhawk Plaza,Kaišiadorys,,Lithuania,56001,8254899216,pending
+607,607,607,5/7/2020,2.01,8,143.14,0.97,7203.77,607,cash,47837 Longview Road,Heshan,,China,,8655 Stang Point,Smedjebacken,W,Sweden,777 34,4334940737,shipped
+608,608,608,3/24/2022,21.36,68,629.62,0.0,1434.85,608,cash,46797 Arizona Parkway,Bene 'Ayish,,Israel,,7270 Cherokee Lane,Mhlume,,Swaziland,,3099949456,pending
+609,609,609,11/3/2021,1.34,4,397.15,0.56,4342.08,609,credit card,67544 Meadow Valley Park,Bestöbe,,Kazakhstan,,45768 Sommers Court,Sterlibashevo,,Russia,453187,9753396209,delivered
+610,610,610,10/4/2020,5.66,82,498.84,0.59,5668.9,610,cash,6 Jana Alley,Bourges,A3,France,18013 CEDEX,624 Service Junction,Zelenograd,,Russia,143912,7794551062,pending
+611,611,611,3/5/2021,2.01,64,333.32,0.65,9345.88,611,debit card,6648 Talmadge Place,Itzer,,Morocco,,58815 Ramsey Drive,Neftekamsk,,Russia,452696,6109835736,delivered
+612,612,612,6/8/2021,22.91,96,613.34,0.14,7088.17,612,credit card,21062 East Parkway,Ergates,,Cyprus,,75300 Fair Oaks Drive,Novyye Cherëmushki,,Russia,142817,1596776867,pending
+613,613,613,1/18/2020,4.83,83,919.66,0.46,7302.21,613,cash,80825 Moose Circle,Heling,,China,,1389 Birchwood Center,Lubowidz,,Poland,09-304,4207466640,processing
+614,614,614,5/9/2020,0.55,6,395.11,0.14,9405.68,614,debit card,0294 Crest Line Drive,Long Layu,,Indonesia,,0 Independence Road,Mabini,,Philippines,6313,6648495480,pending
+615,615,615,1/14/2021,12.74,51,463.82,0.76,3077.33,615,debit card,47264 Crest Line Junction,Arari,,Brazil,65480-000,68 Donald Street,Uzda,,Belarus,,8398612655,shipped
+616,616,616,6/22/2021,20.54,59,512.32,0.04,8941.57,616,credit card,83 Green Park,Baraya,,Colombia,411067,73 Melvin Terrace,Perico,,Cuba,,2537127403,processing
+617,617,617,7/13/2021,13.55,29,946.18,0.54,7188.9,617,cash,707 Hoffman Alley,Binzhou,,China,,6181 Bultman Alley,Zhambyl,,Kazakhstan,,2804268689,processing
+618,618,618,7/6/2020,17.94,72,740.21,0.57,2264.38,618,debit card,42545 Golf Alley,Haurpanggung,,Indonesia,,471 Bellgrove Street,Ballisodare,,Ireland,E45,5888617199,pending
+619,619,619,10/3/2022,7.75,47,997.72,0.64,7345.09,619,cash,82251 Barby Point,Udobnaya,,Russia,352272,0459 Evergreen Crossing,Corral,,Chile,,1947877653,delivered
+620,620,620,11/27/2021,23.64,34,330.28,0.23,9412.48,620,credit card,43580 Killdeer Way,Taibai,,China,,90 Bluejay Way,Jatinagara Kulon,,Indonesia,,9869727084,pending
+621,621,621,2/16/2021,7.26,62,462.58,0.15,2018.82,621,cash,5 Meadow Ridge Crossing,Pandanrejokrajan,,Indonesia,,363 Bunker Hill Crossing,Kotovsk,,Russia,393194,4053328738,processing
+622,622,622,1/2/2022,6.34,16,640.61,0.09,1437.01,622,debit card,7 Atwood Park,Miguel Hidalgo,GUA,Mexico,37487,5 Pearson Hill,Władysławowo,,Poland,84-120,6525479521,delivered
+623,623,623,1/9/2020,23.71,70,581.76,0.24,8086.02,623,credit card,8689 Bellgrove Plaza,Shuimen,,China,,43 Muir Park,Youxi Chengguanzhen,,China,,5352290308,pending
+624,624,624,7/14/2022,0.54,52,806.38,0.76,7398.35,624,debit card,00 Lakeland Avenue,Meilin,,China,,63270 Jay Trail,Ke’erlun,,China,,1503670919,delivered
+625,625,625,10/2/2020,20.04,76,238.02,0.66,2005.58,625,debit card,3796 Magdeline Lane,Muroran,,Japan,634-0814,8644 Memorial Lane,Mafeteng,,Lesotho,,4081118173,shipped
+626,626,626,9/13/2022,15.95,69,789.42,0.8,9906.86,626,credit card,600 Sachtjen Crossing,Kizel,,Russia,618370,2 Prairieview Alley,Mochumí,,Peru,,4757802903,processing
+627,627,627,3/11/2021,19.59,3,99.94,0.38,4111.58,627,credit card,511 Vera Place,Minas,,Cuba,,7 Roxbury Drive,Khong,,Thailand,30260,6171803595,delivered
+628,628,628,9/26/2020,16.8,1,275.06,0.73,5649.4,628,cash,00205 Scoville Street,Gjinoc,,Kosovo,,4 Monument Crossing,Kassala,,Sudan,,7319634244,pending
+629,629,629,5/30/2021,18.76,8,718.11,0.64,8177.54,629,credit card,3 Delladonna Place,Itapecerica,,Brazil,35550-000,228 Rockefeller Pass,Suay,,Philippines,8708,5919574641,delivered
+630,630,630,1/2/2021,20.78,84,644.72,0.54,2932.78,630,debit card,5 Cottonwood Terrace,Kovylkino,,Russia,431355,2 Mifflin Center,Lubochnia,,Poland,97-217,4729345526,pending
+631,631,631,2/28/2020,7.6,11,59.69,0.59,6207.47,631,debit card,4422 Sachtjen Hill,Soledade,,Brazil,99300-000,3062 Westend Point,Castelli,,Argentina,7114,6089826963,shipped
+632,632,632,5/21/2020,7.48,66,224.08,0.23,5230.36,632,cash,04743 Kim Pass,Maloma,,Philippines,3110,903 Redwing Terrace,Umeå,AC,Sweden,907 04,5419752630,shipped
+633,633,633,1/5/2022,14.35,11,289.92,0.22,8748.0,633,debit card,98154 Rowland Circle,Gaoliang,,China,,7487 Derek Park,Rzozów,,Poland,32-060,8543040431,pending
+634,634,634,4/28/2021,9.64,25,394.34,0.66,8834.16,634,debit card,3711 Farwell Park,Bualu,,Indonesia,,73937 Butternut Park,Sirindhorn,,Thailand,65150,6868826269,delivered
+635,635,635,11/5/2020,20.88,74,938.34,0.06,8731.88,635,cash,065 Golden Leaf Park,Santo Tomas,,Philippines,8112,3949 Ilene Place,Sukarame,,Indonesia,,7414618842,pending
+636,636,636,4/30/2020,14.86,46,409.58,0.48,353.71,636,debit card,388 Wayridge Crossing,El Copé,,Panama,,5806 Drewry Pass,Chesapeake,VA,United States,23324,1119709850,pending
+637,637,637,11/29/2020,2.8,31,364.01,0.26,5281.34,637,credit card,9978 Brown Court,Xinpu,,China,,8716 Cottonwood Trail,Chamni,,Thailand,10520,1079202008,delivered
+638,638,638,7/4/2020,19.22,35,922.11,0.25,1249.59,638,cash,27114 Spenser Park,Iguape,,Brazil,11920-000,80 Lillian Crossing,Lagayan,,Philippines,2824,8683364553,shipped
+639,639,639,12/6/2020,3.71,87,952.56,0.05,1779.78,639,debit card,04163 Acker Court,Tubungan,,Philippines,5027,8447 Raven Trail,Thawi Watthana,,Thailand,62180,7881803924,shipped
+640,640,640,7/27/2021,23.98,7,607.51,0.75,7663.38,640,cash,59 Mccormick Parkway,Almere Stad,16,Netherlands,1304,60018 Lotheville Terrace,Rovensko pod Troskami,,Czech Republic,512 63,2848181783,shipped
+641,641,641,5/14/2022,20.05,27,845.26,0.31,249.08,641,debit card,64948 Nova Pass,Lawrenceville,GA,United States,30045,5 Division Center,Mlangali,,Tanzania,,1503750954,delivered
+642,642,642,8/6/2021,7.7,61,322.53,0.63,6608.25,642,debit card,17 Hoffman Center,Harrison,,Philippines,5711,6403 Jenna Terrace,Vitry-sur-Seine,A8,France,94409 CEDEX,2869796393,shipped
+643,643,643,9/9/2020,13.58,82,889.54,0.23,2271.02,643,debit card,982 Huxley Crossing,Eastern Suburbs Mc,NSW,Australia,1315,11 Westend Place,Sepīdān,,Iran,,7521151554,delivered
+644,644,644,12/9/2022,3.81,42,706.86,0.83,2219.6,644,debit card,912 Johnson Center,Salām Khēl,,Afghanistan,,7 Kinsman Drive,Chełmiec,,Poland,33-395,3328172294,delivered
+645,645,645,7/30/2020,15.81,26,141.94,0.47,5166.62,645,debit card,9 Sachs Park,Houston,TX,United States,77288,619 Tony Trail,Tercena,11,Portugal,2730-017,4180057716,delivered
+646,646,646,8/9/2022,11.53,20,285.19,0.91,3770.5,646,debit card,06 2nd Street,Teberda,,Russia,397608,7304 Straubel Alley,Gavea,,Brazil,89136-000,8605074646,pending
+647,647,647,6/10/2020,2.6,21,5.33,0.84,9457.86,647,credit card,66 Crownhardt Park,Jastrzębia Góra,,Poland,84-107,00603 Mallory Avenue,Tangtu,,China,,1032247857,shipped
+648,648,648,11/7/2020,3.98,86,873.45,0.79,1589.42,648,cash,77010 Main Road,Teófilo Otoni,,Brazil,39800-000,60 Arizona Lane,Salamanca,,Philippines,6313,4254791284,shipped
+649,649,649,4/6/2020,22.61,17,382.19,0.62,8232.17,649,credit card,6 Lotheville Parkway,Staryy Oskol,,Russia,309509,406 Doe Crossing Road,Dushu,,China,,3810021525,pending
+650,650,650,5/12/2021,23.13,81,944.43,0.19,592.41,650,debit card,908 Arrowood Drive,Ning’an,,China,,4 Mallard Street,El Almendro,,Nicaragua,,3874302695,processing
+651,651,651,5/7/2021,14.39,39,398.85,0.05,9240.28,651,debit card,1017 North Crossing,Pirot,,Serbia,,45580 Melby Trail,Povorino,,Russia,397355,6935510307,processing
+652,652,652,11/11/2021,17.22,68,15.08,0.32,5167.48,652,credit card,7240 Merry Way,Fredericton,NB,Canada,E3G,2 Eagan Place,Santa Clara,,Cuba,,5247953671,delivered
+653,653,653,7/17/2020,18.75,35,938.09,0.98,989.35,653,credit card,052 Magdeline Lane,Galubakul,,Indonesia,,04041 Sugar Circle,Neos Voutzás,,Greece,,6818333817,delivered
+654,654,654,6/12/2020,22.08,97,955.22,0.19,6532.85,654,credit card,3 Mayer Hill,Hongxi,,China,,54 Mayfield Point,Muararupit,,Indonesia,,1715976204,shipped
+655,655,655,1/14/2020,5.11,86,689.74,0.75,4467.17,655,credit card,84410 Nevada Parkway,Sawahan,,Indonesia,,87 Cardinal Circle,Varberg,N,Sweden,432 51,5388646209,delivered
+656,656,656,3/28/2021,9.49,4,718.98,0.38,1339.18,656,credit card,26 Dawn Alley,Los Andes,,Colombia,526529,80 Gale Crossing,Chư Prông,,Vietnam,,2881554384,processing
+657,657,657,4/7/2021,0.65,20,243.93,0.6,7751.71,657,credit card,46 5th Park,Casilda,,Argentina,2170,84556 Meadow Ridge Point,Chillán,,Chile,,4347496298,shipped
+658,658,658,6/25/2020,8.41,63,195.79,0.98,2228.72,658,credit card,734 Lake View Place,Kissónerga,,Cyprus,,9689 Erie Alley,Luts’k,,Ukraine,,2969873627,delivered
+659,659,659,12/16/2021,17.24,44,881.45,0.78,3421.7,659,cash,2 Vahlen Circle,Urkarakh,,Russia,368580,64 Debra Point,Žabčice,,Czech Republic,664 63,1689543706,shipped
+660,660,660,5/1/2022,18.66,9,881.64,0.79,2113.91,660,debit card,70433 Forest Run Point,Korostyshiv,,Ukraine,,40959 Aberg Hill,Alta Gracia,,Argentina,5186,2086968344,shipped
+661,661,661,5/15/2022,0.31,91,99.38,0.1,3657.7,661,credit card,0541 Alpine Point,Samran,,Thailand,46140,5251 Kings Road,Huangbei,,China,,5628550478,delivered
+662,662,662,4/2/2020,6.14,35,816.87,0.05,9976.87,662,debit card,2 Maywood Terrace,Likasi,,Democratic Republic of the Congo,,9 Mifflin Trail,San Juan,,Philippines,6227,9884761585,processing
+663,663,663,6/30/2022,8.59,99,300.88,0.16,8868.89,663,cash,86660 Stone Corner Alley,Sâmraông,,Cambodia,,589 6th Junction,Koukkuniemi,,Finland,34550,3108690724,pending
+664,664,664,5/10/2020,6.33,4,276.91,0.71,1445.72,664,credit card,27197 Bluejay Hill,Slobodka,,Russia,627251,76234 Heath Hill,Dīla,,Ethiopia,,3996595370,pending
+665,665,665,3/2/2021,10.26,30,129.46,0.41,3244.91,665,cash,99 Ramsey Center,Shadrinsk,,Russia,641878,4698 Hagan Trail,Conchamarca,,Peru,,1482579782,delivered
+666,666,666,1/13/2020,0.53,99,26.0,0.15,1519.71,666,credit card,9144 Carpenter Plaza,Laocheng,,China,,89 Pawling Alley,Salto de Pirapora,,Brazil,18160-000,5985339600,shipped
+667,667,667,8/5/2021,12.91,67,196.92,0.88,5750.65,667,cash,8029 Dawn Way,Mehrābpur,,Pakistan,79051,7 Messerschmidt Way,Marulanda,,Colombia,173007,9265204642,delivered
+668,668,668,2/16/2021,11.07,35,215.06,0.3,2423.9,668,debit card,08 Maple Alley,Pamakayo,,Indonesia,,67336 Bultman Circle,Stanley,,Falkland Islands,,4696533766,processing
+669,669,669,11/2/2020,23.57,37,531.38,0.93,8998.36,669,credit card,0793 Westerfield Point,Poitiers,B7,France,86083 CEDEX 9,48 Lunder Hill,Curahuasi,,Peru,,1186224808,shipped
+670,670,670,7/31/2022,21.23,91,615.81,0.05,132.83,670,debit card,731 Grim Point,Sao Hai,,Thailand,18160,1337 Meadow Vale Alley,San Luis Ixcán,,Guatemala,09022,9473655497,processing
+671,671,671,5/26/2022,21.39,51,728.21,0.01,6709.97,671,debit card,300 Dwight Point,Kilimatinde,,Tanzania,,234 Bartillon Court,Santa Fé do Sul,,Brazil,15775-000,2780456753,delivered
+672,672,672,8/27/2020,9.64,69,202.87,0.77,8661.94,672,debit card,9807 Sachtjen Drive,Gaotang,,China,,37 Jenifer Crossing,Falun,W,Sweden,791 21,4621129247,shipped
+673,673,673,9/23/2022,16.37,31,11.25,0.43,9752.96,673,cash,7 Birchwood Hill,Zhifang,,China,,48 Northport Alley,Longgang,,China,,9000266389,shipped
+674,674,674,3/18/2022,19.83,8,185.85,0.23,4361.57,674,credit card,54938 Chinook Junction,Bungtiang Barat,,Indonesia,,68786 Sage Place,Elato,,Micronesia,,3598956813,delivered
+675,675,675,6/14/2021,4.42,40,912.23,0.45,141.4,675,credit card,7 International Place,København,1084,Denmark,1310,4954 Lotheville Plaza,Ohrid,,Macedonia,6322,2642242681,delivered
+676,676,676,10/10/2021,23.54,61,226.01,0.95,1107.09,676,credit card,8 Grim Place,Houjie,,China,,615 Messerschmidt Center,Muhos,,Finland,91501,1723896905,processing
+677,677,677,4/9/2021,12.99,90,485.97,0.07,975.59,677,credit card,62 Petterle Drive,Sa Bot,,Thailand,15240,199 Straubel Road,Cekcyn,,Poland,89-511,1987687454,shipped
+678,678,678,12/2/2022,4.59,36,150.01,0.46,9158.06,678,cash,9824 Bay Center,Dasha,,China,,0 Logan Road,Soure,06,Portugal,3130-199,7382417535,pending
+679,679,679,9/16/2020,22.82,78,704.5,0.13,4597.92,679,credit card,04 Schlimgen Place,Sukabumi,,Indonesia,,828 Beilfuss Street,Jianli,,China,,6263052088,delivered
+680,680,680,5/14/2021,3.29,7,614.38,0.61,4213.07,680,debit card,60 Kim Street,Laoxingchang,,China,,8010 Shelley Road,Batallas,,Bolivia,,3382845567,shipped
+681,681,681,1/7/2021,23.15,45,288.28,0.2,9534.26,681,credit card,08 Buhler Drive,Sabnie,,Poland,08-331,2948 Loomis Parkway,Vårgårda,O,Sweden,447 93,4983072609,delivered
+682,682,682,3/2/2020,22.94,3,283.69,0.6,5094.19,682,debit card,482 Calypso Pass,Färjestaden,H,Sweden,386 35,87 Muir Lane,Zhourui,,China,,1737966022,pending
+683,683,683,6/13/2021,11.57,90,974.48,0.96,9148.04,683,credit card,146 Roth Circle,Ta`ū,,American Samoa,96799,139 Buell Avenue,Cisiih,,Indonesia,,4944450659,shipped
+684,684,684,9/18/2022,6.23,30,703.26,0.49,4450.06,684,cash,0430 Mccormick Point,Kipen’,,Russia,188516,8658 Dryden Trail,Yashkul’,,Russia,359150,1881028869,processing
+685,685,685,5/3/2021,6.37,33,607.84,0.85,3702.34,685,debit card,1005 Veith Drive,Hostomice,,Czech Republic,417 52,6210 Spaight Crossing,Shanhou,,China,,5677295519,delivered
+686,686,686,5/12/2020,21.11,66,601.56,0.46,6918.22,686,credit card,5270 International Hill,Nanfeng,,China,,2766 Scofield Trail,Phra Phutthabat,,Thailand,18120,6828999389,pending
+687,687,687,11/6/2020,21.07,88,902.99,0.75,993.4,687,debit card,8 Del Sol Trail,Quebradas,11,Portugal,2065-114,6959 Dawn Place,Mombok,,Indonesia,,6986323269,processing
+688,688,688,6/15/2021,5.15,37,90.6,0.8,4642.97,688,cash,761 Corscot Road,‘Ayn Ḩalāqīm,,Syria,,4 Northfield Park,Kotlovka,,Russia,142817,4339754334,pending
+689,689,689,6/9/2020,5.86,92,984.27,0.96,6091.27,689,debit card,2 Bellgrove Avenue,Planaltina,,Brazil,73750-000,3 Scoville Trail,Montecarlo,,Argentina,3384,7881907689,pending
+690,690,690,8/29/2020,20.96,79,790.14,0.54,7688.02,690,cash,6168 Village Green Hill,Medeiros Neto,,Brazil,45960-000,8 American Alley,Yerazgavors,,Armenia,,2767210832,pending
+691,691,691,11/4/2021,1.78,21,217.71,0.37,2483.09,691,credit card,6 Northridge Avenue,Łubowo,,Poland,78-445,413 Mayfield Circle,Campo Verde,,Brazil,78840-000,7864959132,shipped
+692,692,692,2/28/2022,8.84,56,996.51,0.81,1263.34,692,credit card,0 Fuller Alley,Gourcy,,Burkina Faso,,25 Kennedy Point,Gândara de Aquém,10,Portugal,2425-445,9645283813,delivered
+693,693,693,10/3/2022,8.36,78,550.95,0.94,6425.06,693,credit card,49281 Loomis Trail,Frei Paulo,,Brazil,49514-000,0945 Erie Place,Firmat,,Argentina,2630,3566549762,pending
+694,694,694,5/21/2020,1.97,65,206.06,0.74,5580.11,694,cash,6 Carpenter Point,Noemuti,,Indonesia,,083 Annamark Court,Boissy-Saint-Léger,A8,France,94474 CEDEX,4401786999,shipped
+695,695,695,3/28/2022,4.03,20,309.0,0.25,1317.72,695,cash,341 Pankratz Drive,Thị Trấn Kim Tân,,Vietnam,,31 8th Point,Nortelândia,,Brazil,78430-000,3847192701,pending
+696,696,696,2/1/2021,20.82,38,312.89,0.47,2921.65,696,credit card,3720 Namekagon Lane,Margoyoso,,Indonesia,,12 West Street,Yelan’,,Russia,396647,2339616522,delivered
+697,697,697,5/10/2022,16.56,2,848.79,0.39,8969.27,697,debit card,96231 Melrose Hill,Rosthern,SK,Canada,B0L,55 John Wall Avenue,Licheng,,China,,9696349556,shipped
+698,698,698,1/21/2020,0.49,88,472.39,0.94,5311.05,698,credit card,7 Dunning Alley,Krajan Menggare,,Indonesia,,02 Buell Terrace,Sfax,,Tunisia,,1164698165,processing
+699,699,699,5/3/2022,17.52,6,874.26,0.29,4377.87,699,debit card,0153 Northfield Parkway,Ranilug,,Kosovo,,33731 American Ash Terrace,Dairiti,,Indonesia,,8215579175,shipped
+700,700,700,5/20/2021,16.84,94,323.17,0.86,1774.52,700,debit card,84634 Katie Place,Talambung Laok,,Indonesia,,440 Charing Cross Parkway,Wang Saphung,,Thailand,42130,7020075263,delivered
+701,701,701,8/7/2022,11.29,66,894.32,0.11,4555.37,701,credit card,7596 Clyde Gallagher Street,Sadar,,Indonesia,,043 Coolidge Lane,Satte,,Japan,340-0113,6242069456,processing
+702,702,702,9/24/2021,20.16,32,471.71,0.73,6497.96,702,debit card,8 Center Terrace,Yancheng,,China,,12413 Crest Line Hill,Saint-Fargeau-Ponthierry,A8,France,77986 CEDEX,8712286741,delivered
+703,703,703,3/1/2022,3.82,9,795.93,0.72,9102.33,703,cash,35493 Colorado Court,Ōtake,,Japan,741-0092,71 Corry Avenue,Guanyao,,China,,2790867085,processing
+704,704,704,8/11/2020,0.0,92,817.47,0.31,7442.68,704,debit card,2 Tony Avenue,Golopau,,Indonesia,,1 Westridge Avenue,Hermosa,,Philippines,2111,2879040668,pending
+705,705,705,6/23/2020,15.52,5,79.83,0.8,83.33,705,cash,33 Gateway Avenue,Proboštov,,Czech Republic,403 27,06323 Goodland Hill,Tambaú,,Brazil,13710-000,2392574592,shipped
+706,706,706,9/17/2021,16.37,35,243.39,0.07,3083.3,706,credit card,7 Esch Plaza,Mlanggeng,,Indonesia,,5 Main Hill,Williston,,South Africa,6696,3382998006,delivered
+707,707,707,5/4/2021,3.88,16,609.94,0.57,3104.89,707,cash,250 Mosinee Alley,Goričan,,Croatia,40324,54 Brown Crossing,Nobinobi,,Indonesia,,9767567493,delivered
+708,708,708,4/13/2021,6.97,82,953.8,0.82,8717.17,708,credit card,3310 Gina Pass,Alanga,,Indonesia,,3365 Caliangt Terrace,Shuikou,,China,,5729449235,delivered
+709,709,709,2/4/2022,9.53,79,362.85,0.98,1455.86,709,cash,671 Corry Park,Saint George's,,Grenada,,16 Weeping Birch Place,Qufu,,China,,7066274697,delivered
+710,710,710,10/23/2022,5.78,66,727.21,0.14,6964.92,710,credit card,916 Ridge Oak Circle,Santiago,,Paraguay,,815 Graedel Road,Kilingi-Nõmme,,Estonia,,1984775095,delivered
+711,711,711,10/20/2022,5.85,46,378.08,0.46,1975.7,711,debit card,2 Stoughton Trail,Loughrea,,Ireland,H62,18201 Myrtle Park,Chita,,Colombia,151609,8715744409,shipped
+712,712,712,4/1/2021,23.91,67,71.02,0.49,580.63,712,credit card,883 Ludington Pass,Pekuwon,,Indonesia,,776 Thompson Place,Iwata,,Japan,925-0145,3629901621,shipped
+713,713,713,7/26/2022,0.37,15,264.78,0.87,5528.67,713,cash,4513 Veith Hill,Aldergrove,BC,Canada,V4W,368 Tennessee Plaza,Tākestān,,Iran,,1628938059,pending
+714,714,714,3/1/2022,14.49,6,574.12,0.66,5554.08,714,cash,99879 Harper Road,Denglong,,China,,60475 Becker Parkway,Moissy-Cramayel,A8,France,77554 CEDEX,7893413187,delivered
+715,715,715,4/27/2020,1.64,61,487.65,0.4,4742.83,715,debit card,097 Scofield Park,Oakville,ON,Canada,L6J,2426 Jay Way,Ciudad Nueva,,Dominican Republic,10208,1105808647,processing
+716,716,716,12/4/2021,10.53,35,900.14,0.77,6283.52,716,cash,50720 Forest Dale Pass,Turi,,Indonesia,,8679 Harbort Court,Beibei,,China,,8216458324,delivered
+717,717,717,12/19/2022,1.1,65,934.03,0.3,9582.5,717,cash,00617 Ilene Drive,Dongqu,,China,,90 Anniversary Plaza,Fuming,,China,,8693393410,processing
+718,718,718,3/25/2020,16.27,23,237.27,0.16,477.88,718,credit card,5 Pennsylvania Circle,Retreat,,South Africa,7947,867 Donald Place,Volosovo,,Russia,188414,9208934787,processing
+719,719,719,5/28/2021,1.29,14,487.15,0.91,1665.07,719,credit card,71 Eagan Place,Azul,,Argentina,7300,9 Mesta Lane,Jingzhu,,China,,9077360836,shipped
+720,720,720,3/12/2020,12.52,16,103.01,0.97,4663.34,720,debit card,4421 Fuller Park,Dolores,,Nicaragua,,6030 Iowa Place,Mandala,,Indonesia,,1406865061,pending
+721,721,721,2/2/2021,4.83,51,738.37,0.62,7343.22,721,debit card,4923 Lighthouse Bay Street,Caoxi,,China,,435 Pierstorff Avenue,Funafuti,,Tuvalu,,6375408359,pending
+722,722,722,6/14/2020,1.77,8,229.92,0.29,4191.79,722,cash,205 Truax Hill,Mehron,,Tajikistan,,4679 Lerdahl Parkway,Kebonagung,,Indonesia,,1012686629,shipped
+723,723,723,5/20/2021,21.45,61,110.04,0.43,5097.63,723,credit card,21 Northfield Crossing,Babakansari,,Indonesia,,31711 Claremont Circle,Memphis,TN,United States,38197,2370716571,delivered
+724,724,724,4/16/2021,12.63,96,444.55,0.04,1501.23,724,debit card,06 Swallow Drive,Tenjolaya,,Indonesia,,5554 Grover Hill,Bebedahan,,Indonesia,,8054829104,pending
+725,725,725,2/24/2021,14.09,86,305.41,1.0,8026.71,725,debit card,5635 Mallard Avenue,Marija Bistrica,,Croatia,49246,52 Derek Crossing,Namalenga,,Tanzania,,1177264558,delivered
+726,726,726,11/17/2021,4.88,87,166.17,0.77,4068.21,726,credit card,398 Cambridge Park,Plewiska,,Poland,62-056,368 Goodland Road,Almafuerte,,Argentina,3317,3568086251,processing
+727,727,727,7/6/2021,16.37,16,244.04,0.23,3713.6,727,cash,61774 Continental Court,Krutaya Gorka,,Russia,646404,2427 Miller Drive,Chocope,,Peru,,8550426132,delivered
+728,728,728,3/13/2022,16.7,33,37.71,0.36,8387.45,728,cash,1 Vermont Circle,Przodkowo,,Poland,83-304,84032 Katie Junction,"Villa Presidente Frei, Ñuñoa, Santiago, Chile",,Chile,,8915213738,pending
+729,729,729,9/2/2021,9.63,40,55.94,0.31,4733.6,729,debit card,2904 Hazelcrest Point,San Antonio,TX,United States,78220,984 Swallow Junction,Yeni Suraxanı,,Azerbaijan,,1012785986,shipped
+730,730,730,9/15/2021,1.17,25,989.85,0.26,3307.82,730,debit card,90297 David Park,Gierłoż,,Poland,01-517,622 Springview Court,Quitilipi,,Argentina,3530,7138568219,pending
+731,731,731,9/1/2021,5.84,63,903.35,0.29,1333.9,731,cash,967 Stephen Point,Indaial,,Brazil,89130-000,16834 Cody Center,Fengxi,,China,,8975117826,delivered
+732,732,732,7/24/2021,2.54,71,885.75,0.8,1424.08,732,cash,9 Longview Way,Zorgo,,Burkina Faso,,95 Sunbrook Point,Vacaria,,Brazil,95200-000,7266376179,shipped
+733,733,733,11/4/2022,4.62,67,456.53,0.45,7488.72,733,debit card,069 Jana Terrace,Shchukino,,Russia,452034,44 Delaware Alley,Calibutbut,,Philippines,1470,8572111227,shipped
+734,734,734,1/8/2021,10.29,26,177.84,0.84,9210.94,734,debit card,270 Pine View Place,Alicia,,Philippines,7040,2 Ridgeway Street,Kanal,,Slovenia,5213,8031745975,pending
+735,735,735,1/20/2021,19.52,34,590.04,0.11,3466.34,735,debit card,06 Anniversary Road,Zebrzydowice,,Poland,43-410,2 Veith Park,Burevestnik,,Russia,607612,6664405349,delivered
+736,736,736,6/8/2021,6.04,71,72.1,0.65,5846.98,736,credit card,5329 Tony Junction,Knjazevac,,Serbia,,688 Magdeline Lane,Seremban,NSN,Malaysia,70690,9745844125,processing
+737,737,737,10/18/2020,2.87,84,69.01,0.56,7845.18,737,cash,9415 6th Avenue,Tan-Tan,,Morocco,,5 Pond Crossing,Kohtla-Järve,,Estonia,,6813323686,shipped
+738,738,738,3/6/2022,11.04,43,700.25,0.09,2236.81,738,debit card,13 Dunning Terrace,Debark’,,Ethiopia,,6474 Ryan Alley,Stockholm,AB,Sweden,113 59,2457942217,processing
+739,739,739,12/17/2020,14.58,55,936.67,0.32,2763.85,739,cash,7 Starling Plaza,Zhougang,,China,,634 Messerschmidt Alley,Bylym,,Russia,361606,2538066155,shipped
+740,740,740,8/20/2021,5.96,90,891.99,0.25,3962.04,740,credit card,9397 Judy Trail,Milwaukee,WI,United States,53263,11604 Hudson Avenue,Verblyany,,Ukraine,,5224596004,delivered
+741,741,741,10/11/2021,21.15,55,179.67,0.69,1375.38,741,credit card,6610 Farragut Alley,Faaa,,French Polynesia,,80865 Buena Vista Hill,Prado,,Brazil,45980-000,1535513628,pending
+742,742,742,10/30/2020,4.08,40,849.72,0.91,4444.15,742,debit card,70138 South Drive,Nārang,,Pakistan,39051,28038 Bartillon Park,Syktyvkar,,Russia,167032,4228766527,processing
+743,743,743,10/13/2020,5.45,72,851.38,0.64,1914.56,743,debit card,7 Moland Plaza,Sofádes,,Greece,,2 Pleasure Hill,Mtubatuba,,South Africa,3940,9529250436,delivered
+744,744,744,6/13/2021,0.5,38,720.88,0.4,7807.1,744,credit card,165 Hagan Drive,San Felipe,,Guatemala,11005,41 Summer Ridge Crossing,Tyoply Stan,,Russia,391237,4161286493,delivered
+745,745,745,7/15/2020,14.66,8,420.62,0.44,8576.9,745,cash,86 Merrick Parkway,Banjar Ponggang,,Indonesia,,379 Towne Lane,Juegang,,China,,6403035137,delivered
+746,746,746,8/27/2021,4.66,61,27.33,0.82,2766.28,746,credit card,876 Basil Trail,Umeå,AC,Sweden,904 22,7849 Brentwood Place,Lishu,,China,,3746781386,processing
+747,747,747,1/10/2021,18.63,57,575.85,0.72,961.91,747,debit card,5167 Tomscot Place,Haixing,,China,,74 Hooker Point,Ambatolampy,,Madagascar,,3210855467,processing
+748,748,748,1/14/2020,11.55,47,225.95,0.37,9828.45,748,credit card,56 Armistice Hill,Petropavlovsk,,Kazakhstan,,01 Cardinal Avenue,Suntar,,Russia,678290,6108531927,pending
+749,749,749,9/3/2021,20.81,91,471.62,0.78,9928.44,749,credit card,22 Melby Hill,Aviúges,18,Portugal,3505-130,82251 Hollow Ridge Alley,Lomé,,Togo,,4840760054,processing
+750,750,750,4/30/2020,2.5,78,183.1,0.26,629.47,750,debit card,638 Manitowish Lane,Pechersk,,Russia,216134,8 Lakewood Circle,Além do Rio,03,Portugal,4890-561,5929480353,processing
+751,751,751,10/5/2021,6.94,41,753.46,0.84,9092.08,751,cash,9 Independence Place,Viškovci,,Croatia,34310,48895 Anzinger Drive,Arkhaía Kórinthos,,Greece,,4135168594,delivered
+752,752,752,6/17/2020,2.96,2,621.77,0.89,2841.12,752,cash,01298 Carioca Parkway,Banjar Budakeling,,Indonesia,,869 Paget Drive,Tanshi,,China,,3710636869,delivered
+753,753,753,12/11/2022,4.64,96,611.56,0.52,4718.91,753,credit card,6995 Rigney Street,La Virginia,,Colombia,662007,67851 Hovde Lane,Alta Gracia,,Argentina,5186,5302039359,pending
+754,754,754,9/13/2022,20.13,39,302.66,0.06,5052.7,754,cash,7 Old Shore Circle,Sioah,,Indonesia,,84641 Duke Avenue,Chalchuapa,,El Salvador,,5855953128,processing
+755,755,755,8/15/2021,20.36,27,552.4,0.19,9690.95,755,credit card,490 Sullivan Lane,Szczaniec,,Poland,66-225,86 Michigan Center,Jiaxian Chengguanzhen,,China,,9261804933,processing
+756,756,756,1/15/2021,22.19,70,234.2,0.03,948.7,756,cash,010 Prentice Point,Klampok,,Indonesia,,6385 Manufacturers Hill,Folques,06,Portugal,3300-265,7577687622,pending
+757,757,757,6/25/2022,5.02,28,928.9,0.43,9251.79,757,debit card,70 Crowley Way,Olenyok,,Russia,641023,4 Cardinal Junction,Tilburg,06,Netherlands,5029,6866033799,shipped
+758,758,758,7/30/2021,17.92,23,987.35,0.24,4499.42,758,cash,111 Talmadge Point,Ḩawf,,Yemen,,65 Northridge Circle,Pomerode,,Brazil,89107-000,6118339429,processing
+759,759,759,9/15/2020,13.66,3,829.28,0.66,8195.69,759,cash,2 Maple Wood Terrace,Somovo,,Russia,396336,14179 Thierer Alley,Gąbin,,Poland,09-530,1740811733,pending
+760,760,760,5/16/2020,20.89,90,147.78,0.38,5257.06,760,credit card,681 Granby Avenue,Baucau,,East Timor,,50700 Sheridan Alley,Poctol,,Philippines,7416,8703554648,pending
+761,761,761,7/10/2022,21.05,46,182.67,0.0,2823.02,761,debit card,3 Kim Hill,Dizhai,,China,,951 Harper Park,Mahdalynivka,,Ukraine,,9422134906,pending
+762,762,762,12/14/2020,4.66,66,178.14,0.55,3028.3,762,credit card,52 Morningstar Hill,Francistown,,Botswana,,3146 Coleman Junction,Jönköping,F,Sweden,553 02,8420625204,shipped
+763,763,763,2/14/2020,2.97,90,543.98,0.49,8158.89,763,cash,97 Dahle Plaza,Gesing,,Indonesia,,163 Loeprich Crossing,Piketberg,,South Africa,8115,8590244147,pending
+764,764,764,11/8/2020,14.01,20,929.56,0.44,954.9,764,credit card,91459 Sheridan Drive,Alcaria da Serra,02,Portugal,7960-115,83 Elgar Terrace,Muqui,,Peru,,2840358738,pending
+765,765,765,6/22/2021,14.94,16,655.99,0.75,1333.56,765,debit card,69 Graceland Lane,Ayapa,,Honduras,,3780 Oakridge Way,Goim,01,Portugal,3700-871,8897344673,pending
+766,766,766,8/13/2022,14.26,21,963.24,0.31,1023.58,766,credit card,2160 Helena Point,Almere Stad,16,Netherlands,1304,04 Petterle Court,Le Perreux-sur-Marne,A8,France,94174 CEDEX,6501355389,delivered
+767,767,767,3/24/2022,19.43,77,651.7,0.54,4525.64,767,credit card,77 Glacier Hill Junction,Bilüü,,Mongolia,,5 Barby Circle,Pasadena,CA,United States,91199,2729949765,shipped
+768,768,768,9/9/2021,21.28,58,150.74,0.15,3085.55,768,debit card,38613 Talmadge Pass,Passos,16,Portugal,4990-770,89523 Dennis Terrace,Fusagasuga,,Colombia,252219,7756347994,processing
+769,769,769,12/7/2020,12.12,99,438.42,0.02,9369.62,769,debit card,3 Ilene Park,Cabalaoangan,,Philippines,2446,9819 Leroy Parkway,Xiaotao,,China,,2287996674,pending
+770,770,770,5/26/2022,16.05,52,187.02,0.55,824.92,770,debit card,44 Luster Terrace,Ebute Ikorodu,,Nigeria,,2 Nelson Circle,Ponggeok,,Indonesia,,7417247251,delivered
+771,771,771,12/5/2022,8.1,78,940.22,0.3,9090.92,771,credit card,86 Hoffman Avenue,Dagestanskiye Ogni,,Russia,368670,6622 Melrose Pass,Alingsås,O,Sweden,441 92,4136493603,pending
+772,772,772,8/23/2021,3.39,17,549.25,0.79,1659.88,772,credit card,76193 Arizona Lane,Longtan,,China,,4 Hauk Hill,Las Tejerías,,Venezuela,,8285872652,shipped
+773,773,773,3/18/2020,18.11,31,729.3,0.95,7079.93,773,debit card,345 Columbus Alley,Dayrūţ,,Egypt,,8 Northridge Crossing,Kilifi,,Kenya,,8163322876,processing
+774,774,774,3/24/2020,11.16,6,388.13,0.31,8322.01,774,credit card,3 Oak Place,Maués,,Brazil,69190-000,292 Farmco Avenue,Besançon,A6,France,25024 CEDEX,4051527258,delivered
+775,775,775,10/24/2022,4.36,58,630.77,0.05,1815.03,775,cash,64 Acker Park,Macinhata da Seixa,01,Portugal,3720-085,3000 Sauthoff Terrace,Nuevo Arraiján,,Panama,,4464623860,shipped
+776,776,776,5/12/2020,16.67,100,344.76,0.76,3492.96,776,cash,4 Gale Hill,Chadian,,China,,1826 Manufacturers Lane,Zaliztsi,,Ukraine,,2405694749,delivered
+777,777,777,2/5/2022,21.78,26,94.87,0.22,601.83,777,cash,454 Burning Wood Circle,Jingling,,China,,7241 Dwight Alley,Kairouan,,Tunisia,,4582892554,shipped
+778,778,778,3/7/2022,22.39,83,931.63,0.81,1890.83,778,cash,80206 Gina Avenue,Atães,03,Portugal,4800-230,90 Schurz Avenue,Chaoyang,,China,,4070829519,processing
+779,779,779,3/6/2021,6.15,44,85.83,0.87,4301.14,779,debit card,5 Stephen Center,Nanxinxiang,,China,,9 Blaine Place,Budziszewice,,Poland,97-212,4096300916,processing
+780,780,780,6/18/2020,15.85,27,139.51,0.44,1360.14,780,credit card,08 Holy Cross Center,Karak City,,Jordan,,92 Lillian Trail,Penaraga,,Indonesia,,5338403534,delivered
+781,781,781,11/24/2022,14.69,70,626.19,0.84,5387.55,781,cash,32288 Hallows Court,Jiangkou,,China,,22848 Magdeline Road,Tongxing,,China,,1657005304,pending
+782,782,782,2/3/2020,6.02,30,458.54,0.13,8860.24,782,debit card,6948 Pearson Parkway,Wieczfnia Kościelna,,Poland,06-513,111 Delladonna Road,Nový Bor,,Czech Republic,473 01,8513114860,processing
+783,783,783,2/20/2022,15.81,19,155.05,0.2,5675.87,783,credit card,82195 Rieder Alley,Māmu Kānjan,,Pakistan,57301,408 Vernon Terrace,Novopskov,,Ukraine,,4535562093,delivered
+784,784,784,8/2/2022,5.52,82,971.92,0.29,6535.6,784,credit card,03 Artisan Drive,Diamantina,,Philippines,1017,830 Farmco Avenue,Yehud,,Israel,,5274604393,shipped
+785,785,785,1/9/2020,21.25,50,313.92,0.13,6161.84,785,cash,120 Knutson Terrace,Sundsvall,Y,Sweden,851 78,71 Kinsman Crossing,Santa Rosa,,Peru,,2394168773,pending
+786,786,786,10/5/2022,10.16,13,352.65,0.98,8221.4,786,credit card,2766 Beilfuss Trail,Ningshan Chengguanzhen,,China,,12842 Norway Maple Pass,Hobart,TAS,Australia,7808,4370972082,shipped
+787,787,787,5/25/2021,5.16,35,892.07,0.08,1484.31,787,credit card,0529 Florence Drive,Labangka Satu,,Indonesia,,0933 Petterle Circle,Volgodonsk,,Russia,347395,5183133588,pending
+788,788,788,7/6/2021,9.88,58,264.19,0.4,9733.49,788,debit card,975 Gulseth Plaza,Kelasuri,,Georgia,,0881 Pond Junction,Vila Franca da Beira,06,Portugal,3405-605,1329435700,delivered
+789,789,789,9/1/2021,12.14,63,441.46,0.38,3999.36,789,debit card,127 Fair Oaks Center,Shanghu,,China,,72553 Glacier Hill Park,Naas,,Ireland,W91,6162379721,pending
+790,790,790,8/4/2021,9.04,1,400.38,0.51,7054.16,790,cash,42024 Rockefeller Crossing,Bhokadoke,,Indonesia,,77 Basil Point,Desē,,Ethiopia,,6991618978,processing
+791,791,791,8/27/2020,14.48,4,301.7,0.24,3976.49,791,cash,31385 Northland Court,Richmond,,New Zealand,9840,16286 Vernon Lane,Forécariah,,Guinea,,7291680897,processing
+792,792,792,3/21/2022,5.75,40,473.94,0.38,8430.33,792,debit card,19434 Arizona Pass,Lacroix-Saint-Ouen,B6,France,60618 CEDEX,98663 Dayton Point,Chengqiao,,China,,1258150166,pending
+793,793,793,1/5/2020,8.6,93,400.12,0.04,609.23,793,debit card,4 Mallory Trail,Nangabere,,Indonesia,,99995 Straubel Drive,Santa Cruz,,Philippines,5105,1232180635,shipped
+794,794,794,2/22/2020,8.0,97,942.95,0.74,8929.54,794,credit card,376 Roxbury Road,Huaqiao,,China,,035 Hoepker Crossing,Aleg,,Mauritania,,9862412963,processing
+795,795,795,7/12/2022,23.15,92,501.88,0.01,3205.64,795,debit card,1 Buhler Road,Santiago del Torno,,Bolivia,,32406 Talmadge Street,Apt,B8,France,84404 CEDEX,4204402712,delivered
+796,796,796,9/4/2022,15.64,37,524.59,0.09,1764.85,796,credit card,26 Magdeline Plaza,Choibalsan,,Mongolia,,776 Tony Hill,Liuzhuang,,China,,1828541832,processing
+797,797,797,10/14/2022,8.89,60,883.57,0.4,679.05,797,credit card,2773 Bowman Terrace,Aracati,,Brazil,62800-000,257 Canary Parkway,Momil,,Colombia,232008,3380177043,shipped
+798,798,798,10/1/2022,3.88,4,825.76,0.02,932.47,798,credit card,66093 Kropf Road,Brades,,Montserrat,,76 Linden Drive,Parnaíba,,Brazil,64200-000,5707593081,processing
+799,799,799,11/23/2022,9.77,14,178.08,0.2,5207.82,799,cash,9856 Nevada Crossing,Trzebunia,,Poland,32-438,9 Riverside Terrace,Suso,,Philippines,2725,5137618050,delivered
+800,800,800,7/13/2022,18.1,48,117.23,0.27,8768.27,800,cash,17 Mandrake Way,Baishan,,China,,92516 Michigan Plaza,Guarapari,,Brazil,29200-000,6525704005,processing
+801,801,801,5/3/2020,4.96,3,955.44,0.32,9568.23,801,credit card,80 Kensington Point,Tanjungampalu,,Indonesia,,7 Holmberg Circle,Laolong,,China,,9810226040,delivered
+802,802,802,6/19/2021,9.22,69,184.92,0.12,2395.21,802,credit card,5 Chive Street,Cabeças Verdes,06,Portugal,3070-505,4381 Arapahoe Parkway,Snegiri,,Russia,143591,2643137243,shipped
+803,803,803,1/27/2022,20.47,56,484.17,0.95,5101.38,803,cash,53260 Longview Park,Itaberaí,,Brazil,76630-000,6 Doe Crossing Terrace,Truskolasy,,Poland,42-134,7318727614,shipped
+804,804,804,2/21/2021,15.33,72,819.83,0.82,1.84,804,credit card,08 Esch Pass,Dŭstí,,Tajikistan,,9 Warrior Parkway,Yongshan,,China,,1117155434,processing
+805,805,805,2/8/2022,11.44,21,269.25,0.51,1840.36,805,credit card,02858 Lillian Place,Jingping,,China,,501 Lakewood Court,Utama Wetan,,Indonesia,,3272785388,shipped
+806,806,806,3/7/2022,18.57,46,409.95,0.75,4688.6,806,debit card,802 Drewry Plaza,Nieszawa,,Poland,87-730,32 Coolidge Alley,Barurao,,Philippines,8108,7685374128,delivered
+807,807,807,2/22/2021,7.16,21,831.79,0.29,3018.26,807,debit card,3669 Browning Crossing,Novaya Derevnya,,Russia,186326,19 Mcguire Avenue,Yanwan,,China,,1561668340,delivered
+808,808,808,6/13/2021,3.98,80,141.17,0.85,2300.4,808,credit card,6225 Dwight Court,Shenzhengqiao,,China,,61034 Monica Alley,Bato,,Philippines,6525,5289970746,pending
+809,809,809,2/14/2020,12.97,97,563.75,0.97,2296.98,809,credit card,8628 Calypso Trail,Slobidka,,Ukraine,,541 Corry Trail,Ilare,,Nigeria,,1912877240,delivered
+810,810,810,10/8/2022,3.13,56,910.93,0.16,6763.22,810,cash,22 Stephen Avenue,Ménaka,,Mali,,5 Calypso Way,Mashizhai,,China,,3656624456,pending
+811,811,811,9/24/2021,19.77,22,200.78,0.95,352.8,811,debit card,5366 Florence Center,San Antonio,TX,United States,78225,035 Tony Pass,Tinambac,,Philippines,4426,3883684461,processing
+812,812,812,10/4/2020,15.07,64,721.67,0.76,6838.57,812,debit card,06 Gulseth Lane,Luisiana,,Philippines,4032,651 Veith Alley,San Kamphaeng,,Thailand,50130,4832495869,pending
+813,813,813,9/25/2020,18.09,95,908.19,0.52,8121.16,813,debit card,6 Service Center,Fengshou,,China,,85 Blaine Plaza,Ipoh,PRK,Malaysia,30620,2439217007,pending
+814,814,814,6/28/2020,7.12,78,772.56,0.6,4476.65,814,credit card,138 Crescent Oaks Center,Tozkhurmato,,Iraq,,7481 Hauk Terrace,Pariaman,,Indonesia,,7264239208,shipped
+815,815,815,8/29/2021,10.28,58,630.2,0.32,6597.97,815,debit card,95 Dakota Circle,Bafoussam,,Cameroon,,21 South Circle,Wapno,,Poland,62-120,8655463188,processing
+816,816,816,9/6/2022,8.02,11,384.74,0.89,4937.6,816,credit card,5658 Sheridan Court,Ravne,,Slovenia,3504,400 Manley Point,Baykalovo,,Russia,184366,4526704404,pending
+817,817,817,1/1/2021,14.33,19,459.74,0.85,5278.53,817,cash,2950 Utah Alley,Gastello,,Russia,694210,3 Tony Alley,Ōarai,,Japan,311-1500,2099975766,processing
+818,818,818,2/24/2022,11.32,49,21.2,0.53,5143.84,818,credit card,0 Warbler Avenue,Huanglong,,China,,7 Warrior Crossing,Regente Feijó,,Brazil,19570-000,6256582944,shipped
+819,819,819,2/15/2020,13.26,32,959.76,0.41,6182.21,819,debit card,95065 Milwaukee Drive,General Alvear,,Argentina,3361,88052 Tennessee Place,Vitali,,Philippines,7028,4337956089,processing
+820,820,820,12/2/2020,18.46,99,322.72,0.39,8433.98,820,cash,3 Karstens Terrace,Pukou,,China,,3578 Riverside Court,Yantian,,China,,5078542717,shipped
+821,821,821,11/1/2020,6.31,81,631.78,0.77,2271.49,821,cash,729 Lukken Road,Kuala Lumpur,KUL,Malaysia,50802,914 Warrior Lane,Nunhala,,Indonesia,,4450376950,pending
+822,822,822,4/11/2022,18.4,63,154.42,0.32,7029.6,822,debit card,63586 Eliot Hill,Anhua Daying,,China,,83 Independence Junction,Shiki,,Japan,863-2503,5987716614,pending
+823,823,823,3/23/2021,15.34,99,939.57,0.54,3425.66,823,cash,394 Cherokee Street,Miasskoye,,Russia,456660,2934 Russell Park,Santana do Paraíso,,Brazil,35167-000,2159770166,pending
+824,824,824,9/8/2020,19.6,62,426.78,0.84,6116.52,824,debit card,12 Starling Court,Babakansari,,Indonesia,,1690 Kings Place,Weston,ENG,United Kingdom,GU32,2133613329,pending
+825,825,825,3/1/2021,18.66,49,998.07,0.88,3949.84,825,cash,472 Bashford Road,Sunan,,North Korea,,57 Golf Course Crossing,Rammūn,,Palestinian Territory,,3901404310,delivered
+826,826,826,5/20/2022,2.34,4,425.21,0.79,997.81,826,cash,56058 Green Alley,Wenjī,,Ethiopia,,5199 Anhalt Park,Al Jarrāḩī,,Yemen,,5866744207,pending
+827,827,827,4/28/2021,15.31,22,682.13,0.02,8477.46,827,debit card,6 Delaware Court,Soho,,Indonesia,,48155 Lindbergh Road,Zhifang,,China,,5072361681,pending
+828,828,828,5/30/2022,5.64,77,227.43,0.91,3412.51,828,credit card,2376 Holy Cross Circle,Morteros,,Argentina,2421,261 Prairieview Street,Benito Juarez,TAM,Mexico,88930,3306108719,shipped
+829,829,829,7/6/2022,16.59,22,892.41,0.09,7378.17,829,debit card,17412 Algoma Park,Grahamstown,,South Africa,6150,13266 Eastwood Terrace,Isugod,,Philippines,4336,2225689848,processing
+830,830,830,3/27/2021,22.5,49,37.76,0.51,8441.37,830,credit card,1994 Anderson Terrace,Tobilolong,,Indonesia,,105 Dawn Drive,Sitabamba,,Peru,,8097273555,pending
+831,831,831,12/17/2022,13.63,66,692.21,0.28,3333.5,831,cash,07104 Autumn Leaf Circle,Akhmīm,,Egypt,,434 Cody Center,Bumirejo,,Indonesia,,8875162694,shipped
+832,832,832,10/13/2020,6.75,9,715.4,0.98,4547.03,832,debit card,052 Truax Crossing,Nasavrky,,Czech Republic,565 01,9 Brown Lane,Blantyre,,Malawi,,3280623490,shipped
+833,833,833,12/15/2021,2.05,5,40.74,0.2,747.69,833,credit card,82 Golf View Center,Chicacao,,Guatemala,10013,9 South Place,Žiželice,,Czech Republic,438 01,3120996789,processing
+834,834,834,1/20/2020,4.63,14,983.2,0.87,2258.5,834,cash,84 Summit Street,Qingyang,,China,,11722 Pond Hill,Buenavista,TAM,Mexico,88815,5445370220,shipped
+835,835,835,5/1/2020,2.1,22,689.62,0.16,3689.34,835,cash,456 Rieder Hill,Araruama,,Brazil,28970-000,6 3rd Drive,Tanbu,,China,,4771929204,shipped
+836,836,836,9/29/2022,21.41,81,698.92,0.3,9819.58,836,cash,34593 Paget Court,Amvrosiyivka,,Ukraine,,8 Katie Street,Lordegān,,Iran,,9367321073,pending
+837,837,837,8/26/2022,14.46,32,611.85,0.21,9808.63,837,debit card,5186 Pine View Drive,Luziânia,,Brazil,72800-000,575 Sommers Pass,Wan’an,,China,,8551727785,processing
+838,838,838,10/10/2020,16.24,49,928.31,0.3,7910.73,838,credit card,7 Marcy Plaza,Huilong,,China,,4681 Helena Road,Uzgen,,Kyrgyzstan,,7085542572,processing
+839,839,839,4/30/2022,7.92,44,345.2,0.06,9762.83,839,cash,7 Heath Circle,Lisui,,China,,91 5th Court,Trancas,,Argentina,4124,2396382084,processing
+840,840,840,1/29/2020,23.06,41,77.1,0.77,3435.43,840,debit card,06931 Packers Plaza,Yegor’yevsk,,Russia,140306,968 Clyde Gallagher Hill,Ngrambitan,,Indonesia,,9448268001,pending
+841,841,841,1/6/2022,5.92,72,485.14,0.78,538.85,841,debit card,77 Katie Point,Vologda,,Russia,160034,84730 Doe Crossing Park,Andapa,,Madagascar,,6930589657,delivered
+842,842,842,12/26/2021,7.62,29,374.36,0.14,5675.77,842,debit card,504 Hoard Way,Xinmin,,China,,104 Sloan Lane,Sakrand,,Pakistan,67210,4254528170,pending
+843,843,843,12/26/2022,19.34,28,364.22,0.96,3044.71,843,credit card,6 Johnson Avenue,Nantai,,China,,95456 Fordem Junction,Merke,,Kazakhstan,,6725628894,pending
+844,844,844,3/11/2020,7.89,35,772.4,0.64,5136.06,844,debit card,1515 Crownhardt Drive,Panggungsari,,Indonesia,,64133 Bluejay Court,Kasakh,,Armenia,,3358838730,processing
+845,845,845,1/1/2022,0.74,7,717.64,0.44,2078.44,845,credit card,52758 Butternut Hill,Pocokan Satu,,Indonesia,,62 Orin Street,Outeirô,13,Portugal,4785-035,4415651872,processing
+846,846,846,4/9/2021,22.23,20,75.81,0.6,5727.3,846,debit card,5 Shasta Place,Jamundí,,Colombia,764008,259 Sunfield Drive,Hamonggolele,,Indonesia,,2300176697,pending
+847,847,847,12/7/2022,0.82,41,255.78,0.62,7298.53,847,debit card,5 Bowman Trail,Ōsaka-shi,,Japan,661-0963,0574 Elgar Street,Krajan Dua Dawuan Wetan,,Indonesia,,2194321635,delivered
+848,848,848,3/9/2021,12.41,89,325.93,0.35,59.82,848,debit card,0800 Kinsman Way,Mendeleyevo,,Russia,617200,3 Mallard Junction,Duraykīsh,,Syria,,7708461360,delivered
+849,849,849,10/4/2022,4.36,57,660.79,0.71,6462.77,849,credit card,34226 Maple Wood Avenue,Kansas City,KS,United States,66105,111 Nevada Road,Berlin,BE,Germany,10587,6082012352,shipped
+850,850,850,9/20/2020,20.93,47,538.86,0.74,6405.39,850,cash,85 Muir Alley,Comapa,,Guatemala,22011,38479 Ruskin Way,Youngstown,OH,United States,44511,5841174840,processing
+851,851,851,1/19/2020,2.8,57,803.94,0.22,6385.42,851,debit card,0 Eastlawn Crossing,Kobyzhcha,,Ukraine,,914 New Castle Court,Angoulême,B7,France,16015 CEDEX,6097035652,shipped
+852,852,852,12/4/2020,12.09,96,594.11,0.21,6691.99,852,debit card,797 Helena Court,Cẩm Phả,,Vietnam,,8 Fieldstone Terrace,Kinna,O,Sweden,511 58,5686166708,delivered
+853,853,853,5/14/2021,15.45,82,471.44,0.54,1459.49,853,credit card,92 Hooker Park,Cubatão,,Brazil,11500-000,10645 Nobel Crossing,Qal‘at Bīshah,,Saudi Arabia,,6164275879,shipped
+854,854,854,12/12/2022,13.49,45,191.81,0.01,4892.62,854,cash,5 Granby Junction,Örbyhus,C,Sweden,748 94,336 Bartelt Crossing,Oenopu,,Indonesia,,9258738266,delivered
+855,855,855,9/7/2020,1.05,98,48.37,0.3,6780.34,855,cash,27 John Wall Place,Demuk,,Indonesia,,165 Magdeline Place,Richmond,VA,United States,23272,7256501586,processing
+856,856,856,8/19/2021,18.58,9,809.67,0.88,278.2,856,credit card,156 Fisk Terrace,Jiantian,,China,,80 8th Road,Pokachi,,Russia,403115,8746792891,shipped
+857,857,857,7/12/2021,17.27,82,987.64,0.74,8456.82,857,credit card,40 Parkside Terrace,Guilmaro,,Benin,,42 Union Terrace,Dongjian,,China,,6406416903,delivered
+858,858,858,7/18/2020,0.38,99,770.88,0.27,8671.65,858,credit card,44 Browning Avenue,Jinhe,,China,,59957 Harbort Circle,Guzhuyingzi,,China,,3507213467,shipped
+859,859,859,9/25/2022,15.61,65,558.81,0.09,9018.1,859,cash,411 Northview Crossing,Quipot,,Philippines,5014,0 Mitchell Junction,Fenggang,,China,,8878998865,delivered
+860,860,860,5/9/2022,16.57,40,743.3,0.21,5348.58,860,debit card,12 Stephen Circle,Fada N'gourma,,Burkina Faso,,10 Evergreen Park,Pīrgaaj,,Bangladesh,5110,5444385945,delivered
+861,861,861,1/18/2021,15.44,37,292.92,0.31,3315.62,861,credit card,280 Park Meadow Pass,Cordeiro,,Brazil,28540-000,298 Menomonie Park,Vila de Sal Rei,,Cape Verde,,7839984584,delivered
+862,862,862,5/9/2021,23.29,41,496.18,0.6,8728.34,862,debit card,2371 David Pass,Otlja,,Macedonia,1315,7 Lindbergh Circle,Jiling,,China,,4978647177,delivered
+863,863,863,1/12/2022,13.45,8,171.89,0.22,1928.21,863,credit card,523 Farmco Place,Karangsari,,Indonesia,,4 Hollow Ridge Plaza,Gävle,X,Sweden,801 38,4664410870,processing
+864,864,864,7/2/2021,1.42,82,476.8,0.88,6918.32,864,debit card,79 Trailsway Pass,Katiola,,Ivory Coast,,47530 Morrow Parkway,Phayakkhaphum Phisai,,Thailand,44110,9053353307,processing
+865,865,865,6/16/2020,17.4,10,924.59,0.38,9838.01,865,credit card,2458 Merry Terrace,Qiangqinxue,,China,,3 Coolidge Crossing,Sangzhou,,China,,6898255937,delivered
+866,866,866,5/21/2020,13.9,87,575.85,0.51,1647.1,866,cash,18 Park Meadow Hill,Xuelu,,China,,629 Briar Crest Street,Sulang Tengah,,Indonesia,,2795948696,processing
+867,867,867,1/16/2021,8.11,8,855.32,0.18,5595.05,867,cash,891 Jenna Way,Strasbourg,C1,France,67024 CEDEX 1,4 Coolidge Court,Junín,,Argentina,5281,6000736302,pending
+868,868,868,1/18/2022,10.38,34,649.3,0.27,1799.88,868,credit card,92764 Wayridge Plaza,Krajan Sumurtawang,,Indonesia,,51 Farmco Avenue,Sainte-Adèle,QC,Canada,J8B,2771436412,processing
+869,869,869,7/27/2022,17.37,41,899.84,0.76,2672.65,869,cash,2602 Brentwood Way,Charleston,WV,United States,25389,185 Transport Trail,Aramecina,,Honduras,,2787224826,shipped
+870,870,870,3/4/2021,15.86,86,872.0,0.51,9714.54,870,cash,2 Walton Crossing,Qikeshu,,China,,558 Stephen Court,Ar Rudayyif,,Tunisia,,4276124522,pending
+871,871,871,5/14/2021,19.41,76,389.92,0.98,4626.49,871,debit card,34 Bashford Lane,Daishan,,China,,405 Wayridge Lane,Tubli,,Philippines,4031,9252536980,delivered
+872,872,872,1/28/2020,23.78,42,304.35,0.59,4921.52,872,cash,00 Springs Junction,Oslomej,,Macedonia,6254,6502 Green Ridge Place,Tashkent,,Uzbekistan,,7475128226,processing
+873,873,873,9/22/2020,1.02,45,79.38,0.1,4498.32,873,debit card,50 Chinook Parkway,Kokagax,,China,,46 Alpine Lane,Ayamaru,,Indonesia,,6412877857,processing
+874,874,874,2/16/2022,0.78,21,99.59,0.12,9394.1,874,cash,5066 Westport Street,Raciąż,,Poland,09-140,91 Manufacturers Parkway,Fristad,O,Sweden,513 91,9215404966,processing
+875,875,875,12/19/2021,12.77,92,177.59,0.31,7561.89,875,debit card,32 Gina Place,Banjar Sebual,,Indonesia,,365 Claremont Terrace,Bludov,,Czech Republic,789 61,6282433121,delivered
+876,876,876,4/18/2022,21.61,5,25.42,0.98,7681.09,876,cash,3091 Gina Drive,Stanišić,,Serbia,,31328 Stoughton Terrace,Mafang,,China,,9377652329,shipped
+877,877,877,2/9/2020,2.05,25,288.22,0.64,5361.34,877,cash,568 Fisk Court,Krajan,,Indonesia,,6906 Memorial Hill,Lingdong,,China,,5763952653,shipped
+878,878,878,12/3/2021,4.49,32,617.51,0.31,5589.16,878,cash,9126 Lotheville Lane,Huangjinbu,,China,,6776 Anhalt Road,Jihlava,,Czech Republic,586 01,4915166686,shipped
+879,879,879,6/12/2022,0.38,99,918.27,0.2,6148.87,879,credit card,0 Briar Crest Avenue,Aparecida de Goiânia,,Brazil,74900-000,35 Hanson Point,Pinellas Park,FL,United States,34665,8668557129,shipped
+880,880,880,3/18/2022,6.16,79,607.33,0.25,2143.01,880,cash,75601 American Ash Avenue,Bojonggenteng,,Indonesia,,9455 Knutson Drive,Sundsvall,Y,Sweden,855 90,5548182705,delivered
+881,881,881,4/21/2021,12.97,97,883.03,0.17,3997.46,881,debit card,72 Lien Street,Tiantai,,China,,947 Emmet Point,Knoxville,TN,United States,37924,2554677606,pending
+882,882,882,4/10/2022,22.4,7,784.98,0.89,1492.09,882,credit card,10 Fallview Junction,Zaokskiy,,Russia,301005,43925 Jay Street,Denver,CO,United States,80291,5039877253,processing
+883,883,883,11/11/2021,6.48,57,916.23,0.75,6335.3,883,credit card,2068 Sundown Junction,San Agustin,,Philippines,8305,4 Manley Parkway,Santa Cruz Muluá,,Guatemala,11006,5297524791,shipped
+884,884,884,6/4/2020,18.67,8,355.31,0.92,1318.52,884,debit card,8689 Elka Alley,Andorinha,06,Portugal,3025-333,9 Stoughton Street,Gangmei,,China,,4829622633,shipped
+885,885,885,12/30/2020,22.06,48,354.06,0.46,6201.81,885,debit card,756 Trailsway Circle,Preobrazheniye,,Russia,429500,62 Moland Alley,Belopa,,Indonesia,,2687362353,delivered
+886,886,886,10/3/2020,1.12,88,572.7,0.4,5311.78,886,debit card,187 Kinsman Avenue,Cape Town,,South Africa,8160,027 New Castle Street,Santa Maria,YUC,Mexico,97714,5330996907,processing
+887,887,887,6/2/2021,9.36,6,141.56,0.16,4595.02,887,credit card,527 High Crossing Junction,Xiehu,,China,,096 Carberry Crossing,Huatajata,,Bolivia,,9327197645,delivered
+888,888,888,6/20/2022,9.65,38,430.86,0.36,5001.45,888,cash,3 Canary Pass,Sterling,VA,United States,20167,27 Warbler Junction,Shimodate,,Japan,309-1127,8390519176,processing
+889,889,889,10/12/2021,0.43,40,63.8,0.6,5130.47,889,cash,0 Grim Road,Bastan,,Russia,658972,9 Dayton Avenue,Sanshan,,China,,8123621945,delivered
+890,890,890,6/1/2021,14.73,73,887.68,0.22,7919.69,890,cash,89146 Marquette Alley,Macun,,China,,326 Glendale Street,Mpongwe,,Zambia,,8819999118,pending
+891,891,891,5/23/2021,9.44,81,268.76,0.21,6398.43,891,cash,24 Dryden Drive,Plymouth,,Montserrat,,7 Troy Road,Ganghwa-gun,,South Korea,,2924513131,delivered
+892,892,892,7/21/2021,4.56,49,972.75,0.27,679.49,892,cash,3748 Mesta Court,Iporá,,Brazil,76200-000,1 Tony Terrace,Carnot,,Central African Republic,,3249580054,delivered
+893,893,893,12/25/2022,1.23,33,269.61,0.36,7192.11,893,debit card,92 Lerdahl Plaza,Ljungby,G,Sweden,341 84,103 Loomis Circle,Gävle,X,Sweden,802 80,8789612792,shipped
+894,894,894,10/26/2020,8.21,49,76.96,0.32,3371.86,894,cash,3916 Bunker Hill Avenue,Winton,,New Zealand,9741,04 Grim Street,Hedaru,,Tanzania,,3407072935,shipped
+895,895,895,5/2/2022,3.14,89,587.81,0.32,2616.77,895,credit card,370 Clyde Gallagher Plaza,Contramaestre,,Cuba,,6950 Lake View Road,Houba,,China,,5219037844,shipped
+896,896,896,6/25/2020,20.03,62,107.25,0.42,9414.05,896,debit card,1 Vera Pass,Longxi,,China,,001 Green Avenue,Centralniy,,Russia,309534,4790484548,shipped
+897,897,897,3/12/2020,9.48,43,694.67,0.97,6996.75,897,credit card,945 Nelson Pass,Jiannan,,China,,1 Eagan Crossing,Prosperous,,Ireland,R14,6985316818,shipped
+898,898,898,7/17/2020,8.46,19,2.18,0.04,2034.54,898,cash,6 Becker Parkway,Panjiang,,China,,42842 Stephen Alley,La Soledad,PUE,Mexico,75498,8121196182,processing
+899,899,899,7/3/2021,1.73,61,454.33,0.32,2218.45,899,cash,15 7th Road,Pokrovka,,Kyrgyzstan,,360 Forest Terrace,Haeju,,North Korea,,6952135320,pending
+900,900,900,9/13/2020,5.72,100,917.19,0.52,6969.45,900,credit card,17509 Dorton Terrace,Aimadamodo,,Indonesia,,8 Corscot Pass,Kovářská,,Czech Republic,431 86,4084157821,pending
+901,901,901,9/10/2022,2.09,63,947.52,0.25,8632.94,901,credit card,1 Coolidge Drive,Dahuang,,China,,529 Heffernan Alley,La Peña,,Panama,,5393654396,pending
+902,902,902,3/22/2020,0.55,98,300.6,0.81,8591.96,902,debit card,1 Farwell Pass,Chichigalpa,,Nicaragua,,93699 Tennessee Alley,Madison,WI,United States,53710,3806488430,delivered
+903,903,903,4/28/2021,17.11,7,856.5,0.34,5763.59,903,cash,6713 Reinke Place,Babakanlapang,,Indonesia,,147 Arkansas Alley,Campo Grande,,Brazil,59680-000,4803738199,processing
+904,904,904,4/10/2020,17.24,48,278.46,0.77,9173.93,904,credit card,40 Memorial Hill,Dajabón,,Dominican Republic,10115,818 Straubel Lane,Kaset Wisai,,Thailand,45150,2881048231,delivered
+905,905,905,8/11/2020,11.48,47,282.64,0.48,9622.85,905,credit card,1 Sage Place,Sernovodsk,,Russia,446533,09023 Mccormick Alley,Changqing,,China,,7496357196,pending
+906,906,906,5/15/2021,2.76,72,512.83,0.05,4053.35,906,credit card,133 Bartelt Avenue,Nanhai,,China,,27887 Gale Way,Khallat ad Dār,,Palestinian Territory,,1754535921,pending
+907,907,907,10/16/2020,21.39,16,419.6,0.01,3899.57,907,credit card,5 Old Shore Junction,Kauhan,,Indonesia,,3 Nelson Crossing,Livadiya,,Russia,363001,8600602907,processing
+908,908,908,11/20/2022,23.16,79,256.92,0.95,2853.72,908,debit card,720 Hallows Plaza,Jipijapa,,Ecuador,,00186 Debs Park,Kenamoen,,Indonesia,,7818245309,shipped
+909,909,909,12/25/2022,14.66,21,322.29,0.64,6760.06,909,debit card,52 Fordem Junction,Miyakonojō,,Japan,889-1912,6064 Beilfuss Parkway,Kęty,,Poland,32-653,4126093350,pending
+910,910,910,11/20/2020,22.44,93,369.45,0.88,3052.8,910,debit card,8 Talisman Drive,Yuefeng,,China,,810 Briar Crest Park,Hadžići,,Bosnia and Herzegovina,,7044889644,processing
+911,911,911,9/28/2021,1.94,44,89.41,0.52,8874.82,911,cash,76 Mockingbird Alley,Rendian,,China,,6807 Hayes Park,Asyūţ,,Egypt,,8019890859,pending
+912,912,912,12/19/2020,0.13,70,803.74,0.04,3057.93,912,cash,0842 Anniversary Avenue,Serra da Boa Viagem,06,Portugal,3080-352,4309 Banding Drive,Novyye Cherëmushki,,Russia,142817,1660293005,shipped
+913,913,913,2/14/2021,1.5,44,901.02,0.09,1029.52,913,cash,67 Washington Way,Hậu Nghĩa,,Vietnam,,5 Armistice Place,Maddarulug Norte,,Philippines,3501,2776988641,pending
+914,914,914,12/21/2021,23.9,22,645.19,0.03,3829.05,914,debit card,813 Weeping Birch Lane,Chaloem Phra Kiat,,Thailand,95120,6202 Northwestern Lane,Erenhot,,China,,5194122711,processing
+915,915,915,8/10/2022,7.3,54,65.62,0.16,6409.24,915,debit card,99111 Gale Hill,Mazowe,,Zimbabwe,,90921 Dawn Point,Bairros,13,Portugal,4785-512,5139970700,shipped
+916,916,916,10/31/2020,0.2,27,649.25,0.46,7575.33,916,debit card,2 Oneill Trail,Pazarić,,Bosnia and Herzegovina,,93968 Cody Crossing,Alfta,X,Sweden,822 30,4962160096,pending
+917,917,917,2/1/2020,19.44,89,817.09,0.41,1533.23,917,debit card,51 Birchwood Circle,San Marcos,,Peru,,204 Lake View Crossing,Storozhynets’,,Ukraine,,2591098243,shipped
+918,918,918,12/23/2022,10.42,19,706.28,0.81,9673.4,918,credit card,0 Pankratz Junction,Liješnica,,Bosnia and Herzegovina,,98897 Hovde Court,Spirovo,,Russia,422338,3142204936,shipped
+919,919,919,12/19/2021,16.79,37,310.29,0.62,9223.82,919,debit card,4 Marquette Avenue,Racine,WI,United States,53405,168 Little Fleur Drive,Maruoka,,Japan,997-0334,9443808792,processing
+920,920,920,8/10/2020,17.56,79,872.09,0.34,3187.07,920,credit card,666 Rigney Drive,Lago da Pedra,,Brazil,65715-000,3 Anthes Trail,Netrakona,,Bangladesh,5405,8985084264,delivered
+921,921,921,11/9/2020,14.86,91,863.25,0.71,6721.2,921,cash,93 Maple Wood Place,Barakani,,Comoros,,140 Lawn Parkway,Bagnères-de-Bigorre,B3,France,65204 CEDEX,4737106998,delivered
+922,922,922,9/18/2022,9.29,46,268.79,0.56,5662.97,922,credit card,125 Homewood Center,Qarah Bāgh Bāzār,,Afghanistan,,52463 Debs Terrace,Dīvāndarreh,,Iran,,9908667569,delivered
+923,923,923,11/23/2020,2.48,100,794.45,0.05,1277.87,923,debit card,8 Old Shore Court,Desa Werasari,,Indonesia,,00 Derek Alley,Canjulao,,Philippines,6309,3127104204,delivered
+924,924,924,3/17/2022,1.29,75,816.75,0.53,9150.59,924,cash,263 Hallows Terrace,Tulcán,,Ecuador,,4 Express Way,Hua Hin,,Thailand,77110,7120322566,processing
+925,925,925,3/12/2020,6.92,59,48.36,0.26,4917.89,925,credit card,1 Crest Line Trail,Porkhov,,Russia,164646,4 Oxford Terrace,Lope de Vega,,Philippines,6403,8414209891,processing
+926,926,926,7/2/2022,2.21,19,950.9,0.76,7770.95,926,cash,223 Esch Junction,Cambridge,,Jamaica,,5069 Red Cloud Park,Skien,08,Norway,3736,6269533484,processing
+927,927,927,4/18/2020,11.73,48,976.52,0.07,1707.97,927,cash,24650 Donald Circle,Qianjin,,China,,58 Green Ridge Avenue,Jianguang,,China,,7305186405,delivered
+928,928,928,6/23/2020,2.48,42,655.12,0.17,8897.84,928,credit card,09 Cottonwood Drive,Camatagua,,Venezuela,,94 Mendota Drive,El Zapote,GUA,Mexico,38800,4295977381,shipped
+929,929,929,1/1/2021,6.98,24,164.94,0.57,3978.53,929,cash,0 Cardinal Drive,Guijalo,,Philippines,7113,08137 Mcbride Street,Ranua,,Finland,97701,7177773316,pending
+930,930,930,11/26/2022,9.68,62,746.11,0.14,3592.8,930,debit card,9340 Dennis Place,Waterloo,QC,Canada,V9J,74 Homewood Avenue,La Mohammedia,,Tunisia,,5706737752,pending
+931,931,931,8/29/2022,16.86,58,919.42,0.69,7516.74,931,debit card,3681 Luster Way,Zhenxing,,China,,45805 Pepper Wood Court,São Sebastião do Paraíso,,Brazil,37950-000,5761657799,processing
+932,932,932,6/8/2021,20.81,11,934.23,0.16,3681.64,932,cash,4702 Lukken Parkway,Tigarunggu,,Indonesia,,196 David Drive,Dadukou,,China,,4362102370,processing
+933,933,933,3/29/2020,8.1,42,911.84,0.92,9096.89,933,credit card,165 Myrtle Alley,Simuay,,Philippines,6815,411 Prairie Rose Alley,Areia Branca,,Brazil,49580-000,4653619804,delivered
+934,934,934,9/12/2021,19.96,52,438.4,0.75,6497.71,934,cash,56289 Mallard Way,Vylkove,,Ukraine,,83094 Jackson Hill,Växjö,G,Sweden,351 97,8445386308,processing
+935,935,935,8/25/2022,11.46,92,312.99,0.24,4243.18,935,credit card,05441 Hermina Place,Kamifukuoka,,Japan,959-2073,3 Thompson Circle,Lions Bay,BC,Canada,K4K,6885180214,processing
+936,936,936,3/21/2022,18.32,94,743.64,0.22,9665.9,936,debit card,75 Village Green Court,Dobrich,,Bulgaria,9337,966 Bultman Court,Helong,,China,,9606281790,delivered
+937,937,937,11/5/2020,6.65,25,905.6,0.06,8707.14,937,cash,24300 Dwight Hill,Gontar,,Indonesia,,7848 Mesta Alley,Darungan,,Indonesia,,1101100133,shipped
+938,938,938,12/16/2020,6.92,39,652.1,0.45,3401.26,938,credit card,7 Myrtle Road,Casal do Relvas,10,Portugal,2440-341,05 Village Parkway,Junín,,Argentina,2152,1408650870,shipped
+939,939,939,8/26/2022,5.53,14,517.77,0.22,2259.07,939,debit card,04792 Lien Way,Cavaillon,B8,France,84304 CEDEX,66 Service Crossing,Malhão,08,Portugal,8150-045,6854216675,processing
+940,940,940,1/4/2022,17.38,10,99.07,0.82,373.12,940,credit card,8988 Hollow Ridge Alley,Oebobo,,Indonesia,,0 8th Parkway,Dangshun,,China,,9377786064,delivered
+941,941,941,3/31/2022,9.9,60,985.67,0.89,6868.98,941,credit card,09551 Katie Trail,Buyun,,China,,7 Hallows Street,Zipaquirá,,Colombia,250258,9817753231,pending
+942,942,942,5/10/2020,16.69,21,380.32,0.47,3807.91,942,cash,1 Ridgeway Crossing,Quebrada Canoa,,Panama,,7614 Clarendon Place,Jamao al Norte,,Dominican Republic,10131,2201466820,processing
+943,943,943,9/8/2021,3.29,2,821.96,0.42,9790.83,943,credit card,64 Dennis Way,Mutum,,Brazil,36955-000,17482 Eastlawn Plaza,Chengmagang,,China,,7162851332,shipped
+944,944,944,4/24/2022,16.14,60,564.58,0.2,3482.76,944,cash,8519 Sheridan Avenue,Valsamáta,,Greece,,118 Texas Junction,Pasrukrajan Satu,,Indonesia,,3429558161,shipped
+945,945,945,4/1/2021,2.19,53,11.33,0.4,4455.31,945,credit card,6498 Red Cloud Park,Dadeldhurā,,Nepal,,29409 Dexter Plaza,Cantilan,,Philippines,8316,1081575531,processing
+946,946,946,12/4/2020,22.41,97,726.25,0.66,2313.86,946,credit card,80485 Division Lane,Guizi,,China,,54 Mayfield Avenue,Bahe,,China,,9275266949,pending
+947,947,947,4/11/2021,21.06,88,733.51,0.41,4924.57,947,debit card,02699 Tomscot Place,Río Viejo,,Colombia,134507,73 Pearson Drive,Wonorejo,,Indonesia,,9047496576,pending
+948,948,948,2/22/2021,10.8,16,879.62,0.06,3215.53,948,debit card,6 Homewood Terrace,Lavezares,,Philippines,6404,42 Lien Pass,Petrich,,Bulgaria,2889,7211519946,pending
+949,949,949,11/22/2021,2.98,33,906.77,0.28,2693.91,949,cash,73986 Lakeland Alley,Qŭrghonteppa,,Tajikistan,,51153 Dayton Plaza,Niños Heroes,TAM,Mexico,89359,7734518079,processing
+950,950,950,2/2/2021,2.12,10,606.45,0.76,3825.03,950,credit card,179 Fisk Parkway,San Francisco,VER,Mexico,95710,674 Bartillon Center,Los Andes,,Colombia,526529,9336726006,delivered
+951,951,951,3/3/2021,6.53,55,749.49,0.3,3534.43,951,cash,297 Dunning Road,San Quintin,,Philippines,2808,3910 Nevada Lane,Hinapalanan,,Philippines,4419,9984178277,processing
+952,952,952,6/15/2022,7.85,61,885.64,0.6,4076.93,952,credit card,271 Prentice Lane,Capitán Bado,,Paraguay,,3 Cambridge Pass,Canguçu,,Brazil,96600-000,4844939280,processing
+953,953,953,9/19/2021,8.86,34,613.11,0.64,7646.54,953,credit card,67849 Londonderry Circle,Ordem,10,Portugal,2430-159,09 Caliangt Trail,Huangbei,,China,,2138868152,delivered
+954,954,954,10/30/2022,14.56,99,397.19,0.13,1462.46,954,credit card,343 Raven Avenue,Margamukti,,Indonesia,,765 Saint Paul Street,Wuning,,China,,1245012484,shipped
+955,955,955,6/10/2022,19.03,82,654.75,0.55,2325.1,955,debit card,9 Dovetail Way,Kauditan,,Indonesia,,68636 Blackbird Alley,Umm as Summāq,,Jordan,,3960836390,delivered
+956,956,956,8/16/2021,21.46,78,549.74,0.7,9953.72,956,debit card,43 Lyons Alley,Farrokh Shahr,,Iran,,42 Clemons Park,Bayt Maqdūm,,Palestinian Territory,,6775857658,delivered
+957,957,957,5/19/2020,0.37,24,251.82,0.8,5246.98,957,credit card,5653 Manley Crossing,Andalan,,Philippines,2305,044 Hoard Drive,Oakland,CA,United States,94627,5893827589,delivered
+958,958,958,8/14/2022,3.21,23,723.11,0.96,1120.02,958,credit card,7495 Sherman Trail,Xinshui,,China,,7 Burrows Plaza,Moss,01,Norway,1508,3157674414,pending
+959,959,959,8/7/2020,2.91,18,836.54,0.8,7515.01,959,cash,26331 Roxbury Hill,Uvarovo,,Russia,393479,2797 Farwell Hill,Jiangzao,,China,,2450323879,processing
+960,960,960,8/2/2022,2.94,10,758.07,1.0,6838.11,960,cash,74 Holy Cross Crossing,Takanini,,New Zealand,2245,96374 Trailsway Crossing,Jackson,MS,United States,39216,1239006556,shipped
+961,961,961,7/21/2020,15.12,72,0.87,0.03,8135.64,961,cash,71 Marquette Alley,Dazhigu,,China,,8 Hermina Plaza,Bayeman,,Indonesia,,1976345198,processing
+962,962,962,3/3/2022,21.39,7,543.44,0.98,5808.74,962,credit card,21 Schurz Way,Djibo,,Burkina Faso,,1509 Aberg Junction,San Jose,COL,Mexico,33856,4097891654,delivered
+963,963,963,2/15/2022,12.66,87,787.56,0.09,1836.87,963,debit card,532 Badeau Hill,Napenay,,Argentina,3706,724 Maple Lane,Setaka,,Japan,834-0122,8258755621,delivered
+964,964,964,3/20/2020,0.14,94,157.46,0.45,6724.77,964,credit card,4 Union Crossing,Busan,,South Korea,,67344 Shopko Plaza,Caen,99,France,14922 CEDEX 9,3653620255,pending
+965,965,965,8/14/2022,18.53,36,591.36,0.08,3473.78,965,cash,37 Waubesa Avenue,Leeuwarden,02,Netherlands,8934,80020 Lillian Hill,Suci Kaler,,Indonesia,,1393175554,pending
+966,966,966,10/21/2021,13.78,28,108.76,0.9,1685.95,966,debit card,93362 Emmet Avenue,Vodnyy,,Russia,169336,7 Crowley Plaza,Port Area,,Philippines,1018,6129859366,shipped
+967,967,967,1/12/2020,3.9,67,139.43,0.77,4050.86,967,cash,75 Killdeer Drive,Sambiyan,,Indonesia,,7 Hanson Parkway,Yinying,,China,,2718163867,delivered
+968,968,968,9/28/2021,23.71,68,20.74,0.47,1647.29,968,credit card,67230 Hallows Place,Chittagong,,Bangladesh,4000,2421 Saint Paul Way,Malapaubhara,,Indonesia,,7690647902,delivered
+969,969,969,11/14/2022,19.14,46,308.55,0.56,8008.95,969,cash,312 Waxwing Hill,Kembangan,,Indonesia,,5187 Luster Park,Al Mijlad,,Sudan,,8140906476,pending
+970,970,970,4/8/2020,15.16,70,522.26,0.31,9390.03,970,cash,79 Raven Terrace,Barueri,,Brazil,06400-000,79853 Hermina Circle,Gazojak,,Turkmenistan,,2068482159,pending
+971,971,971,1/27/2020,23.04,84,605.11,0.82,1614.13,971,credit card,5022 Elgar Park,Gujrāt,,Pakistan,41201,82893 Brickson Park Court,Liyuan,,China,,2739694428,pending
+972,972,972,8/23/2022,5.65,2,623.99,0.26,676.92,972,debit card,4026 Meadow Ridge Plaza,Falënki,,Russia,612500,5 Jay Plaza,Jun’an,,China,,1704372680,processing
+973,973,973,10/6/2022,21.87,39,794.96,0.17,3539.77,973,cash,14 Sheridan Parkway,Lyamino,,Russia,618235,80 Wayridge Circle,Gucheng,,China,,7971457055,delivered
+974,974,974,1/6/2021,12.12,65,250.06,0.19,870.6,974,debit card,16 Mcbride Street,Jinshan,,China,,18 Forest Center,Sidomulyo,,Indonesia,,2069051304,processing
+975,975,975,9/13/2022,8.16,78,772.7,0.18,5948.95,975,debit card,6 North Parkway,La Puerta de San José,,Argentina,4751,2125 Forest Parkway,Tagbina,,Philippines,8308,7662771205,pending
+976,976,976,12/23/2020,12.77,1,905.4,0.69,1751.6,976,cash,8 Mallard Hill,Willowmore,,South Africa,6454,587 Becker Drive,Ganding,,Indonesia,,5069559505,shipped
+977,977,977,11/21/2021,10.18,41,512.97,0.03,7515.71,977,credit card,1617 Golden Leaf Alley,Brive-la-Gaillarde,B1,France,19117 CEDEX,20 Ludington Drive,Hengduo,,China,,9182404977,processing
+978,978,978,9/17/2022,20.23,77,174.86,0.86,2158.04,978,credit card,5286 Kensington Lane,Anau,,French Polynesia,,63186 Knutson Plaza,Saint-Chamond,B9,France,42404 CEDEX,6899498267,processing
+979,979,979,3/22/2021,3.8,31,19.58,0.34,9212.94,979,cash,597 Anzinger Court,Baing,,Indonesia,,3 Namekagon Road,Sierra Imataca,,Venezuela,,2795718630,shipped
+980,980,980,6/20/2021,6.05,60,819.32,0.72,9728.62,980,cash,1332 Katie Circle,Villeneuve-la-Garenne,A8,France,92398 CEDEX,74324 Dahle Trail,Buga,,Mongolia,,5738068732,processing
+981,981,981,6/8/2021,13.9,67,39.65,0.04,9288.35,981,cash,1651 Buhler Drive,Carson City,NV,United States,89706,8 Hazelcrest Point,Tibigan,,Philippines,7201,9528657526,processing
+982,982,982,2/24/2020,18.16,1,769.97,0.65,1849.39,982,cash,5982 Daystar Crossing,Catabola,,Angola,,811 Sloan Drive,Spånga,AB,Sweden,163 62,5352624708,delivered
+983,983,983,9/21/2021,9.08,63,966.53,0.44,2377.05,983,cash,6087 Donald Point,Noda,,Japan,999-3775,8537 Dryden Road,Bosilovo,,Macedonia,2431,1395517739,pending
+984,984,984,7/10/2022,22.12,75,318.06,0.52,2417.19,984,cash,7906 Corben Road,Pasirtujuhpuluh,,Indonesia,,1756 Warbler Avenue,Guohe,,China,,2694573839,pending
+985,985,985,3/4/2020,1.9,51,260.48,0.32,5867.5,985,credit card,35 Harbort Crossing,Extrema,,Brazil,37640-000,4 Buhler Place,Soufrière,,Saint Lucia,,1701422672,delivered
+986,986,986,11/22/2022,15.37,37,740.63,0.96,6982.59,986,debit card,4 Hovde Alley,Sinegor'ye,,Russia,404102,4306 Cardinal Parkway,Miguel Aleman,VER,Mexico,94107,4837458658,pending
+987,987,987,3/17/2022,21.38,81,210.28,0.38,8506.53,987,credit card,154 Veith Parkway,Louny,,Czech Republic,440 01,720 Forster Crossing,Port Loko,,Sierra Leone,,4951797321,processing
+988,988,988,6/11/2020,3.96,77,346.22,0.53,9834.09,988,cash,8 Oakridge Place,Picton,ON,Canada,S0H,0235 Northridge Center,Dayr Sharaf,,Palestinian Territory,,4551269132,processing
+989,989,989,11/6/2020,9.11,47,212.74,0.91,3552.86,989,cash,5 Hayes Junction,Tubajon,,Philippines,8426,8482 5th Junction,Baiyanghe,,China,,9986129305,delivered
+990,990,990,3/19/2020,22.02,43,561.23,0.06,2650.58,990,credit card,962 Riverside Trail,San Felipe Old,,Philippines,2806,187 Sullivan Place,Damnoen Saduak,,Thailand,70130,9340671286,processing
+991,991,991,6/6/2022,9.19,18,409.23,0.88,4498.14,991,credit card,36936 Beilfuss Point,Suyang,,China,,2 Sommers Alley,Sumaré,,Brazil,13170-000,3236046245,delivered
+992,992,992,3/21/2021,0.98,73,825.16,0.03,9449.58,992,cash,216 Sachtjen Street,Gahe,,China,,09 Waywood Terrace,Décines-Charpieu,B9,France,69154 CEDEX,1008049605,pending
+993,993,993,3/31/2020,3.96,87,210.39,0.57,496.46,993,credit card,52 Sutteridge Center,Mbanza Congo,,Angola,,80 Canary Drive,Xinchengpu,,China,,6583912390,delivered
+994,994,994,3/23/2020,23.42,55,743.49,0.36,9880.91,994,cash,1156 Lukken Junction,Blackfalds,AB,Canada,J5K,38 Gale Avenue,Castro,,Brazil,84160-000,5570173006,pending
+995,995,995,4/17/2022,6.68,28,461.72,0.5,7211.51,995,debit card,1 Fieldstone Trail,Chocos,,Peru,,8 Meadow Ridge Trail,Leiden,11,Netherlands,2309,6191730064,delivered
+996,996,996,9/18/2020,12.61,20,389.94,0.52,856.24,996,debit card,5444 Manitowish Pass,Benjamín Aceval,,Paraguay,,279 Roth Parkway,Alhambra,CA,United States,91841,1726715224,processing
+997,997,997,9/9/2022,7.67,63,140.85,0.92,8432.0,997,cash,9137 Di Loreto Hill,Taradale,,New Zealand,4183,137 Schiller Court,Rača,,Serbia,,8320433357,pending
+998,998,998,12/5/2022,15.63,74,947.87,0.01,7108.2,998,debit card,5419 American Point,Xintian,,China,,39 Waubesa Crossing,Pilar do Sul,,Brazil,18185-000,4858866003,processing
+999,999,999,1/3/2020,6.68,62,101.97,0.63,3082.77,999,debit card,7 Roxbury Center,Sanxi,,China,,4 Village Alley,Koton Karifi,,Nigeria,,6374203934,processing
+1000,1000,1000,9/26/2020,16.28,32,379.66,0.97,4114.06,1000,debit card,2504 Mallard Crossing,Xinyang,,China,,64 Mendota Street,Tungipāra,,Bangladesh,8121,7811621735,shipped
