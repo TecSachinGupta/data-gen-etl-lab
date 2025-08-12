@@ -1,0 +1,22 @@
+# Development environment configuration
+environment: dev
+
+spark:
+  app_name: "PySpark Dev App"
+  master: "local[*]"
+  driver_memory: "2g"
+  executor_memory: "2g"
+  
+data:
+  input_path: "./assets/data/sample"
+  output_path: "./output/dev"
+  
+logging:
+  level: "INFO"
+  file: "dev.log"
+  
+database:
+  host: "localhost"
+  port: 5432
+  database: "dev_db"
+  username: "dev_user"

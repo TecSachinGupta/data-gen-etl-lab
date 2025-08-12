@@ -1,0 +1,32 @@
+# Production environment configuration
+
+spark:
+  app_name: "ProdApp"
+  master: "yarn"
+  driver_memory: "8g"
+  executor_memory: "4g"
+  executor_instances: 10
+  shuffle_partitions: 400
+  dynamic_allocation: true
+
+data:
+  input_path: "s3a://prod-data-bucket/input/"
+  output_path: "s3a://prod-data-bucket/output/"
+  warehouse_path: "s3a://prod-data-bucket/warehouse/"
+
+database:
+  url: "jdbc:postgresql://prod-db.company.com:5432/prod_db"
+  user: "prod_user"
+  driver: "org.postgresql.Driver"
+
+aws:
+  region: "us-west-2"
+  s3_bucket: "prod-data-bucket"
+
+logging:
+  level: "INFO"
+  file_path: "s3a://prod-logs-bucket/spark-logs/"
+
+monitoring:
+  metrics_enabled: true
+  alerts_enabled: true

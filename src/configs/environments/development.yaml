@@ -1,0 +1,26 @@
+# Development environment configuration
+
+spark:
+  app_name: "DevApp"
+  master: "local[4]"
+  driver_memory: "4g"
+  executor_memory: "2g"
+  shuffle_partitions: 200
+
+data:
+  input_path: "assets/data/sample/"
+  output_path: "tmp/output/"
+  warehouse_path: "spark-warehouse/"
+
+database:
+  url: "jdbc:postgresql://localhost:5432/dev_db"
+  user: "dev_user"
+  driver: "org.postgresql.Driver"
+
+aws:
+  region: "us-east-1"
+  s3_bucket: "dev-data-bucket"
+
+logging:
+  level: "DEBUG"
+  file_path: "logs/"

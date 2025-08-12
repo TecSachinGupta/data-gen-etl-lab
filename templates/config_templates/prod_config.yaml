@@ -1,0 +1,23 @@
+# Production environment configuration
+environment: prod
+
+spark:
+  app_name: "PySpark Prod App"
+  master: "yarn"
+  driver_memory: "4g"
+  executor_memory: "8g"
+  executor_instances: 10
+  
+data:
+  input_path: "/data/prod/input"
+  output_path: "/data/prod/output"
+  
+logging:
+  level: "WARN"
+  file: "/logs/prod.log"
+  
+database:
+  host: "prod-db-cluster"
+  port: 5432
+  database: "prod_db"
+  username: "prod_user"
