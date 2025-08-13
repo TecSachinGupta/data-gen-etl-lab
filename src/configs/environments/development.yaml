@@ -24,3 +24,15 @@ aws:
 logging:
   level: "DEBUG"
   file_path: "logs/"
+
+fs:
+  azure:
+    account:
+      auth:
+        type: "OAuth"
+      oauth:
+      oauth2:
+        client:
+          id:
+          secret:
+          endpoint

@@ -35,6 +35,37 @@ class DataReader:
             
         return reader.load(path)
     
+    def read_tsv(self, path: str, header: bool = True, 
+                 infer_schema: bool = True, **options):
+        """
+        Read TSV file(s)
+        
+        Args:
+            path: Path to TSV file(s)
+            header: Whether TSV has header
+            infer_schema: Whether to infer schema automatically
+            **options: Additional options for TSV reader
+            
+        Returns:
+            DataFrame: Loaded data
+        """
+        reader = self.spark.read.format("csv")
+        reader = reader.option("header", header)
+        reader = reader.option("inferSchema", infer_schema)
+        
+        reader = reader.option("sep", "\t") \
+                        .option("multiLine", "true") \
+                        .option("quote", "\"") \
+                        .option("escape", "\"") \
+                        .option("ignoreTrailingWhiteSpace", True) \
+                        .option("compression", "gzip") \
+                        .option("numPartitions", 10)
+        
+        for key, value in options.items():
+            reader = reader.option(key, value)
+        
+        return reader.load(path)
+    
     def read_parquet(self, path: str) -> DataFrame:
         """
         Read Parquet file(s)

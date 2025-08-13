@@ -3,10 +3,19 @@ Common helper functions for PySpark applications
 """
 
 from pyspark.sql import DataFrame
-from pyspark.sql.functions import col, current_timestamp, lit
+from pyspark.sql.functions import col, count, current_timestamp, expr, lit, max, mean, min, stddev
 from typing import List, Union, Any
 import logging
 
+def get_pyspark_compatible_dict(data):
+    new_data = []
+    keys = list(data.keys())
+    for i in range(len(data[keys[0]])):
+        ndict = {}
+        for key in keys:
+            ndict[key] = data[key][i]
+        new_data.append(ndict)
+    return new_data
 
 def add_audit_columns(df: DataFrame, user: str = "system") -> DataFrame:
     """
@@ -112,3 +121,25 @@ def log_dataframe_info(df: DataFrame, name: str = "DataFrame") -> None:
     logging.info(f"  Rows: {df.count()}")
     logging.info(f"  Columns: {len(df.columns)}")
     logging.info(f"  Schema: {df.dtypes}")
+
+def groupby_apply_describe(df, groupby_col, stat_col):
+    """From a grouby df object provide the stats
+    of describe for each key in the groupby object.
+
+    Parameters
+    ----------
+    df : spark dataframe groupby object
+    col : column to compute statistics on
+    
+    """
+    output = df.groupby(groupby_col).agg(
+        count(stat_col).alias("count"),
+        mean(stat_col).alias("mean"),
+        stddev(stat_col).alias("std"),
+        min(stat_col).alias("min"),
+        expr(f"percentile({stat_col}, array(0.25))")[0].alias("%25"),
+        expr(f"percentile({stat_col}, array(0.5))")[0].alias("%50"),
+        expr(f"percentile({stat_col}, array(0.75))")[0].alias("%75"),
+        max(stat_col).alias("max"),
+    )
+    return output.orderBy(groupby_col)

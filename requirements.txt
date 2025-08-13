@@ -1,5 +1,5 @@
 # Core PySpark
-pyspark==3.5.0
+pyspark>=3.5.0
 
 # Data processing
 pandas==2.1.3
@@ -32,3 +32,6 @@ pre-commit==3.5.0
 python-dotenv==1.0.0
 pyyaml==6.0.1
 click==8.1.7
+
+# Misc
+tqdm

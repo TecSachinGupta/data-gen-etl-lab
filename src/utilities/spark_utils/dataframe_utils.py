@@ -54,6 +54,27 @@ def cache_df(df: DataFrame, storage_level: str = "MEMORY_AND_DISK") -> DataFrame
     level = storage_levels.get(storage_level, StorageLevel.MEMORY_AND_DISK)
     return df.persist(level)
 
+def csv_file_to_table(file_path, table_name, schema_str = None, has_headers = True):
+    df: DataFrame = None
+    if  schema_str is not None:
+        df = spark.read \
+                .option("header", True) \
+                .option("multiLine", "true") \
+                .option("quote", "\"") \
+                .option("escape", "\"") \
+                .option("ignoreTrailingWhiteSpace", True) \
+                .option("numPartitions", 10) \
+                .csv(file_path, schema = schema_str)
+    else:
+        df = spark.read \
+                .option("header", True) \
+                .option("multiLine", "true") \
+                .option("quote", "\"") \
+                .option("escape", "\"") \
+                .option("ignoreTrailingWhiteSpace", True) \
+                .option("numPartitions", 10) \
+                .csv(file_path)
+    df.write.format('delta').saveAsTable(table_name)
 
 # Example usage
 if __name__ == "__main__":
