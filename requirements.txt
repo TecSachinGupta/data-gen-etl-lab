@@ -1,5 +1,6 @@
 # Core PySpark
 pyspark>=3.5.0
+delta-spark>=3.5.0
 
 # Data processing
 pandas==2.1.3
